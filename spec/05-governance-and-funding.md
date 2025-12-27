@@ -1,8 +1,10 @@
-# The Funding Model
+# Governance and Funding
+
+## The Funding Model
 
 Traditional funding models are built for predictability and control in low-uncertainty environments. They assume that scope, effort, and value can be forecast accurately. In contrast, EmergentOS implements an adaptive funding model, inspired by **The Startup Way ’s metered funding** and **EDGE ’s incremental investment**, which is designed for high-uncertainty, fast-changing environments, where **learning, experimentation, and customer impact** are the true indicators of success.
 
-## Adaptive Funding Model: Investing in Outcomes, Not Outputs
+### Adaptive Funding Model: Investing in Outcomes, Not Outputs
 
 1. Strategic Framing via Lean Value Trees
 
@@ -50,7 +52,7 @@ Traditional funding models are built for predictability and control in low-uncer
 
 The EmergentOS funding model transforms investment from a static, upfront allocation into a dynamic, evidence-based process that evolves with learning. By tying funding to validated hypotheses, measurable outcomes, and flow-based governance, it enables organizations to invest in what works—while safely stopping what doesn’t. This approach empowers teams, accelerates innovation, and ensures that every pound spent is traceable to strategic impact. In doing so, EmergentOS turns funding into a **strategic lever for adaptability, not a constraint on it**.
 
-## Budgeting Guidance for Adaptive Funding in EmergentOS
+### Budgeting Guidance for Adaptive Funding in EmergentOS
 
 This section provides practical guidance for finance and portfolio teams transitioning from traditional budgeting approaches to the **adaptive, outcome-driven funding model** used in EmergentOS. It outlines how to align financial planning with strategic agility, validated learning, and continuous value delivery.
 
