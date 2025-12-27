@@ -31,6 +31,8 @@ Engineering excellence is embedded through **Continuous Integration (CI)** and *
 
 By running on a quarterly cadence, EOS balances strategic planning with tactical agility—allowing teams to commit to meaningful goals while adapting to change.
 
+![eos-cycle](../images/eos-cycle.png)
+
 ## Beyond Engineering: Enterprise-Wide Applicability of EmergentOS
 
 Although EmergentOS was designed to optimize product delivery, its modular architecture, outcome-driven planning, and flow-based governance make it highly applicable across the broader enterprise. Functions such as **Finance, HR, Operations, Transformation, Risk, and Strategy** can benefit from its principles and practices—especially in environments where adaptability, learning, and measurable impact are essential.  
