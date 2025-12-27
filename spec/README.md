@@ -14,12 +14,14 @@ It is a modular, composable operating model designed to evolve through use, feed
 Modern product development is inherently uncertain. Value does not flow predictably from plans, roadmaps, or pipelines—it **emerges through learning**.
 
 Many organizations still rely on:
+
 - deterministic planning in complex domains
 - output-based success measures
 - centralized control disguised as alignment
 - flow optimization without feedback or learning
 
 EmergentOS exists to offer a coherent alternative:
+
 - outcomes over outputs  
 - learning over certainty  
 - empowerment over control  
