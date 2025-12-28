@@ -85,7 +85,7 @@ If these assumptions are rejected, OKRs will degrade into theater.
 EmergentOS explicitly supports **two different modes of intent**, each with different rules and governance behaviours:
 
 1. **Aspirational OKRs** — the default mode  
-2. **High-Value Commitments** — the exceptional mode  
+2. **High-Integrity Commitments** — the exceptional mode  
 
 Conflating these modes is the most common cause of OKR failure.
 
@@ -136,9 +136,9 @@ Improve first-time user success during onboarding.
 
 ---
 
-## High-Value Commitments (Exceptional Mode)
+## High-Integrity Commitments (Exceptional Mode)
 
-High-Value Commitments are used only when the organization must **guarantee an outcome** due to **external, non-negotiable constraints**.
+High-Integrity Commitments are used only when the organization must **guarantee an outcome** due to **external, non-negotiable constraints**.
 
 Examples include:
 
@@ -153,7 +153,7 @@ These situations reduce adaptability — but they do **not eliminate uncertainty
 
 ## High-Integrity Commitments: A Critical Constraint
 
-In EmergentOS, **teams do not make High-Value Commitments without first performing sufficient learning** to justify confidence.
+In EmergentOS, **teams do not make High-Integrity Commitments without first performing sufficient learning** to justify confidence.
 
 Even when regulations require delivery:
 
@@ -167,7 +167,7 @@ A commitment made without evidence is **not a commitment** — it is a gamble.
 
 ### High-Integrity Commitments Defined
 
-A **High-Integrity Commitment** is a High-Value Commitment that is:
+A **High-Integrity Commitment** is a High-Integrity Commitment that is:
 
 - preceded by discovery or experimentation
 - grounded in feasibility and viability evidence
@@ -213,7 +213,7 @@ This commitment:
 
 ---
 
-## Guardrails for High-Value and High-Integrity Commitments
+## Guardrails for High-Integrity Commitments
 
 To prevent misuse, EmergentOS requires that commitments:
 
