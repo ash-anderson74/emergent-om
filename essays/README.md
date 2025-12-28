@@ -12,6 +12,7 @@ EmergentOS is designed as an operating system for adaptability in complex enviro
 Complex systems cannot be fully understood or changed through structure and rules alone.
 
 Essays provide space to:
+
 - examine why certain problems repeat despite good intent
 - name illusions, habits, and mental models that hinder learning
 - explain the reasoning behind EOS design choices
@@ -32,6 +33,7 @@ Essays are intentionally different from:
   which describe how EOS operates in practice through patterns and examples
 
 Essays:
+
 - do not define EOS
 - do not introduce requirements
 - do not mandate practices
@@ -70,9 +72,8 @@ Readers are encouraged to disagree with essays, discuss them openly, and use the
 ## In Summary
 
 If the spec defines what must hold true,  
-and the field guide explains how EOS works in practice,  
-
-the essays explore **why the system resists certain solutions** and  
+and the field guide explains how EOS works in practice, the essays explore  
+**why the system resists certain solutions** and  
 **why adaptation cannot be forced**.
 
 They are part of EmergentOS not because they provide answers,  

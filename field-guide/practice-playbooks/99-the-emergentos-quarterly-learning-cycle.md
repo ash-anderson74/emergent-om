@@ -41,6 +41,8 @@ This is referred to in EOS as **Slowification**.
 > * leadership engages with evidence over urgency.
 >
 > While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven > investment, and continuous learning loops.
+>
+> [References](../../references/literature.md)
 
 ***
 

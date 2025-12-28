@@ -18,6 +18,11 @@ Patterns exist to:
 
 They describe **what tends to work**, not what must be followed.
 
+> These patterns are used by EmergentOS but are not specific to it.
+> They can be applied independently.  
+>
+> How EmergentOS uses patterns → [Field Guide](../field-guide/README.md)  
+
 ---
 
 ## How Patterns Relate to EmergentOS

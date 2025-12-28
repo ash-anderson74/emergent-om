@@ -101,6 +101,16 @@ Expect incomplete sections, evolving language, and active refinement.
 
 ---
 
+## Related Material
+
+- [Field Guide](../field-guide/README.md) → explains how EOS works in practice
+- [Practice Playbooks](../field-guide/practice-playbooks/README.md) → concrete, EOS-aligned guidance
+- [Patterns & Anti-Patterns](../patterns/README.md) → reusable system dynamics
+- [Essays](../essays/README.md) → rationale and guardrails
+- [References](../references/README.md) → source literature
+
+---
+
 ## License
 
 To be defined.

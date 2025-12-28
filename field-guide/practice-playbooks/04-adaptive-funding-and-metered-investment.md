@@ -30,9 +30,8 @@ Funding is treated as a **dynamic decision**, not a one-time allocation.
 
 ***
 
-## Lineage and Influences
-
-> **Lineage note**
+>**Lineage note**  
+>
 >
 > The concepts of metered funding and learning-driven investment draw from:
 >
@@ -45,6 +44,8 @@ Funding is treated as a **dynamic decision**, not a one-time allocation.
 >
 > EmergentOS synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
 > EOS explicitly rejects using funding as a delivery contract or performance control.
+>
+> [References](../../references/literature.md)
 
 ***
 

@@ -136,13 +136,14 @@ EmergentOS exists to make these failure modes explicit — and preventable.
 
 ---
 
-## Lineage Note
-
-This distinction aligns with the Product Operating Model articulated by Marty Cagan, particularly in *Empowered*, which emphasizes aspirational outcome goals for empowered teams while acknowledging the presence of rare, non-negotiable obligations in modern enterprises.
-
-EmergentOS extends this model by introducing an explicit constraint:
-
+> **Lineage note**  
+>
+> This distinction aligns with the Product Operating Model articulated by Marty Cagan, particularly in *Empowered*, which emphasizes aspirational outcome goals for empowered teams while acknowledging the presence of rare, non-negotiable obligations in modern enterprises.
+>
+> EmergentOS extends this model by introducing an explicit constraint:
+>
 > **Commitment without prior learning is not permitted.**
-
-This prevents aspiration from being unintentionally weaponized as obligation,  
-and prevents obligation from bypassing learning.
+>
+> This prevents aspiration from being unintentionally weaponized as obligation, and prevents obligation from bypassing learning.
+>
+> [References](../../references/literature.md)

@@ -29,7 +29,7 @@ EOS uses OKRs primarily to:
 
 ---
 
-> **Lineage note**
+>**Lineage note**
 >
 > The “Who does what by how much” framing originates from *Who Does What by How Much* by Jeff Gothelf and Josh Seiden, 2024.  
 > EmergentOS adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
@@ -41,6 +41,8 @@ EOS uses OKRs primarily to:
 > EmergentOS systematizes this distinction and adds an explicit requirement:  
 >
 > **commitments must be earned through learning, not declared upfront.**
+>
+> [References](../../references/literature.md)
 
 ---
 ---

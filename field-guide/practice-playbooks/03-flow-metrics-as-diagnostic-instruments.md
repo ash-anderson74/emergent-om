@@ -32,6 +32,8 @@ When treated as diagnostics, they accelerate learning.
 >
 > The flow metrics referenced here (Flow Time, Flow Efficiency, Flow Load, Flow Distribution, and Flow Predictability) are drawn from Mik Kersten’s work in *Project to Product*.  
 > EmergentOS adopts these metrics as **diagnostic signals**, not performance targets, and explicitly avoids their use as deterministic controls.
+>
+> [References](../../references/literature.md)
 
 ---
 
