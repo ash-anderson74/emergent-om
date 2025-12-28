@@ -34,9 +34,7 @@ EOS uses OKRs primarily to:
 > The “Who does what by how much” framing originates from *Who Does What by How Much* by Jeff Gothelf and Josh Seiden, 2024.  
 > EmergentOS adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
 >
->
-> The distinction between **aspirational outcome goals** and **commitments** is drawn from Marty Cagan’s Product Operating Model, as described in works such as  
-> *Inspired*, *Empowered*, and *Transformed*.
+> The distinction between **aspirational outcome goals** and **commitments** is drawn from Marty Cagan’s Product Operating Model, as described in works such as *Inspired*, *Empowered*, and *Transformed*.
 >
 > Cagan emphasizes that empowered teams should operate primarily with outcome-focused aspirations, while acknowledging that modern enterprises occasionally require commitments due to regulatory, legal, or safety constraints.
 >
