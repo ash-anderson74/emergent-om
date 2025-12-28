@@ -1,4 +1,4 @@
-# Practice Playbook: The EmergentOS Quarterly Learning Cycle
+# Playbook: Quarterly Learning Cycle
 
 ## Status
 
@@ -42,7 +42,7 @@ This is referred to in EOS as **Slowification**.
 >
 > While the term and emphasis are drawn from _Wiring the Winning Organization_, EOS places Slowification within a broader context of value stream awareness, hypothesis-driven > investment, and continuous learning loops.
 >
-> [References](../../references/literature.md)
+> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 
 ***
 
