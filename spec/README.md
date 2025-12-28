@@ -96,7 +96,7 @@ Artificial intelligence tools were used as a conversational and editorial aid to
 
 ## Status
 
-**Current status:** v0.1 (early public specification)\
+**Current status:** v1.0 (first public specification)\
 Expect incomplete sections, evolving language, and active refinement.
 
 ***
