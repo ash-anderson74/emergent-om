@@ -19,11 +19,9 @@ EmergentOS exists to organize those recurring patterns into a **coherent operati
 >
 > Concrete examples and application guidance appear later in the Field Guide and in the Practice Playbooks.
 >
-> The Field Guide explains how EmergentOS works.
-> It is illustrative, not prescriptive.
-> The specification remains authoritative.
+> The Field Guide explains how EmergentOS works. It is illustrative, not prescriptive. The specification remains authoritative.
 
----
+***
 
 ## The Problem with Isolated Practices
 
@@ -50,7 +48,7 @@ The problem is not the practices themselves.
 
 The problem is that **practices are adopted without a shared operating logic**.
 
----
+***
 
 ## Repeated Patterns Across the Literature
 
@@ -73,7 +71,7 @@ These themes appear independently in different disciplines, using different lang
 
 EmergentOS treats these not as trends, but as **system-level facts**.
 
----
+***
 
 ## Why Practice-First Adoption Fails at Scale
 
@@ -90,7 +88,7 @@ The practice still exists, but the **conditions that made it effective do not**.
 
 EmergentOS addresses this by making the conditions explicit.
 
----
+***
 
 ## EmergentOS as a Pattern Integrator
 
@@ -108,7 +106,7 @@ This is why EmergentOS feels familiar to experienced practitioners:
 * it does not introduce novel ideas
 * it connects existing ones more deliberately
 
----
+***
 
 ## Practices as Contextual Expressions
 
@@ -133,7 +131,7 @@ What matters is whether the practice:
 * preserves system flow
 * reinforces strategic intent
 
----
+***
 
 ## How to Read the Field Guide
 
@@ -154,7 +152,7 @@ Use this guide to:
 * adapt ideas thoughtfully to your context
 * challenge practices that feel performative or brittle
 
----
+***
 
 ## What Comes Next
 
@@ -168,7 +166,7 @@ The chapters that follow examine recurring pattern families, including:
 
 Each chapter connects concrete practices back to the principles and constraints defined by EmergentOS—without turning them into doctrine.
 
----
+***
 
 ## Closing Thought
 
@@ -181,9 +179,9 @@ The goal is not adoption.
 
 The goal is coherence.
 
----
+***
 
-See Specification → [README](../spec/README.md)  
-See Specification → [Introduction](../spec/00-introduction.md)  
-See Specification → [Core Domains](../spec/03-core-domains.md)  
-See Specification → [Operating Cadence](../spec/04-operating-cadence.md)  
+See Specification → [README](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/)\
+See Specification → [Introduction](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/00-introduction)\
+See Specification → [Core Domains](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/03-core-domains)\
+See Specification → [Operating Cadence](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/04-operating-cadence)
