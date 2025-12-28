@@ -20,6 +20,9 @@ EmergentOS exists to organize those recurring patterns into a **coherent operati
 > Concrete examples and application guidance appear later in the Field Guide and in the Practice Playbooks.
 >
 > The Field Guide explains how EmergentOS works. It is illustrative, not prescriptive. The specification remains authoritative.
+>
+> See Specification → [README](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/)\
+> See Specification → [Introduction](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/00-introduction)<br>
 
 ***
 
@@ -178,10 +181,3 @@ and to stop applying it in ways that undermine those conditions.
 The goal is not adoption.
 
 The goal is coherence.
-
-***
-
-See Specification → [README](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/)\
-See Specification → [Introduction](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/00-introduction)\
-See Specification → [Core Domains](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/03-core-domains)\
-See Specification → [Operating Cadence](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/04-operating-cadence)
