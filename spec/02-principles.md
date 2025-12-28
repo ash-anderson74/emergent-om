@@ -1,61 +1,135 @@
 # Core Principles
 
-EmergentOS is built upon **eight core principles** (and one supporting principle):
+EmergentOS is governed by a small set of **core principles** that define how the system must behave to remain adaptive in complex, uncertain environments.
 
-1. **Outcome-Driven Planning**
+These principles are **practice-agnostic**.  
+They remain valid regardless of tooling, methodology, or organizational structure.
 
-- Delivery is aligned to **customer outcomes**, not feature roadmaps.
-- **Lean Value Trees (LVTs)** provide the strategic map, breaking down themes into bets and initiatives.
-- Teams use **OKRs** to focus on measurable impact and strategic alignment.
-- Planning is quarterly, adaptive, and based on **validated learning—not estimates**.
+They describe **what must be true**, not **how it must be achieved**.
 
-2. **Hypothesis-Driven Strategy**
+---
 
-- Every initiative starts with a **clear hypothesis** and **expected outcome**.
-- Hypotheses are validated through **discovery and experimentation** before commitment.
-- This approach reduces waste and ensures adaptability.
+## 1. Outcomes Over Outputs
 
-3. **Team-Centric Autonomy**
+EmergentOS prioritizes **customer and business outcomes** over activity, scope completion, or delivery volume.
 
-- Teams are stream-aligned, cross-functional, and empowered to own outcomes.
-- Decision-making is decentralized, supported by **Team Topologies** and clear interaction modes.
-- Autonomy is balanced with strategic clarity through shared rituals and coaching.
+Progress is assessed by observable change in the system or market, not by the amount of work performed. Outputs are treated as potential means, not measures of success.
 
-4. **Flow-Based Delivery**
+---
 
-- Work is visualized and managed through **Kanban**, with WIP limits and flow metrics.
-- Delivery is iterative, emphasizing thin slices, experimentation, and telemetry.
-- **Portfolio Kanban** enables leaders to coach through flow—not control through timelines.
+## 2. Hypothesis Over Assumption
 
-5. **Continuous Improvement**
+All strategic and delivery decisions are treated as **testable hypotheses** rather than fixed assumptions.
 
-- Teams run **Lean Kata cycles** and use **Flow Engineering** to identify and address systemic blockers.
-- Improvement work is tracked as OKRs and reviewed quarterly alongside delivery goals.
-- Learning is embedded into the rhythm of delivery—not treated as a separate activity.
+Commitments are made progressively, informed by learning and evidence gathered through action. Unvalidated beliefs are made explicit and challenged early.
 
-6. **Engineering Excellence**
+---
 
-- Practices like **CI/CD**, trunk-based development, and infrastructure-as-code enable fast, safe delivery.
-- **DORA metrics** provide empirical insight into engineering health and guide coaching.
-- Technical quality is maintained through telemetry, automated testing, and safe deployment strategies.
+## 3. Learning Over Certainty
 
-7. **Empirical Governance**
+EmergentOS assumes that uncertainty is intrinsic to product development.
 
-- Governance is **lightweight, developmental**, and **data-driven**.
-- Leaders guide teams using **flow metrics, DORA trends, and validated outcomes—not timelines or estimates**.
-- Coaching-led governance includes OKR reviews, strategy refreshes, and coaching playbooks.
+Learning is treated as the primary mechanism for reducing risk, guiding investment, and improving outcomes. Early certainty is considered a liability in complex domains unless justified by evidence.
 
-8. **Sustainable Pace and Resilience**
+---
 
-- The principle of **Slowification** ensures teams invest in planning, learning, and self-care.
-- Delivery is paced to avoid burnout and support long-term performance.
-- Teams are encouraged to pause, reflect, and improve continuously.
+## 4. Empowerment Over Centralized Control
 
-9. **Methodology Flexibility**
+Decision-making authority is decentralized as close to the work as possible.
 
-   Within the quarterly cadence of EmergentOS, teams are fully empowered to choose and apply any delivery methodology—Agile or otherwise—that best suits their context.
+Teams are trusted to own outcomes, make trade-offs, and adapt their approach within clear strategic boundaries. Control is exercised through intent, transparency, and feedback rather than instruction.
 
-   The guiding principle is **adaptability**:
+---
 
-- If learning reveals that a chosen method impedes flow or limits outcomes, teams should evolve or replace it.
-- EmergentOS provides scaffolding for this evolution through **empirical governance**, **coaching-led support**, and **modular practices**.
+## 5. Flow Over Utilization and Schedules
+
+EmergentOS optimizes for the **smooth flow of value and learning** through the system.
+
+Efficiency is understood in terms of feedback speed and constraint reduction, not resource utilization or adherence to schedules. Local optimization that degrades system flow is treated as a risk.
+
+---
+
+## 6. Improvement Over Optimization
+
+The system is expected to **improve continuously**, not converge on a fixed optimal state.
+
+EmergentOS values deliberate reflection, experimentation, and constraint removal over short-term efficiency gains. Improvement work is considered essential, not optional.
+
+---
+
+## 7. Evidence Over Opinion
+
+Decisions at every level are informed by **signals, trends, and observed outcomes** rather than authority, intuition, or status.
+
+Evidence is interpreted collaboratively and contextually. Metrics are used to inform learning, not to enforce compliance or assign blame.
+
+---
+
+## 8. Sustainability Over Short-Term Pace
+
+EmergentOS is designed for long-term effectiveness.
+
+Work is paced to maintain resilience, quality, and human sustainability. The system deliberately creates space for reflection, learning, and recovery, recognizing that sustained performance requires care for both people and infrastructure.
+
+---
+
+# System Constraints and Invariants
+
+In addition to its principles, EmergentOS defines a small number of **explicit system constraints**.
+
+These constraints protect the integrity of the operating system and prevent it from collapsing into prescriptive frameworks or deterministic control models.
+
+---
+
+## A. Methodological Non-Prescription
+
+EmergentOS does **not** mandate delivery methodologies, frameworks, or ceremonies.
+
+Teams may employ any approach—Agile or otherwise—that suits their context, provided it aligns with the core principles of learning, outcomes, and flow.
+
+If a chosen method impedes learning or constrains outcomes, it is expected to evolve or be replaced.
+
+---
+
+## B. Incremental and Reversible Commitment
+
+Commitments are intentionally **incremental and reversible** wherever uncertainty exists.
+
+Large, irreversible decisions without sufficient learning are treated as sources of systemic risk.
+
+---
+
+## C. Governance as Sensing, Not Control
+
+Governance operates as a sensing and adaptation mechanism.
+
+It exists to observe system behavior, detect constraints, and guide adjustment—not to enforce plans, approve scope, or mandate delivery detail.
+
+---
+
+## D. Practices Are Contextual, Not Canonical
+
+Practices commonly associated with EmergentOS—such as outcome frameworks, flow visualization techniques, continuous delivery, or improvement cycles—are **illustrative**, not mandatory.
+
+They represent patterns that have repeatedly proven effective under similar constraints, but are not required for conformance.
+
+---
+
+## E. Structural Coherence Over Uniformity
+
+EmergentOS favors coherence through shared principles over uniformity through standardization.
+
+Local adaptation is encouraged, provided system-level intent, learning, and accountability remain intact.
+
+---
+
+## Summary
+
+EmergentOS is defined not by the practices it prescribes, but by the **behaviours it permits and the violations it prevents**.
+
+The core principles establish how the system must think and learn.  
+The constraints ensure it remains adaptable, humane, and evidence-driven.
+
+Practices may change.  
+The principles endure.
+

@@ -1,24 +1,116 @@
 # Values
 
-1. **Outcome Over Output**  
-We prioritize measurable impact over activity. Success is defined by the change we create—not the volume we deliver.
-2. **Empowered Autonomy**  
-Teams are trusted to own their outcomes, make decisions, and learn through experimentation. Leadership enables, not controls.
-3. **Evidence-Driven Learning**  
-We make decisions based on data, telemetry, and validated discovery—not assumptions or estimates. Learning is continuous and embedded.
-4. **Flow and Focus**  
-We optimize flow, reduce friction, and visualize work to stay focused on what matters. Bottlenecks are surfaced and addressed collaboratively.
-5. **Sustainable Pace**  
-We deliver at a resilient rhythm that supports long-term performance, wellbeing, and innovation. Slowification is a strategic investment.
-6. **Strategic Alignment**  
-Every initiative is connected to a clear strategic outcome. Lean Value Trees visualize the hierarchy of strategic themes, bets, and initiatives, while OKRs guide priorities and measure impact. Together, they ensure work is traceable to business value, adaptable as new insights emerge, and focused on solving the right problems—not just delivering outputs.
-7. **Coaching Culture**  
-Leaders act as coaches, fostering growth, clarity, and capability. Governance is developmental, not directive.
-8. **Modular Adaptability**  
-We evolve continuously. Practices are composable, scalable, and tailored to team maturity and context.
-9. **Customer-Centricity**  
-We solve real problems for real people. Customer outcomes are the north star of our planning, delivery, and improvement.
-10. **Transparency and Trust**  
-Work is visible, progress is shared, and decisions are made openly. Trust is built through clarity and accountability.
-11. **Hypothesis-Driven Strategy**  
-We treat strategy as a series of bets, not certainties. Every initiative starts with a clear hypothesis and expected outcome, validated through discovery and learning before commitment. This ensures adaptability and reduces waste.
+EmergentOS is grounded not only in structural principles and system constraints, but also in a set of **shared values**.
+
+Values express **how people are expected to behave and make judgments** when the principles leave room for interpretation. They guide day-to-day choices, trade-offs, and interactions in ways that cannot be fully specified by a system design alone.
+
+---
+
+## How Values Relate to Principles
+
+The relationship between principles and values in EmergentOS is intentional and distinct:
+
+- **Principles** define what must be true for the system to remain adaptive.
+- **Values** guide how people act when applying those principles in real situations.
+- **Practices and patterns** are contextual expressions of both, shaped by environment and maturity.
+
+Values do not override principles, and principles are not sufficient without values.  
+Together, they ensure that EmergentOS is not only coherent, but livable.
+
+---
+
+## EmergentOS Values
+
+### 1. Outcome Over Output
+
+We prioritize measurable impact over activity.
+
+Success is defined by the change we create for customers and the organization—not by the volume of work delivered or commitments fulfilled.
+
+---
+
+### 2. Empowered Autonomy
+
+Teams are trusted to own outcomes, make decisions, and learn through action.
+
+Leadership exists to enable clarity, safety, and capability—not to centralize control.
+
+---
+
+### 3. Evidence-Driven Learning
+
+We make decisions informed by evidence, telemetry, and validated learning.
+
+Assumptions are made explicit and tested. Estimates and opinions are treated as inputs, not authority. Learning is continuous and embedded in how work is planned, executed, and reviewed.
+
+---
+
+### 4. Flow and Focus
+
+We optimize for the smooth flow of value and learning through the system.
+
+Work is made visible, bottlenecks are surfaced early, and attention is focused on reducing friction rather than maximizing activity.
+
+---
+
+### 5. Sustainable Pace
+
+We operate at a rhythm that supports long-term effectiveness.
+
+Time for reflection, learning, and recovery is treated as a strategic investment, recognizing that resilience and innovation depend on human and system sustainability.
+
+---
+
+### 6. Strategic Alignment
+
+All work is meaningfully connected to clear strategic intent and intended outcomes.
+
+Initiatives remain traceable to value and are continuously reassessed as learning emerges, ensuring focus on solving the right problems rather than executing predefined scope.
+
+---
+
+### 7. Coaching Culture
+
+Leaders act as coaches who foster growth, clarity, and capability.
+
+Governance and leadership interactions are developmental in nature, supporting learning and alignment rather than enforcing compliance.
+
+---
+
+### 8. Modular Adaptability
+
+We expect change and design for it.
+
+Practices are treated as modular and composable, evolving with team context, maturity, and learning. No single method is treated as permanent or universal.
+
+---
+
+### 9. Customer-Centricity
+
+We focus on solving meaningful problems for real people.
+
+Customer outcomes serve as the primary reference point for planning, delivery, and improvement decisions.
+
+---
+
+### 10. Transparency and Trust
+
+Work, decisions, and progress are made visible by default.
+
+Trust is built through clarity, openness, and accountability, enabling decentralized decision-making and collective learning.
+
+---
+
+### 11. Hypothesis-Driven Strategy
+
+We treat strategy as a series of deliberate bets rather than fixed certainties.
+
+Each initiative begins with a clear hypothesis about the outcome it is expected to produce, and evolves based on evidence gathered through discovery and learning.
+
+---
+
+## Closing Note
+
+Values shape culture through repeated behavior.
+
+In EmergentOS, values reinforce the principles by guiding how people respond to uncertainty, tension, and incomplete information. They ensure that adaptability is expressed not only through structure, but through everyday choices.
