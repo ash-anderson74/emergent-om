@@ -1,6 +1,6 @@
 # Table of contents
 
-* [From Patterns to an Operating System](README.md)
+* [How EmergentOS works in practice](README.md)
 * [Outcome-Oriented Strategy: From Intent to Evidence](01-outcome-oriented-strategy-from-intent-to-evidence.md)
 * [Funding and Investment as a Learning System](02-funding-and-investment-as-a-learning-system.md)
 * [Flow as a Diagnostic, Not a Target](03-flow-as-a-diagnostic-not-a-target.md)
