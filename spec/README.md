@@ -106,7 +106,7 @@ Expect incomplete sections, evolving language, and active refinement.
 * [Field Guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/) → explains how EOS works in practice
 * [Practice Playbooks](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/practice-playbooks) → concrete, EOS-aligned guidance
 * [Patterns & Anti-Patterns](https://app.gitbook.com/s/yYdXGH2DtxmsDRcRRrNr/) → reusable system dynamics
-* Essays → rationale and guardrails
+* [Essays](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/) → rationale and guardrails
 * [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/) → source literature
 
 ***
