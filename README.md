@@ -1,7 +1,7 @@
 # EmergentOS
 
 > **Status:** EmergentOS v1 — Frozen Specification  
-> EmergentOS is stable. Evolution is governed by the policy defined in `/spec/EVOLUTION.md`.
+> EmergentOS is stable. Evolution is governed by the policy defined in [EVOLUTION.md](./spec/EVOLUTION.md).
 
 EmergentOS (EOS) is a **non-prescriptive operating system for adaptability** in complex socio-technical environments.
 
@@ -55,8 +55,8 @@ Different readers should start in different places.
 
 Start here:
 
-- `/spec/README.md`  
-- `/spec/00-introduction.md`
+- [/spec/README.md](./spec/README.md)
+- [/spec/00-introduction.md](./spec/00-introduction.md)
 
 The specification defines the **constraints, principles, and boundaries** of EmergentOS.
 
@@ -66,7 +66,7 @@ The specification defines the **constraints, principles, and boundaries** of Eme
 
 Start here:
 
-- `/field-guide/00-from-patterns-to-operating-system.md`
+- [/field-guide/00-from-patterns-to-operating-system.md](/field-guide/00-from-patterns-to-operating-system.md)
 
 The Field Guide explains the **operating logic** behind EmergentOS and how recurring practices fit together—without prescribing them.
 
@@ -76,7 +76,7 @@ The Field Guide explains the **operating logic** behind EmergentOS and how recur
 
 Explore:
 
-- `/field-guide/practice-playbooks`
+- [/field-guide/practice-playbooks](./field-guide/practice-playbooks)
 
 These playbooks provide **EOS-aligned guidance** for commonly used practices (e.g. OKRs, discovery, flow metrics, funding), including examples and anti-patterns.
 
@@ -86,8 +86,8 @@ These playbooks provide **EOS-aligned guidance** for commonly used practices (e.
 
 Browse:
 
-- `/patterns`
-- `/patterns/anti-patterns`
+- [/patterns](./patterns)
+- [/patterns/anti-patterns](./patterns/anti-patterns)
 
 Patterns describe **recurring system conditions**.  
 Anti-patterns describe **reliable failure modes**.
@@ -100,7 +100,7 @@ Both are portable beyond EmergentOS.
 
 See:
 
-- `/references`
+- [/references](./references)
 
 EmergentOS is a synthesis, not an invention.
 
@@ -110,7 +110,7 @@ EmergentOS is a synthesis, not an invention.
 
 Read:
 
-- `/essays`
+- [/essays](./essays/)
 
 Essays explain why EmergentOS deliberately avoids certain familiar levers (e.g. alignment theatre, prescriptive team models, maturity stages).
 
@@ -124,7 +124,7 @@ EmergentOS v1 is **frozen**.
 - Changes require evidence and discipline
 - Accumulation without coherence is explicitly resisted
 
-See `/spec/EVOLUTION.md` for details.
+See [EVOLUTION.md](./spec/EVOLUTION.md) for details.
 
 ---
 
