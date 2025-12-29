@@ -130,4 +130,35 @@ See [EVOLUTION.md](./spec/EVOLUTION.md) for details.
 
 ## Contribution Philosophy
 
-Contributions a
+Contributions are welcome when they:
+
+- strengthen coherence
+- clarify intent
+- surface real failure modes
+- respect non-prescriptiveness
+- preserve learning and adaptability
+
+Contributions that aim to:
+
+- add practices
+- enforce compliance
+- standardize behavior
+- introduce maturity levels
+
+will be rejected by design.
+
+---
+
+## License
+
+License details are defined in the repository.
+
+---
+
+## Closing Note
+
+EmergentOS does not aim to be complete.
+
+It aims to be **coherent**.
+
+If you find yourself wishing it specified *what to do next*, that tension is intentional. EmergentOS exists to help organizations reason more clearly under uncertainty—not to remove the need for thinking.
