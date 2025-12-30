@@ -13,8 +13,8 @@ These ideas surface in Lean, DevOps, product discovery, systems thinking, and mo
 
 EmergentOS exists to organize those recurring patterns into a **coherent operating model**, without freezing them into dogma.
 
-{% hint style="info" %}  
-**How to read this guide**
+{% hint style="info" %}
+### How to read this guide
 
 This page is intentionally conceptual. It explains the operating logic behind EmergentOS.
 
@@ -22,7 +22,7 @@ Concrete examples and application guidance appear later in the Field Guide and i
 
 The Field Guide explains how EmergentOS works. It is illustrative, not prescriptive. The specification remains authoritative.
 
-See Specification → [README](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/)\
+See Specification → [README](https://app.gitbook.com/o/GRX8PFtV7EU1EpAUbqjk/s/P7hVMPA4YzkJRxvKPBHZ/)\
 See Specification → [Introduction](https://app.gitbook.com/s/P7hVMPA4YzkJRxvKPBHZ/00-introduction)
 {% endhint %}
 
