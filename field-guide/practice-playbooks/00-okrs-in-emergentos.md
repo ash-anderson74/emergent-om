@@ -29,22 +29,22 @@ EOS uses OKRs primarily to:
 
 ***
 
-> **Lineage note**
->
-> The “Who does what by how much” framing originates from _Who Does What by How Much_ by Jeff Gothelf and Josh Seiden, 2024.\
-> EmergentOS adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
->
-> The distinction between **aspirational outcome goals** and **commitments** is drawn from Marty Cagan’s Product Operating Model, as described in works such as _Inspired_, _Empowered_, and _Transformed_.
->
-> Cagan emphasizes that empowered teams should operate primarily with outcome-focused aspirations, while acknowledging that modern enterprises occasionally require commitments due to regulatory, legal, or safety constraints.
->
-> EmergentOS systematizes this distinction and adds an explicit requirement:
->
-> **commitments must be earned through learning, not declared upfront.**
->
-> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% hint style="info" %}
+**Lineage note**
 
-***
+The “Who does what by how much” framing originates from _Who Does What by How Much_ by Jeff Gothelf and Josh Seiden, 2024.\
+EmergentOS adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
+
+The distinction between **aspirational outcome goals** and **commitments** is drawn from Marty Cagan’s Product Operating Model, as described in works such as _Inspired_, _Empowered_, and _Transformed_.
+
+Cagan emphasizes that empowered teams should operate primarily with outcome-focused aspirations, while acknowledging that modern enterprises occasionally require commitments due to regulatory, legal, or safety constraints.
+
+EmergentOS systematizes this distinction and adds an explicit requirement:
+
+**commitments must be earned through learning, not declared upfront.**
+
+[References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% endhint %}
 
 ***
 

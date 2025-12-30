@@ -30,21 +30,23 @@ Funding is treated as a **dynamic decision**, not a one-time allocation.
 
 ***
 
-> **Lineage note**
->
-> The concepts of metered funding and learning-driven investment draw from:
->
-> * _Lean Startup_ — Eric Ries\
->   (metered funding, innovation accounting, validated learning)
-> * _EDGE_ — Highsmith et al.\
->   (incremental investment, value-based governance)
-> * _SOONER SAFER HAPPIER_ — Jonathan Smart\
->   (BVSSH model, outcome-oriented funding, investment horizons)
->
-> EmergentOS synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
-> EOS explicitly rejects using funding as a delivery contract or performance control.
->
-> [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% hint style="info" %}
+**Lineage note**
+
+The concepts of metered funding and learning-driven investment draw from:
+
+* _Lean Startup_ — Eric Ries\
+  (metered funding, innovation accounting, validated learning)
+* _EDGE_ — Highsmith et al.\
+  (incremental investment, value-based governance)
+* _SOONER SAFER HAPPIER_ — Jonathan Smart\
+  (BVSSH model, outcome-oriented funding, investment horizons)
+
+EmergentOS synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
+EOS explicitly rejects using funding as a delivery contract or performance control.
+
+[References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
+{% endhint %}
 
 ***
 
