@@ -22,27 +22,31 @@ The following works have informed the principles, assumptions, and patterns desc
    *Project to product : how to survive and thrive in the age of digital disruption with the flow framework*  
    It Revolution, 2018.
 
+5. Pereira, S. and Davis, A.  
+   *Flow Engineering.*  
+   IT Revolution, 2024.
+
 ---
 
 ## Product Discovery and Outcome-Driven Development
 
-5. Cagan, M.  
+6. Cagan, M.  
    *Empowered*  
    Wiley, 2020.
 
-6. Cagan, M.  
+7. Cagan, M.  
    *Inspired*  
    Wiley, 2020.
 
-7. Cagan, M.  
+8. Cagan, M.  
    *Transformed*  
    Wiley, 2021.
 
-8. Knapp, J.  
+9. Knapp, J.  
    *Sprint*  
    Knapp Labs, 2016.
 
-9. Gothelf, J. & Seiden, J.  
+10. Gothelf, J. & Seiden, J.  
    *Lean UX*  
    O’Reilly Media, 2021.
 
@@ -50,31 +54,31 @@ The following works have informed the principles, assumptions, and patterns desc
 
 ## Lean, Agile, and Organizational Learning
 
-10. Humble, J., Molesky, J. and O’Reilly, B.  
+11. Humble, J., Molesky, J. and O’Reilly, B.  
    *Lean Enterprise.*
    ‘O’Reilly Media, Inc., 2020.
 
-11. Ries, E.  
+12. Ries, E.  
    *The Lean Startup*  
    Crown Publishing, 2011.
 
-12. Ries, E.  
+13. Ries, E.  
    *The Startup Way*  
    Penguin, 2017.
 
-13. Ries, E.  
+14. Ries, E.  
    *The Leader's Guide*  
    Audible Originals, 2019.
 
-14. Highsmith, J., Luu, L., & Robinson, D.  
+15. Highsmith, J., Luu, L., & Robinson, D.  
    *EDGE: Value-Driven Digital Transformation*  
    Addison-Wesley, 2019.
 
-15. Smart, J.  
+16. Smart, J.  
    *Sooner Safer Happier*  
    IT Revolution, 2020.
 
-16. Degrandis, D. and Demaria, T  
+17. Degrandis, D. and Demaria, T  
     *Making work visible : exposing time theft to optimize work & flow.*  
     It Revolution Press, 2017.
 
@@ -82,11 +86,11 @@ The following works have informed the principles, assumptions, and patterns desc
 
 ## OKRs and Value Driven Outcomes
 
-17. Doerr, J.E.  
+18. Doerr, J.E.  
     *Measure what matters : OKRs, the simple idea that drives 10x growth.*  
     Penguin UK, 2018.  
 
-18. Gothelf, J. & Seiden, J.  
+19. Gothelf, J. & Seiden, J.  
     *Who Does What By How Much.*  
     Sense & Respond Press, 2024.  
 
@@ -94,11 +98,11 @@ The following works have informed the principles, assumptions, and patterns desc
 
 ## Software Engineering and Continuous Integration/Continuous Delivery
 
-19. Humble, J. and Farley, D.  
+20. Humble, J. and Farley, D.  
     *Continuous Delivery.*  
     Pearson Education, 2010.
 
-20. Farley, D.  
+21. Farley, D.  
     *Modern Software Engineering.*  
     Addison-Wesley Professional, 2021.
 
@@ -106,6 +110,6 @@ The following works have informed the principles, assumptions, and patterns desc
 
 ## Team Design and Cognitive Load
 
-21. Skelton, M. & Pais, M.  
+22. Skelton, M. & Pais, M.  
     *Team Topologies*  
     IT Revolution, 2019.
