@@ -85,6 +85,8 @@ Learning continues throughout.
 
 ![practice-deliver-reflect-cycle](../.gitbook/assets/eos-cycle.png)
 
+[Interpreting the EmergentOS Learning Cycle](/broken/spaces/abU988grMBS3MbFi8ZSB/pages/OB3XMvfNxZM4JhuU6suA)
+
 ***
 
 _This cadence is illustrative. Organizations may adapt timing and emphasis._
