@@ -10,3 +10,4 @@
 * [Interpreting the EmergentOS Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
+* [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
