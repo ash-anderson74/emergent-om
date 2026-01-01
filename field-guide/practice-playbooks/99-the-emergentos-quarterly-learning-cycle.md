@@ -85,7 +85,12 @@ Learning continues throughout.
 
 ![practice-deliver-reflect-cycle](../.gitbook/assets/eos-cycle.png)
 
-[Interpreting the EmergentOS Learning Cycle](/broken/spaces/abU988grMBS3MbFi8ZSB/pages/OB3XMvfNxZM4JhuU6suA)
+[Interpreting the EmergentOS Learning Cycle](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/interpreting-the-emergentos-learning-cycle)
+
+This cycle is not intended as a delivery process or planning framework.\
+It describes how learning and decision-making are structured over time.
+
+The underlying logic of this cycle — that systems must first change to permit learning, and then evolve based on that learning — is explored further in the essay **“**[**Learning Is How the System Changes Itself.**](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/learning-is-how-the-system-changes-itself)**”**
 
 ***
 
