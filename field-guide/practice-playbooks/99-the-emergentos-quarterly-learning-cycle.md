@@ -23,7 +23,10 @@ The quarterly cycle exists to:
 This cycle is **not** intended as a delivery process or a planning framework.\
 It describes how learning and decision-making are structured over time.
 
-The underlying logic of this cycle — that **systems must first change to permit learning, and then evolve based on that learning** — is explored further in the essay **“**[**Learning Is How the System Changes Itself.**](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/learning-is-how-the-system-changes-itself)**”**
+**Delivery within the cycle exists for two inseparable reasons: to create value for customers, and to generate feedback that informs how value should be created next.**\
+Learning governs how the system adapts; customer value governs what the system exists to deliver.
+
+The underlying logic of this cycle — that systems must first change to permit learning, and then evolve based on that learning — is explored further in the essay **“**[**Learning Is How the System Changes Itself.**](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/learning-is-how-the-system-changes-itself)**”**
 
 The cadence of the cycle is deliberately slow enough to think and fast enough to adapt.\
 This principle is referred to in EmergentOS as **Slowification**.
