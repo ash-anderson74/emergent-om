@@ -12,3 +12,4 @@
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
+* [Learning and Value in EmergentOS](learning-and-value-in-emergentos.md)
