@@ -7,7 +7,7 @@ Not mandatory. Not prescriptive. Context-sensitive.
 
 ***
 
-## Purpose of the Quarterly Learning Cycle
+#### Purpose of the Quarterly Learning Cycle
 
 EmergentOS is not a framework of events or ceremonies.\
 It is a **learning system**.
@@ -20,9 +20,16 @@ The quarterly cycle exists to:
 * prevent urgency from crowding out thinking
 * make learning unavoidable
 
-The cadence is deliberately **slow enough to think** and **fast enough to adapt**.
+This cycle is **not** intended as a delivery process or a planning framework.\
+It describes how learning and decision-making are structured over time.
 
-This is referred to in EOS as **Slowification**.
+**Delivery within the cycle exists for two inseparable reasons: to create value for customers, and to generate feedback that informs how value should be created next.**\
+Learning governs how the system adapts; customer value governs what the system exists to deliver.
+
+The underlying logic of this cycle — that systems must first change to permit learning, and then evolve based on that learning — is explored further in the essay **“**[**Learning Is How the System Changes Itself.**](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/learning-is-how-the-system-changes-itself)**”**
+
+The cadence of the cycle is deliberately slow enough to think and fast enough to adapt.\
+This principle is referred to in EmergentOS as **Slowification**.
 
 ***
 
@@ -85,7 +92,7 @@ Learning continues throughout.
 
 ![practice-deliver-reflect-cycle](../.gitbook/assets/eos-cycle.png)
 
-[Interpreting the EmergentOS Learning Cycle](/broken/spaces/abU988grMBS3MbFi8ZSB/pages/OB3XMvfNxZM4JhuU6suA)
+[Interpreting the EmergentOS Learning Cycle](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/interpreting-the-emergentos-learning-cycle)
 
 ***
 
