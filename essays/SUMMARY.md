@@ -14,3 +14,5 @@
 * [Interpreting the EmergentOS Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [A Conversation Between a SAFe Practitioner and an EOS Operator](safesceptic-vs-eos-operator.md)
 * [EmergentOS: A Board-Level Explanation](emergerntos-a-board-level-explanation.md)
+* [Designing Constraints Without Turning EOS Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
+* [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
