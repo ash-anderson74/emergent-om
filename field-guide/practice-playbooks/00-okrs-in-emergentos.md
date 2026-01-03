@@ -741,3 +741,9 @@ EmergentOS protects both by insisting that:
 
 Aspirations drive learning.\
 High-integrity commitments sustain trust.
+
+***
+
+## Further Reading
+
+[OKRs, KPIs, and Value Delivery in an Emergent System](https://app.gitbook.com/s/abU988grMBS3MbFi8ZSB/okrs-kpis-and-value-delivery-in-an-emergent-system)
