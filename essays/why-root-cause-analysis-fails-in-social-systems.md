@@ -159,6 +159,8 @@ This approach:
 The goal is not to be correct about the past.\
 The goal is to make different behaviour rational in the future.
 
+See: [**Behaviour → Constraint Mapping**](https://app.gitbook.com/s/yYdXGH2DtxmsDRcRRrNr/16-bahaviour-constraint-mapping)
+
 ***
 
 ### Learning Requires Abandoning the Myth of the Root Cause
