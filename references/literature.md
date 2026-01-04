@@ -113,3 +113,9 @@ The following works have informed the principles, assumptions, and patterns desc
 22. Skelton, M. & Pais, M.  
     *Team Topologies*  
     IT Revolution, 2019.
+
+## Management Thinking
+
+23. Edmondson, A.C.  
+    The fearless organization: Creating psychological safety in the workplace for learning, innovation, and growth.  
+    John Wiley & Sons, Inc., 2019.
