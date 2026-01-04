@@ -1,6 +1,7 @@
 # Experiment 2: Status Reporting vs Flow-Based Sensemaking
 
 ## Hypothesis
+
 **Status meetings exist to preserve the plan, not to reveal reality — and therefore suppress learning about system constraints.**
 
 Teams are not dishonest.  
@@ -64,12 +65,14 @@ No commitments demanded.
 ## Expected Outcome
 
 If the hypothesis holds:
+
 - WIP becomes discussable
 - dependencies are reframed as structural design issues
 - urgency gives way to diagnosis
 - system-level improvement opportunities emerge
 
 If it does not:
+
 - the organisation learns that predictability is valued over truth
 
 Again — learning occurs either way.

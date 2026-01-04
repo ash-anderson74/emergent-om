@@ -1,6 +1,7 @@
 # Experiment 1: Estimation as Speculation vs Learning First
 
 ## Hypothesis
+
 **When uncertainty is treated as something to be estimated rather than learned, teams optimise for narrative coherence rather than outcome quality.**
 
 Teams do not over-estimate because they are careless.  
@@ -59,12 +60,14 @@ Only a change in what the system accepts as “ready.”
 ## Expected Outcome
 
 If the hypothesis holds:
+
 - teams shift effort from speculation to discovery
 - fewer but better-founded commitments emerge
 - planning becomes shorter, not longer
 - “missed estimates” conversations disappear
 
 If it does not:
+
 - the organisation learns that certainty is valued over learning — explicitly
 
 Either outcome produces useful system truth.
