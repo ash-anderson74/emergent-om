@@ -118,9 +118,9 @@ These questions cannot be answered by static plans.
 
 ***
 
-#### What EmergentOS Changes
+#### What the Emergent Operating Model Changes
 
-EmergentOS does not reject certainty.\
+The Emergent Operating Model (EOM) does not reject certainty.\
 It insists that certainty be **earned**.
 
 It does this by:
@@ -143,7 +143,7 @@ Control becomes adaptive rather than performative.
 
 #### From Reassurance to Risk Literacy
 
-The shift EmergentOS enables is subtle but fundamental.
+The shift EOM enables is subtle but fundamental.
 
 From:
 
@@ -165,4 +165,4 @@ The problem is attempting to achieve certainty through planning instead of learn
 
 In environments where discovery is unavoidable, treating estimates as evidence increases risk by delaying its visibility.
 
-EmergentOS replaces confidence theatre with **risk literacy** — enabling organisations to reduce uncertainty through learning, commit based on evidence, and adapt deliberately as understanding evolves.
+The Emergent Operating Model replaces confidence theatre with **risk literacy** — enabling organisations to reduce uncertainty through learning, commit based on evidence, and adapt deliberately as understanding evolves.
