@@ -4,14 +4,14 @@ description: (And Why It Matters for EmergentOS)
 
 # A Plain-English Introduction to Systems Thinking
 
-Most of the frustration people feel with organisations comes from a simple mismatch:
+Much of the frustration people experience in organisations comes from a simple mismatch:
 
 * we explain problems in terms of **people**
 * but the problems are usually caused by **systems**
 
 Systems thinking is the discipline of recognising that difference.
 
-This essay introduces the idea in practical terms, without theory or jargon, and explains why EmergentOS depends on it.
+This essay introduces the idea in practical terms, without theory or jargon, and explains why the **Emergent Operating Model (EOM)** depends on it.
 
 ***
 
@@ -24,12 +24,12 @@ When something goes wrong in an organisation, the usual explanations sound famil
 * leaders didn’t communicate clearly
 * individuals made poor decisions
 
-Sometimes these explanations are partially true.\
-But they are rarely sufficient.
+Sometimes these explanations contain truth.\
+They are rarely sufficient.
 
-If capable people repeatedly make the same “bad” decisions, it is unlikely they suddenly became irrational. More often, they are responding sensibly to the environment around them.
+If capable people repeatedly make the same “bad” decisions, it is unlikely they have suddenly become irrational. More often, they are responding sensibly to the environment around them.
 
-Systems thinking starts from this assumption:
+Systems thinking starts from a simple assumption:
 
 > **If behaviour is persistent, it is probably being rewarded — or at least made rational — by the system.**
 
@@ -37,20 +37,21 @@ Systems thinking starts from this assumption:
 
 ### What Is a “System” in This Context?
 
-In organisational terms, a system is not software or structure charts.
+In organisational terms, a system is not software or an org chart.
 
 It is the combination of:
 
-* how decisions are made
+* how decisions are actually made
 * who carries risk
-* what gets rewarded or punished
+* what is rewarded or punished
 * how work flows
 * what information is visible or hidden
 * how feedback arrives — and how fast
 
-Most of this is invisible day to day. Yet it shapes behaviour more powerfully than policies, values, or intent.
+Most of this is invisible in day-to-day work.\
+Yet it shapes behaviour more powerfully than policies, values statements, or intent.
 
-You can think of it as the organisation’s _default settings_.
+You can think of it as the organisation’s **default settings**.
 
 ***
 
@@ -58,7 +59,7 @@ You can think of it as the organisation’s _default settings_.
 
 Systems thinking asks a deceptively simple question:
 
-> _“What would make this behaviour the sensible choice?”_
+> **“What would make this behaviour the sensible choice?”**
 
 For example:
 
@@ -67,18 +68,18 @@ For example:
 * Why do status reports sound optimistic?\
   → Because bad news creates personal risk.
 * Why do people avoid experimentation?\
-  → Because failure carries cost but learning does not carry protection.
+  → Because failure carries cost, but learning does not carry protection.
 
 From inside the system, these are not failures of character.\
-They are rational survival strategies.
+They are rational responses to the conditions people operate within.
 
 ***
 
 ### Local Optimisation vs System Outcomes
 
-One of the most important ideas in systems thinking is that:
+One of the most important ideas in systems thinking is this:
 
-> **Local optimisation can be rational — and still harm the whole system.**
+> **Local optimisation can be rational — and still damage the system as a whole.**
 
 Each team may do the sensible thing to protect itself:
 
@@ -95,11 +96,11 @@ Yet collectively, these behaviours can:
 * reduce adaptability
 
 This is not because teams are misaligned.\
-It’s because the system rewards the _wrong kind_ of alignment.
+It is because the system rewards the _wrong kind_ of alignment.
 
 ***
 
-### Why Telling People to “Behave Differently” Doesn’t Work
+### Why Telling People to “Behave Differently” Rarely Works
 
 When organisations try to change behaviour directly, they often:
 
@@ -108,7 +109,7 @@ When organisations try to change behaviour directly, they often:
 * run training programmes
 * exhort leaders to “model the right mindset”
 
-These efforts fail when the system remains unchanged.
+These efforts fail when the underlying system remains unchanged.
 
 People quickly learn what _actually_ matters:
 
@@ -116,7 +117,7 @@ People quickly learn what _actually_ matters:
 * which risks are tolerated
 * which outcomes trigger intervention
 
-Behaviour follows incentives, not slogans.
+Behaviour follows incentives and constraints — not slogans.
 
 Systems thinking therefore flips the change question:
 
@@ -125,25 +126,25 @@ Systems thinking therefore flips the change question:
 
 ***
 
-### Where EmergentOS Fits
+### Where Emergent Operating Model Fits
 
-EmergentOS is built explicitly on systems thinking.
+The **Emergent Operating Model (EOM)** is built explicitly on systems thinking.
 
-It starts from this anchor:
+It is anchored in a simple premise:
 
-> **People behave rationally within the constraints of the operating system they inhabit.**
+> **People behave rationally within the constraints of the operating model they inhabit.**
 
-EOS does not try to impose better behaviour.\
-It tries to change the conditions that make certain behaviours inevitable.
+EOM does not try to impose better behaviour.\
+It focuses on changing the conditions that make certain behaviours inevitable.
 
-By focusing on:
+By emphasising:
 
 * learning before commitment
-* flow as a system signal
+* flow as a system signal, not a target
 * governance as sensing rather than control
 * constraints rather than instructions
 
-EmergentOS redesigns the environment in which decisions are made.
+EOM reshapes the environment in which decisions are made.
 
 When the system changes, behaviour follows — without enforcement.
 
@@ -151,18 +152,20 @@ When the system changes, behaviour follows — without enforcement.
 
 ### A Different Way to Think About Change
 
-Systems thinking does not deny accountability.\
-It reframes responsibility.
+Systems thinking does not remove accountability.\
+It reframes it.
 
 Instead of blaming individuals for outcomes they cannot control, it holds organisations accountable for the systems they design and tolerate.
 
-This leads to a more powerful kind of change:
+This leads to a different kind of change:
 
-* fewer directives
-* fewer rollouts
-* fewer “transformations”
+Less:
 
-And more:
+* directive-driven behaviour change
+* rollouts and mandates
+* repeated “transformations”
+
+More:
 
 * deliberate constraint design
 * faster learning
@@ -173,13 +176,13 @@ And more:
 
 ### In Closing
 
-Systems thinking is not an abstract theory.
+Systems thinking is not abstract theory.
 
 It is simply the recognition that:
 
 > **Behaviour is shaped more by context than character.**
 
-EmergentOS exists because most organisational change efforts stop at behaviour — and never touch the system that makes that behaviour rational.
+The Emergent Operating Model exists because most organisational change efforts stop at behaviour — and never touch the system that makes that behaviour rational.
 
 Once you see that distinction, you cannot unsee it.
 
