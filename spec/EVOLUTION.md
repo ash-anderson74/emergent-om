@@ -1,16 +1,16 @@
-# EmergentOS v1 — Governance and Evolution Policy
+# Emergent Operating Model v1 — Governance and Evolution Policy
 
 ## Status
 
-EmergentOS v1 is now **frozen**.
+Emergent Operating Model v1 is now **frozen**.
 
-This policy defines how EmergentOS evolves without undermining its core principles, constraints, and intent.
+This policy defines how the Emergent Operating Model evolves without undermining its core principles, constraints, and intent.
 
 ---
 
 ## Purpose of This Policy
 
-EmergentOS is designed as a **coherent operating system for adaptability**, not a framework to be continuously expanded or optimized through accumulation.
+The Emergent Operating Model is designed as a **coherent operating system for adaptability**, not a framework to be continuously expanded or optimized through accumulation.
 
 Uncontrolled evolution creates:
 
@@ -20,13 +20,13 @@ Uncontrolled evolution creates:
 - accidental prescription
 - loss of trust
 
-This policy exists to ensure that EmergentOS evolves **deliberately, empirically, and with discipline**.
+This policy exists to ensure that the Emergent Operating Model evolves **deliberately, empirically, and with discipline**.
 
 ---
 
 ## What “Frozen” Means
 
-Freezing EmergentOS v1 means:
+Freezing Emergent Operating Model v1 means:
 
 - The **Spec** is considered stable and authoritative
 - Core principles, constraints, and domains will not change lightly
@@ -38,15 +38,15 @@ It means **change has a higher burden of proof**.
 
 ---
 
-## What Is Considered Part of EOS v1
+## What Is Considered Part of EOM v1
 
-EOS v1 includes:
+EOM v1 includes:
 
 - The **Specification** (`/spec`)
 - The **Field Guide** (conceptual explanations)
-- Practice Playbooks marked as EOS-aligned
+- Practice Playbooks marked as EOM-aligned
 - The Pattern and Anti-Pattern libraries
-- Essays published as part of EOS v1
+- Essays published as part of EOM v1
 - Architectural Decision Records (ADRs)
 
 Everything else is considered exploratory.
@@ -55,7 +55,7 @@ Everything else is considered exploratory.
 
 ## Evolution Principles
 
-Any change to EmergentOS must satisfy all of the following:
+Any change to Emergent Operating Model must satisfy all of the following:
 
 1. **Preserve Non-Prescriptiveness**  
    Changes must not introduce mandatory practices, sequences, or ceremonies.
@@ -70,7 +70,7 @@ Any change to EmergentOS must satisfy all of the following:
    Metrics and artifacts must remain signals, never targets or enforcement tools.
 
 5. **Preserve Coherence Over Completeness**  
-   EOS favours internal consistency over exhaustive coverage.
+   EOM favours internal consistency over exhaustive coverage.
 
 ---
 
@@ -149,7 +149,7 @@ Removals must:
 
 ## Decision-Making Process
 
-EmergentOS evolves through **learning, not voting**.
+Emergent Operating Model evolves through **learning, not voting**.
 
 Decisions are informed by:
 
@@ -162,7 +162,7 @@ Significant changes require:
 
 - an ADR
 - explicit reasoning
-- linkage to EOS principles
+- linkage to EOM principles
 - acknowledgement of trade-offs
 
 Authority derives from **evidence and clarity**, not role or ownership.
@@ -179,7 +179,7 @@ Version bumps are rare by design.
 
 ---
 
-## What EOS Explicitly Resists
+## What EOM Explicitly Resists
 
 Under this policy, EmergentOS will **not** evolve into:
 
@@ -190,7 +190,7 @@ Under this policy, EmergentOS will **not** evolve into:
 - a compliance standard
 - a commercial scaling product
 
-If evolution pressures EOS toward these outcomes, those pressures should be examined — not accommodated.
+If evolution pressures EOM toward these outcomes, those pressures should be examined — not accommodated.
 
 ---
 
@@ -227,7 +227,7 @@ All accepted changes:
 
 ## Closing Statement
 
-EmergentOS exists to help organizations navigate uncertainty with integrity.
+The Emergent Operating Model exists to help organizations navigate uncertainty with integrity.
 
 Its value lies not in growth or completeness,
 but in clarity, restraint, and coherence.
