@@ -2,11 +2,11 @@
 
 ## Purpose
 
-In EmergentOS, _operating cadence_ defines how the system regularly senses, learns, decides, and adapts over time.
+With the Emergent Operating Model (EOM), _operating cadence_ defines how the system regularly senses, learns, decides, and adapts over time.
 
 Cadence is not a delivery methodology, a meeting schedule, or a set of prescribed ceremonies. It is the **temporal structure of feedback loops** that allows a complex organization to coordinate learning and commitment without centralized control.
 
-EmergentOS treats cadence as a first-class system concern because **adaptation requires rhythm**. Without explicit cadence, organizations default to either reactive firefighting or rigid predictive planning.
+EOM treats cadence as a first-class system concern because **adaptation requires rhythm**. Without explicit cadence, organizations default to either reactive firefighting or rigid predictive planning.
 
 {% hint style="warning" %}
 **Interpretive Note**\
@@ -17,7 +17,7 @@ The cadence loops described here are intentionally non-blocking and non-prescrip
 
 ## Cadence vs. Ceremonies
 
-EmergentOS distinguishes clearly between _operating cadence_ and _team-level practices_.
+EOM distinguishes clearly between _operating cadence_ and _team-level practices_.
 
 Operating cadence:
 
@@ -39,7 +39,7 @@ This separation preserves autonomy while maintaining coherence at the system lev
 
 ## Cadence as Layered Feedback Loops
 
-EmergentOS defines operating cadence as a **set of layered feedback loops**, each operating at a different level of the system and frequency. No single loop is sufficient on its own.
+The Emergent Operating Model defines operating cadence as a **set of layered feedback loops**, each operating at a different level of the system and frequency. No single loop is sufficient on its own.
 
 The system is considered healthy only when _all_ loops are present and functioning.
 
@@ -98,7 +98,7 @@ This cadence answers:
 
 ### 3. Delivery and Flow Cadence (Event-Driven)
 
-Delivery in EmergentOS is flow-based rather than timeboxed.
+Delivery in EOM is flow-based rather than timeboxed.
 
 Work moves through the system based on:
 
@@ -129,7 +129,7 @@ This cadence answers:
 
 ### 4. Continuous Improvement Cadence (Deliberate Learning)
 
-EmergentOS makes improvement explicit work.
+The Emergent Operating Model makes improvement explicit work.
 
 At regular intervals, the organization deliberately slows down to:
 
@@ -154,7 +154,7 @@ This cadence answers:
 
 ### 5. Governance and Sensing Cadence (Lightweight and Recurring)
 
-Governance in EmergentOS operates as sensing rather than control.
+Governance in EOM operates as sensing rather than control.
 
 Leaders and enabling roles regularly review:
 
@@ -213,7 +213,7 @@ EmergentOS treats these as structural risks rather than execution failures.
 
 ## Summary
 
-Operating cadence in EmergentOS is the **temporal architecture of learning**.
+Operating cadence in the Emergent Operating Model is the **temporal architecture of learning**.
 
 It enables:
 
