@@ -2,7 +2,7 @@
 
 * [How the Emergent Operating Model works in practice](README.md)
 * [Outcome-Oriented Strategy (Intent → Evidence)](01-outcome-oriented-strategy-from-intent-to-evidence.md)
-* [The Emergent OS Component Relationship Model](02-the-emergentos-component-relationship-model.md)
+* [The EOM Component Relationship Model](02-the-emergentos-component-relationship-model.md)
 * [Funding as a Learning System](03-funding-and-investment-as-a-learning-system.md)
 * [Flow as Diagnostic Signals](04-flow-as-a-diagnostic-not-a-target.md)
 * [Teams, Autonomy, and Boundaries](05-teams-autonomy-and-interaction-boundaries.md)
