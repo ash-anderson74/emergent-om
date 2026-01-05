@@ -1,11 +1,11 @@
-# Learning and Value in EmergentOS
+# Learning and Value in the Emergent Operating Model
 
-EmergentOS treats learning as essential, but not as an end in itself.
+The Emergent Operating Model (EOM) treats learning as essential, but not as an end in itself.
 
 Organisations do not exist to learn.\
 They exist to create value by solving real problems for real people.
 
-In EmergentOS, **delivery serves two legitimate purposes**:
+In EOM, **delivery serves two legitimate purposes**:
 
 1. to create value for customers now
 2. to generate feedback that informs better value creation next
@@ -15,7 +15,7 @@ These purposes are inseparable.
 Delivery without feedback becomes blind execution.\
 Learning without value creation becomes abstraction.
 
-When EmergentOS describes learning as “governing” the system, it does not mean that learning defines purpose. It means that learning governs **how the system adapts** in pursuit of that purpose.
+When EOM describes learning as “governing” the system, it does not mean that learning defines purpose. It means that learning governs **how the system adapts** in pursuit of that purpose.
 
 Customer value remains the reference point.
 
@@ -35,4 +35,4 @@ In short:
 Without learning, delivery drifts.\
 Without delivery, learning has no meaning.
 
-EmergentOS exists to keep these forces in balance — so that learning sharpens value, rather than replacing it.
+The Emergent Operating Model exists to keep these forces in balance — so that learning sharpens value, rather than replacing it.

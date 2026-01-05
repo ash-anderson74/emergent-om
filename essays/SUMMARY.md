@@ -12,7 +12,7 @@
 * [Why Root Cause Analysis Fails in Social Systems](why-root-cause-analysis-fails-in-social-systems.md)
 * [Designing Constraints Without Turning EOM Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
-* [Learning and Value in EmergentOS](learning-and-value-in-emergentos.md)
+* [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
 * [How EmergentOS Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
