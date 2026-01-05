@@ -1,73 +1,87 @@
 # Changelog
 
-All notable changes to EmergentOS are documented in this file.
+All notable changes to the **Emergent Operating Model (EOM)** are documented in this file.
 
-EmergentOS is a living specification. Changes reflect learning, clarification, and evolution rather than “feature delivery”.
+EOM is a specification, not a product.  
+Changes reflect learning, clarification, and synthesis rather than “feature delivery”.
 
 ---
 
-## [v1.0] — Frozen EmergentOS v1
+## [v1.0] — Frozen Emergent Operating Model v1
 
 ### Status
 
-EmergentOS v1 is now **frozen**.
+**Emergent Operating Model v1 is frozen.**
 
-This release represents a complete, coherent operating system for adaptability in complex socio-technical environments. Further evolution is governed by the EmergentOS Evolution Policy.
+This release represents a complete, coherent operating model for adaptability in complex socio-technical environments.  
+Further evolution is governed by the **EOM Evolution Policy**.
+
+---
 
 ### Added
 
-- Formal **EmergentOS v1 freeze** and governance/evolution policy
-- Explicit constraints defining what must remain true for EmergentOS to function
-- Completed **Specification** with:
+- Formal **Emergent Operating Model v1 freeze**
+- Defined governance and evolution policy for post-v1 changes
+- Explicit articulation of **system invariants** that define compatibility with EOM
+- Completed **Specification**, including:
   - Values and principles
-  - Core domains
-  - Operating cadence
+  - System invariants and boundaries
+  - Core operating domains
+  - Operating cadence and feedback loops
   - Flow and learning model
   - Governance and funding model
   - Roles and accountabilities
   - Adoption and evolution guidance
-  - Explicit “when not to use EmergentOS”
+  - Explicit “when not to use EOM” boundaries
 - Fully articulated **Quarterly Learning Cycle**, integrating:
-  - Strategy and alignment
-  - Discovery and delivery
-  - Validation and reflection
-  - Slowification as a deliberate systemic practice
-- Completed **Field Guide**, including:
+  - Strategic intent and alignment
+  - Discovery, delivery, and validation
+  - Reflection and system improvement
+  - *Slowification* as a deliberate design choice
+- Completed **Field Guide**, covering:
   - Outcome-oriented strategy
   - Funding as a learning system
-  - Flow as a diagnostic, not a target
+  - Flow as a diagnostic signal, not a target
   - Team autonomy and interaction boundaries
   - Improvement as deliberate system work
-  - Aspirational outcomes vs high-integrity commitments
-- EOS-aligned **Practice Playbooks** with concrete, non-prescriptive guidance:
-  - OKRs in EmergentOS
+  - Aspirational outcomes vs. high-integrity commitments
+- EOM-aligned **Practice Playbooks** providing concrete but non-prescriptive guidance, including:
+  - OKRs in EOM
   - Continuous discovery
   - Lean Kata for system-level improvement
   - Flow metrics as diagnostic instruments
   - Adaptive funding and metered investment
   - Strategic alignment using Lean Value Trees, OKRs, and Portfolio Kanban
-  - The EmergentOS Quarterly Learning Cycle
-- Complete **Patterns Library (v1)** describing recurring system conditions
-- Complete **Anti-Patterns Library (v1)** documenting common failure modes and distortions
-- Sense-making **Essays**, including:
-  - How EmergentOS Avoids the Illusion of Alignment
+  - The EOM Quarterly Learning Cycle
+- Completed **Patterns Library (v1)** describing recurring system conditions
+- Completed **Anti-Patterns Library (v1)** documenting reliable failure modes
+- Expanded **Essays** for sense-making and guardrail setting, including:
+  - How EOM Avoids the Illusion of Alignment
   - Why Team Structure Emerges from Constraints
+  - How to Design a System Where Learning Governs Behaviour
 - Architectural Decision Records (ADRs) documenting key design choices, including:
   - Outcome-based planning over output-based planning
   - Rejection of deterministic planning by default
   - Adaptive funding over deterministic budgeting
   - Treating flow metrics as signals, not targets
-- Added explanatory essays to disambiguate the term “operating system” in an organisational context
-- Introduced the EmergentOS component relationship model as an interpretive aid
-- Added narrative guidance on how to read conceptual diagrams without treating them as implementation artefacts
-- Improved cross-space navigation and reader orientation across Spec, Field Guide, Essays, and Patterns
-- Added anchor as clarification
+- Explanatory essays clarifying what “operating model” means in an organisational context
+- Introduction of the **EOM component relationship model** as an interpretive aid
+- Narrative guidance on reading diagrams without treating them as implementation artefacts
+- Improved cross-space navigation across Specification, Field Guide, Essays, Patterns, and References
+- Explicit articulation of EOM’s **core conceptual anchor**
+
+---
 
 ### Notes
 
-This release reflects a synthesis of repeated patterns observed across Lean, DevOps, product discovery, and organizational design literature.
+This release represents a synthesis of repeated patterns observed across:
 
-EmergentOS v1 intentionally resists:
+- Lean and systems thinking
+- DevOps and flow-based delivery
+- Product discovery and outcome-driven strategy
+- Organizational design and governance literature
+
+Emergent Operating Model v1 intentionally resists:
 
 - prescriptive practices
 - maturity models
@@ -83,39 +97,41 @@ Its value lies in **coherence, restraint, and clarity**, not completeness.
 
 ### Added
 
-- Core EmergentOS intent, scope, and positioning
-- Explicit rejection of deterministic planning as a default
+- Initial EOM intent, scope, and positioning
+- Early rejection of deterministic planning as a default
 - Outcome-driven planning principles (Lean Value Trees, OKRs)
-- Modular operating system framing
+- Early operating-model framing
 - Initial articulation of core domains
 - Early quarterly cadence with embedded slowification
 - Coaching-led governance concepts
 - Adaptive funding and portfolio flow ideas
-- Alignment with DevOps (Three Ways) and Lean principles
+- Alignment with Lean and DevOps principles
 - Initial role patterns
 - Early non-goals and anti-patterns
 
 ### Notes
 
-This version served as an exploratory synthesis intended to invite critique, learning, and refinement. It has been superseded by the frozen v1 release.
+This version served as an exploratory synthesis intended to invite critique, learning, and refinement.  
+It has been superseded by the frozen v1 specification.
 
 ---
 
 ## Versioning Guidelines
 
 - **Major versions (v1.0, v2.0):**  
-  Conceptual or structural shifts that materially change the operating system
+  Conceptual or structural shifts that materially change the operating model
 
 - **Minor versions (v1.x):**  
-  Clarifications, refinements, or corrections that preserve core intent
+  Clarifications, refinements, or extensions that preserve core intent
 
 - **Patch versions (v1.x.y):**  
   Editorial changes, navigation improvements, or reference updates only
 
 ---
 
-## Upcoming
+## Forward Look
 
-EmergentOS v1 is frozen.
+Emergent Operating Model v1 is frozen.
 
-Future exploration may occur outside the specification and inform potential v2 directions, but no commitments are made at this time.
+Future exploration may occur through essays, patterns, or external experimentation and may inform potential v2 directions.  
+No commitments are made at this time.
