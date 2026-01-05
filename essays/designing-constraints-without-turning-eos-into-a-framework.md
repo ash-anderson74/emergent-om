@@ -1,18 +1,18 @@
-# Designing Constraints Without Turning EOS Into a Framework
+# Designing Constraints Without Turning EOM Into a Framework
 
-EmergentOS is not implemented.\
-It is operated.
+The Emergent Operating Model (EOM) is not implemented.\
+It is **operated**.
 
 This distinction matters, particularly for those responsible for shaping the environment in which teams work. Many operating models fail not because their ideas are wrong, but because they are treated as artefacts to be adopted rather than systems to be governed.
 
-This essay clarifies the role of **invariants** and **constraints** in EmergentOS, and explains how operators are expected to work with them without turning EOS into a framework, methodology, or rollout programme.
+This essay clarifies the role of **invariants** and **constraints** in EOM, and explains how operators are expected to work with them without turning the model into a framework, methodology, or rollout programme.
 
 ***
 
-#### Invariants Are Not Chosen
+### Invariants Are Not Chosen
 
-In EmergentOS, **invariants** are not design options.\
-They are assertions about how learning and adaptation work in complex systems.
+In the Emergent Operating Model, **invariants** are not design options.\
+They are assertions about how learning, adaptation, and risk behave in complex systems.
 
 Examples include:
 
@@ -23,38 +23,41 @@ Examples include:
 * local optimisation will undermine system outcomes unless constrained
 
 An organisation does not “select” these invariants.\
-If it violates them, it is simply not operating EmergentOS, regardless of intent or language.
+If it violates them, it is simply **not operating within the Emergent Operating Model**, regardless of intent or terminology.
 
 Invariants define **compatibility**, not compliance.
 
 ***
 
-#### Constraints Are Designed — and Re-designed
+### Constraints Are Designed — and Re-designed
 
 **Constraints**, by contrast, are explicitly contextual.
 
-They are the boundaries an organisation introduces to shape behaviour without prescribing actions. They determine what becomes safe, rational, and likely within a given environment.
+They are the boundaries an organisation introduces to shape behaviour **without prescribing actions**. They determine what becomes safe, rational, and likely within a given environment.
 
 Constraints might include:
 
 * limits on work in progress
 * evidence requirements before commitment
-* governance rules about what signals are acceptable
+* governance rules about which signals are considered credible
 * funding tranches tied to learning rather than delivery
 * cadence boundaries that protect time for reflection
 
-EmergentOS does not prescribe these. Two organisations can share all EOS invariants and still operate with very different constraints.
+EOM does not prescribe these.
 
-That variation is not a flaw — it is the point.
+Two organisations can operate within the same EOM invariants and yet employ very different constraints.
+
+That variation is not a flaw.\
+It is the point.
 
 ***
 
-#### The Operator’s Role
+### The Operator’s Role
 
-Operators of EmergentOS are not implementers of practices.\
-They are designers and stewards of the operating environment.
+Operators of the Emergent Operating Model are not implementers of practices.\
+They are **designers and stewards of the operating environment**.
 
-Their responsibility is not to decide how people should behave, but to design constraints such that _desired behaviour becomes the rational response_.
+Their responsibility is not to decide how people should behave, but to design conditions such that _desired behaviour becomes the rational response_.
 
 This requires a shift in posture:
 
@@ -64,15 +67,15 @@ This requires a shift in posture:
 
 ***
 
-#### How Constraints Emerge in Practice
+### How Constraints Emerge in Practice
 
-Constraints are not designed up front.
+Constraints are rarely designed correctly upfront.
 
 They emerge through learning.
 
 A typical sequence looks like this:
 
-1. **Observe behaviour**, not stated intent\
+1. **Observe behaviour, not stated intent**\
    Where are people defending plans, hiding uncertainty, or optimising locally?
 2. **Identify violated invariants**\
    Are commitments being made before learning? Are metrics enforcing compliance rather than insight?
@@ -81,13 +84,13 @@ A typical sequence looks like this:
 4. **Observe behaviour change**\
    If behaviour shifts quickly without coaching, the constraint was relevant.
 5. **Evolve or remove constraints**\
-   Constraints are temporary tools, not permanent structures.
+   Constraints are tools, not permanent structures.
 
-This is an ongoing cycle, not a setup phase.
+This is an ongoing cycle, not an implementation phase.
 
 ***
 
-#### Why Constraints Should Not Be Copied
+### Why Constraints Should Not Be Copied
 
 A common failure mode is to observe constraints used successfully elsewhere and attempt to reproduce them directly.
 
@@ -100,46 +103,46 @@ Copied constraints often:
 * create compliance theatre
 * erode trust
 
-EmergentOS treats copying constraints as a risk, not a shortcut.
+EOM treats copying constraints as a risk, not a shortcut.
 
 ***
 
-#### When Constraints Appear to Conflict
+### When Constraints Appear to Conflict
 
-Operators will often observe tensions:
+Operators will often observe tensions such as:
 
 * flow vs sustainability
 * autonomy vs coherence
 * learning vs predictability
 
-EmergentOS does not ask operators to arbitrate between values or principles.
+The Emergent Operating Model does not ask operators to arbitrate between principles.
 
 Instead, these tensions are treated as **diagnostic signals** that the current system design is forcing trade-offs that should not exist.
 
-The response is not to prioritise, but to **change the system so the tension dissolves**.
+The response is not to prioritise values, but to **change the system so the tension dissolves**.
 
 ***
 
-#### The Boundary EOS Will Not Cross
+### The Boundary EOM Will Not Cross
 
-EmergentOS deliberately avoids:
+The Emergent Operating Model deliberately avoids:
 
 * defining mandatory constraints
 * specifying rollout sequences
 * offering maturity models
 * providing “first steps”
 
-These moves would convert EOS into the very kind of operating model it exists to explain — and, often, to escape.
+These moves would convert EOM into the very kind of operating model it exists to explain — and, often, to escape.
 
 ***
 
-#### In Summary
+### In Summary
 
-EmergentOS defines **what must always be true** through its invariants.\
+The Emergent Operating Model defines **what must remain true** through its invariants.\
 Each organisation designs **how behaviour is shaped** through contextual constraints.
 
 Operators are not judged by which constraints they adopt, but by whether learning occurs and system behaviour evolves in response.
 
-When constraints are treated as experiments rather than rules, the operating system remains adaptable without losing coherence.
+When constraints are treated as experiments rather than rules, the operating model remains adaptable without losing coherence.
 
-That is what it means to operate EmergentOS.
+That is what it means to operate the Emergent Operating Model.

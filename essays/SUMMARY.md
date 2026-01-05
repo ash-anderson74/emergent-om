@@ -10,7 +10,7 @@
 * [How To Design a System Where Learning Governs Behaviour](how-to-design-a-system-where-learning-governs-behaviour.md)
 * [Why Psychological Safety Emerges — or Disappears — by Design](why-psychological-safety-emerges-or-disappears-by-design.md)
 * [Why Root Cause Analysis Fails in Social Systems](why-root-cause-analysis-fails-in-social-systems.md)
-* [Designing Constraints Without Turning EOS Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
+* [Designing Constraints Without Turning EOM Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [Learning and Value in EmergentOS](learning-and-value-in-emergentos.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
