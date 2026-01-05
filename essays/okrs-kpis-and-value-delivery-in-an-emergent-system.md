@@ -1,19 +1,19 @@
 # OKRs, KPIs, and Value Delivery in an Emergent System
 
-_A Commentary Consistent with the EmergentOS Specification_
+_A Commentary Consistent with the Emergent Operating Model Specification_
 
 > **Note:**\
-> This essay does not define, modify, or enumerate EmergentOS invariants or constraints.\
-> All invariants referenced by EmergentOS are defined exclusively in the EOS specification.\
-> What follows is an interpretive explanation of how OKRs and KPIs operate _within_ an EOS-aligned system.
+> This essay does not define, modify, or enumerate the Emergent Operating Model (EOM) invariants or constraints.\
+> All invariants referenced by EOM are defined exclusively in the EOM specification.\
+> What follows is an interpretive explanation of how OKRs and KPIs operate _within_ an EOM-aligned system.
 
 ***
 
 ### Value Delivery as Primary Intent
 
-EmergentOS (EOS) treats organisations as **complex adaptive systems** operating under uncertainty. In such environments, value cannot be reliably delivered through prediction alone. Instead, value emerges through continual interaction between intent, action, feedback, and adaptation.
+The Emergent Operating Model (EOM) treats organisations as **complex adaptive systems** operating under uncertainty. In such environments, value cannot be reliably delivered through prediction alone. Instead, value emerges through continual interaction between intent, action, feedback, and adaptation.
 
-EOS is therefore not a learning framework for its own sake. Learning exists only as a means of enabling **better value delivery under conditions where certainty is unavailable**.
+EOM is therefore not a learning framework for its own sake. Learning exists only as a means of enabling **better value delivery under conditions where certainty is unavailable**.
 
 Any use of metrics, objectives, or governance mechanisms must be understood relative to this intent. Tools that obscure value delivery—by conflating activity with progress or measurement with intent—undermine the system, regardless of how familiar or structured they appear.
 
@@ -21,7 +21,7 @@ Any use of metrics, objectives, or governance mechanisms must be understood rela
 
 ### System Boundaries: Invariants and Constraints
 
-EOS defines a set of invariants and requires that organisations establish and evolve constraints to uphold them. These form the stable kernel of the system.
+EOM defines a set of invariants and requires that organisations establish and evolve constraints to uphold them. These form the stable kernel of the system.
 
 * **Invariants** establish enduring design boundaries that shape behaviour without prescribing practice.
 * **Constraints** represent conditions that must hold for the system to remain viable, safe, and trustworthy.
@@ -32,7 +32,7 @@ This essay assumes the existence of those invariants and constraints, but does *
 
 ### KPIs as Constraint Signals
 
-Within an EOS-aligned system, **Key Performance Indicators (KPIs)** primarily function as **signals of constraint health**.
+Within an EOM-aligned system, **Key Performance Indicators (KPIs)** primarily function as **signals of constraint health**.
 
 They answer questions such as:
 
@@ -53,19 +53,19 @@ They do not define success.
 
 They are mechanisms for **sensing**, not steering.
 
-When KPIs are treated as targets, incentives, or goals, their informational value is corrupted. From an EOS perspective, this represents a category error: a constraint signal has been mistaken for an objective.
+When KPIs are treated as targets, incentives, or goals, their informational value is corrupted. From an EOM perspective, this represents a category error: a constraint signal has been mistaken for an objective.
 
 ***
 
 ### Invariants as Behaviour-Shaping Boundaries (Illustrative Only)
 
-EOS invariants are qualitative, enduring, and deliberately non-prescriptive. They shape how decisions are made, how trade-offs are navigated, and how governance responds to stress without dictating specific practices or metrics.
+EOM invariants are qualitative, enduring, and deliberately non-prescriptive. They shape how decisions are made, how trade-offs are navigated, and how governance responds to stress without dictating specific practices or metrics.
 
 Rather than being measured directly, invariants are **respected, protected, and interpreted**.
 
 KPIs may indicate when invariant boundaries are repeatedly stressed or violated, but invariants themselves are not reduced to numerical form.
 
-Governance in EOS is therefore concerned with:
+Governance in EOM is therefore concerned with:
 
 * Detecting persistent patterns
 * Understanding systemic causes
@@ -77,7 +77,7 @@ This distinction—between sensing constraint health and preserving invariant in
 
 ### OKRs as Explicit Learning Intent
 
-Within the boundaries established by invariants and constraints, EOS treats **Objectives and Key Results (OKRs)** as **time-bound expressions of learning intent**.
+Within the boundaries established by invariants and constraints, EOM treats **Objectives and Key Results (OKRs)** as **time-bound expressions of learning intent**.
 
 An OKR articulates:
 
@@ -87,7 +87,7 @@ An OKR articulates:
 
 OKRs are therefore not commitments, plans, or forecasts. They are **structured bets** placed in pursuit of value delivery under uncertainty.
 
-From an EOS perspective:
+From an EOM perspective:
 
 * OKRs are expected to change
 * OKRs are allowed to fail
@@ -120,7 +120,7 @@ Where KPIs protect system viability, key results inform system evolution.
 
 ### Separation of System Layers
 
-EOS relies on a clear separation of concerns:
+EOM relies on a clear separation of concerns:
 
 * **Invariants** define what must not be compromised
 * **KPIs** sense whether constraints are being respected
@@ -136,13 +136,13 @@ Embedding KPIs directly into OKRs collapses sensing and steering into a single c
 
 _Example:_ Treating deployment frequency both as a KPI and as a key result typically leads to superficial acceleration, degraded quality signals, and reduced learning — not because teams are failing, but because sensing has been repurposed as enforcement.
 
-From an EOS standpoint, such collapse represents a design violation, not a tooling mistake.
+From an EOM standpoint, such collapse represents a design violation, not a tooling mistake.
 
 ***
 
 ### Governance: Sense, Interpret, Adapt
 
-EOS governance does not mandate OKR success nor does it treat KPI movement in isolation as achievement or failure.
+EOM governance does not mandate OKR success nor does it treat KPI movement in isolation as achievement or failure.
 
 Instead, governance:
 
@@ -163,7 +163,7 @@ This governance posture recognises that in complex systems:
 
 Organisations rarely struggle because they lack metrics or objectives. They struggle because they **confuse signals with goals, learning with execution, and control with progress**.
 
-EmergentOS addresses this by restoring clear system boundaries:
+The Emergent Operating Model addresses this by restoring clear system boundaries:
 
 * Viability is protected through constraints and their signals
 * Behaviour is shaped through invariants
