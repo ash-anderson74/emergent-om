@@ -15,7 +15,7 @@
 * [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
-* [How EmergentOS Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
+* [How the Emergent Operating Model Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
 * [Why Synchronisation Is Not Alignment](why-synchronisation-is-not-alignment.md)
 * [Why Team Structure Emerges from Constraints](why-team-structure-emerges-from-constraints.md)
 * [Reading the EOM Component Relationship Model](reading-the-emergentos-component-relationship-model.md)
