@@ -7,9 +7,9 @@ Not mandatory. Not prescriptive. Context-sensitive.
 
 ***
 
-## Purpose of Strategic Alignment in EmergentOS
+## Purpose of Strategic Alignment in the Emergent Operating Model
 
-In EmergentOS, strategic alignment is not achieved through cascading plans or centralized control.
+In the Emergent Operating Model (EOM), strategic alignment is not achieved through cascading plans or centralized control.
 
 It is achieved through:
 
@@ -29,14 +29,14 @@ Lean Value Trees were introduced by Linda Luu, Jim Highsmith, and Dave Robinson 
 
 Their intent was to provide a lightweight, hypothesis-driven approach to portfolio governance that connects strategy to execution while preserving adaptability.
 
-EmergentOS adopts Lean Value Trees as a **strategic alignment mechanism**, and integrates them with OKRs and flow-based visualization to form a continuous alignment loop.
+The Emergent Operating Model adopts Lean Value Trees as a **strategic alignment mechanism**, and integrates them with OKRs and flow-based visualization to form a continuous alignment loop.
 
 [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 {% endhint %}
 
 ***
 
-## The Strategic Alignment Problem EOS Is Solving
+## The Strategic Alignment Problem EOM Is Solving
 
 Most organizations struggle to align strategy and execution because:
 
@@ -53,13 +53,13 @@ Symptoms include:
 * “everything is important” portfolios
 * long feedback loops between strategy and outcomes
 
-EOS addresses this by replacing **cascaded commitments** with **shared, visual intent**.
+EOM addresses this by replacing **cascaded commitments** with **shared, visual intent**.
 
 ***
 
-## The Role of Lean Value Trees in EmergentOS
+## The Role of Lean Value Trees in the Emergent Operating Model
 
-Lean Value Trees are the **primary strategic alignment artefact** in EOS.
+Lean Value Trees are the **primary strategic alignment artefact** in EOM.
 
 They provide a **visual map** that connects:
 
@@ -118,7 +118,7 @@ Value streams represent the **structural flow of value** to customers.
 * Organize teams and flow
 * Provide delivery capacity
 
-In EOS:
+In EOM:
 
 * Bets may span multiple value streams
 * Value streams do not own strategy
@@ -154,7 +154,7 @@ This is where **strategy meets evidence**.
 
 ## How Lean Value Trees Connect to OKRs
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * **Strategic themes** often map to portfolio-level OKRs
 * **Bets** shape the intent behind team-level OKRs
@@ -294,7 +294,7 @@ Alignment is healthy when:
 
 ## Governance Implications
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * strategy is steered through bets, not directives
 * alignment is maintained through visibility, not enforcement
@@ -310,7 +310,7 @@ Lean Value Trees give structure to intent.\
 OKRs give language to outcomes.\
 Portfolio Kanban gives visibility to reality.
 
-Together, they allow EmergentOS to align strategy and execution **without sacrificing adaptability**.
+Together, they allow the Emergent Operating Model to align strategy and execution **without sacrificing adaptability**.
 
 Alignment is not achieved by telling teams what to do.\
 It is achieved by making purpose, progress, and learning visible to everyone.
