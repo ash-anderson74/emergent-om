@@ -1,19 +1,17 @@
 # Aspirations vs Commitments
 
-EmergentOS distinguishes explicitly between **aspirational outcome goals** and **high-integrity commitments**.
+The Emergent Operating Model (EOM) distinguishes explicitly between **aspirational outcome goals** and **high-integrity commitments**.
 
 This distinction is critical to preserving adaptability **without denying real-world obligations**.\
 Equally important is a second, reinforcing constraint:
 
-> **In EmergentOS, commitments are earned through validated learning — never declared in advance.**
+> **In the Emergent Operating Model, commitments are earned through validated learning — never declared in advance.**
 
 > **Lineage note**
 >
 > This distinction aligns with the Product Operating Model articulated by Marty Cagan, particularly in _Empowered_, which emphasizes aspirational outcome goals for empowered teams while acknowledging the presence of rare, non-negotiable obligations in modern enterprises.
 >
-> EmergentOS extends this model by introducing an explicit constraint:
->
->
+> EOM extends this model by introducing an explicit constraint:
 >
 > **Commitment without prior learning is not permitted.**
 >
@@ -25,7 +23,7 @@ Equally important is a second, reinforcing constraint:
 
 ## Aspirational OKRs
 
-Aspirational OKRs are the **default goal-setting mechanism** in EmergentOS.
+Aspirational OKRs are the **default goal-setting mechanism** in the Emergent Operating Model.
 
 They are used when:
 
@@ -60,7 +58,7 @@ Examples include:
 
 However, **external obligation does not eliminate uncertainty**.
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * feasibility is never assumed
 * viability is never implicit
@@ -110,7 +108,7 @@ This boundary is intentional, visible, and time-limited.
 
 ## Guardrails for High-Integrity Commitments
 
-To prevent misuse, EmergentOS requires that High-Integrity Commitments:
+To prevent misuse, the Emergent Operating Model requires that High-Integrity Commitments:
 
 * are explicitly labelled as commitments
 * include a clear justification for determinism
@@ -146,4 +144,4 @@ When commitments are made **without learning**:
 * teams inherit uncertainty they did not create
 * governance mistakes confidence for control
 
-EmergentOS exists to make these failure modes explicit — and preventable.
+The Emergent Operating Model exists to make these failure modes explicit — and preventable.
