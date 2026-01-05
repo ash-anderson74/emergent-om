@@ -1,6 +1,6 @@
 # The Emergent Operating Model
 
-**Emergent Operating Model (EOM)** is a living operating system specification for product and engineering organizations operating in complex, high-uncertainty environments.
+**Emergent Operating Model (EOM)** is a living specification for an organisational operating system for product and engineering organizations operating in complex, high-uncertainty environments.
 
 It describes how strategy, discovery, delivery, flow, learning, and governance can work together to enable fast feedback, empowered teams, and outcome-driven decision-making—without resorting to deterministic planning or rigid frameworks.
 
@@ -28,7 +28,7 @@ Many organizations still rely on:
 * centralized control disguised as alignment
 * flow optimization without feedback or learning
 
-EmergentOS exists to offer a coherent alternative:
+EOM exists to offer a coherent alternative:
 
 * outcomes over outputs
 * learning over certainty
@@ -54,7 +54,7 @@ Each element is intentionally modular and context-dependent.
 
 ***
 
-## What The Emergenet Operating Model Is Not
+## What The Emergent Operating Model Is Not
 
 EOM does **not**:
 
