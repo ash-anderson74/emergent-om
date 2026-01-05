@@ -1,13 +1,13 @@
-# Why EOS Refuses to Orchestrate Time
+# Why EOM Refuses to Orchestrate Time
 
-EmergentOS deliberately refuses to orchestrate time.
+The Emergent Operating Model (EOM) deliberately refuses to orchestrate time.
 
 This is not an omission.\
 It is a design decision rooted in how complex systems actually learn, adapt, and fail.
 
 Many operating models attempt to improve outcomes by **scheduling behaviour**: fixing event calendars, mandating ceremonies, synchronising teams, and prescribing temporal sequences. These approaches promise coordination, predictability, and control. In practice, they often reintroduce the very dynamics they seek to escape: delayed feedback, performative reporting, brittle plans, and compliance-driven behaviour.
 
-EmergentOS takes a different position.
+EOM takes a different position.
 
 It treats time not as something to be controlled, but as something **to be sensed**.
 
@@ -29,13 +29,13 @@ When uncertainty is high:
 
 Attempting to force learning, delivery, or improvement into fixed temporal sequences does not reduce uncertainty — it **masks it**.
 
-EOS refuses to orchestrate time because doing so would privilege **schedule adherence over learning quality**.
+EOM refuses to orchestrate time because doing so would privilege **schedule adherence over learning quality**.
 
 ***
 
 ### Cadence Is Not Control
 
-The cadences described in EmergentOS are often misread as a timing framework.
+The cadences described in the Emergent Operating Model are often misread as a timing framework.
 
 They are not.
 
@@ -59,22 +59,22 @@ The quarterly learning cycle exists not to plan work, but to ensure learning is 
 
 ***
 
-### Why EOS Does Not Specify Interaction Patterns
+### Why EOM Does Not Specify Interaction Patterns
 
-A common request is for EOS to define how loops interact:\
+A common request is for EOM to define how loops interact:\
 what waits for what, what overrides what, who arbitrates conflicts.
 
-EOS refuses to do this for a simple reason:
+EOM refuses to do this for a simple reason:
 
 > If learning required permission from another loop, learning would no longer be governing the system.
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * discovery may invalidate strategic intent mid-cycle
 * flow signals may demand improvement immediately
 * governance sensing may surface risks outside formal review windows
 
-When tensions appear, EOS does not ask _which loop wins_.
+When tensions appear, EOM does not ask _which loop wins_.
 
 It asks:\
 **What invariant is currently being violated — and what constraint must change to restore coherence?**
@@ -84,7 +84,7 @@ It is diagnostic evidence.
 
 ***
 
-### Why EOS Does Not Provide “Cadence Events”
+### Why EOM Does Not Provide “Cadence Events”
 
 Concrete event definitions feel helpful.\
 They are also how prescription quietly enters systems.
@@ -95,7 +95,7 @@ Once named and templated, events become:
 * reporting forums
 * deliverables in disguise
 
-EOS intentionally avoids defining:
+EOM intentionally avoids defining:
 
 * agendas
 * ceremonies
@@ -108,17 +108,17 @@ When teams and leaders design cadence events locally, informed by violated invar
 
 ***
 
-### Why EOS Avoids Success Metrics for Cadences
+### Why EOM Avoids Success Metrics for Cadences
 
 Another common ask is for indicators that cadences are “working”.
 
-EOS does not define cadence success because:
+EOM does not define cadence success because:
 
 * learning quality cannot be gamed if it is not targetised
 * flow health already reveals system behaviour
 * governance effectiveness is visible through response quality, not checklist completion
 
-The question EOS encourages instead is:
+The question EOM encourages instead is:
 
 > _Are decisions changing because of learning — or despite it?_
 
@@ -128,7 +128,7 @@ If learning does not alter investment, priority, or constraints, cadence exists 
 
 ### Why Initialization Is Not Specified
 
-EOS does not tell organisations how to “start”.
+EOM does not tell organisations how to “start”.
 
 That is intentional.
 
@@ -140,7 +140,7 @@ Starting points emerge from diagnosis:
 
 Attempting to phase in cadences without understanding existing system dynamics would simply overlay new structure on old incentives.
 
-EOS requires leaders to **observe first**, intervene second.
+EOM requires leaders to **observe first**, intervene second.
 
 ***
 
@@ -155,7 +155,7 @@ Synchronised cadences:
 * centralise decision-making
 * suppress local learning
 
-EOS scales by:
+EOM scales by:
 
 * allowing loops to exist at multiple strata
 * aggregating signals, not plans
@@ -165,9 +165,9 @@ Coherence emerges through shared invariants, not shared schedules.
 
 ***
 
-### What EOS Chooses Instead
+### What EOM Chooses Instead
 
-EmergentOS replaces time orchestration with:
+The Emergent Operating Model replaces time orchestration with:
 
 * invariant-driven design
 * constraint-based behaviour shaping
@@ -180,9 +180,9 @@ Time is used to **protect reflection**, not to enforce predictability.
 
 ### In Closing
 
-EOS refuses to orchestrate time because doing so would undermine the very learning it exists to protect.
+The Emergent Operating Model refuses to orchestrate time because doing so would undermine the very learning it exists to protect.
 
-Cadence in EmergentOS is not a clock.\
+Cadence in the Emergent Operating Model is not a clock.\
 It is a **rhythm of sense-making**.
 
 And rhythms, unlike schedules, must adapt to the system that generates them.
