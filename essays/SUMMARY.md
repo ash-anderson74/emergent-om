@@ -2,7 +2,7 @@
 
 * [Essays](README.md)
 * [The Emergent Operating Model: A Board-Level Explanation](emergerntos-a-board-level-explanation.md)
-* [Why EmergentOS Exists](why-emergentos-exists.md)
+* [Why the Emergent Operating Model Exists](why-emergentos-exists.md)
 * [What Does “Operating Model” Mean in Emergent Operating Model?](what-does-operating-system-mean-in-emergentos.md)
 * [A Plain-English Introduction to Systems Thinking](a-plain-english-introduction-to-systems-thinking.md)
 * [Why Behaviour Follows Systems](why-behaviour-follows-systems.md)

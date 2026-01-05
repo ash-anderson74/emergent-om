@@ -1,6 +1,4 @@
-# Why EmergentOS Exists
-
-## Why the Emergent Operating Model Exists
+# Why the Emergent Operating Model Exists
 
 > _“Rather than the domain of work being repetitive, knowable, and deterministic with known-unknowns (you know how to fix it if something goes wrong), unique product development is unknowable and **emergent** with unknown-unknowns instead. For something that has not been done before, you don’t know what you don’t know until you do something and get feedback.”_\
 > — Jonathan Smart, _Sooner Safer Happier_
