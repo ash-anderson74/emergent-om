@@ -2,18 +2,17 @@
 
 ## Core Principles
 
-EmergentOS is governed by a small set of **core principles** that define how the system must behave to remain adaptive in complex, uncertain environments.
+The Emergent Operating Model (EOM) is governed by a small set of core principles that define how the system must behave to remain adaptive in complex, uncertain environments.
 
 These principles are **practice-agnostic**.\
-They remain valid regardless of tooling, methodology, or organizational structure.
-
+They remain valid regardless of tooling, methodology, or organizational structure.\
 They describe **what must be true**, not **how it must be achieved**.
 
 ***
 
 ### 1. Outcomes Over Outputs
 
-EmergentOS prioritizes **customer and business outcomes** over activity, scope completion, or delivery volume.
+EOM prioritizes **customer and business outcomes** over activity, scope completion, or delivery volume.
 
 Progress is assessed by observable change in the system or market, not by the amount of work performed. Outputs are treated as potential means, not measures of success.
 
@@ -29,7 +28,7 @@ Commitments are made progressively, informed by learning and evidence gathered t
 
 ### 3. Learning Over Certainty
 
-EmergentOS assumes that uncertainty is intrinsic to product development.
+EOM assumes that uncertainty is intrinsic to product development.
 
 Learning is treated as the primary mechanism for reducing risk, guiding investment, and improving outcomes. Early certainty is considered a liability in complex domains unless justified by evidence.
 
@@ -37,7 +36,7 @@ Learning is treated as the primary mechanism for reducing risk, guiding investme
 
 ### 4. Empowerment Over Centralized Control
 
-Decision-making authority is decentralized as close to the work as possible.
+Decision-making **authority is decentralized** as close to the work as possible.
 
 Teams are trusted to own outcomes, make trade-offs, and adapt their approach within clear strategic boundaries. Control is exercised through intent, transparency, and feedback rather than instruction.
 
@@ -45,7 +44,7 @@ Teams are trusted to own outcomes, make trade-offs, and adapt their approach wit
 
 ### 5. Flow Over Utilization and Schedules
 
-EmergentOS optimizes for the **smooth flow of value and learning** through the system.
+EOM optimizes for the **smooth flow of value and learning** through the system.
 
 Efficiency is understood in terms of feedback speed and constraint reduction, not resource utilization or adherence to schedules. Local optimization that degrades system flow is treated as a risk.
 
@@ -55,7 +54,7 @@ Efficiency is understood in terms of feedback speed and constraint reduction, no
 
 The system is expected to **improve continuously**, not converge on a fixed optimal state.
 
-EmergentOS values deliberate reflection, experimentation, and constraint removal over short-term efficiency gains. Improvement work is considered essential, not optional.
+EOM values deliberate reflection, experimentation, and constraint removal over short-term efficiency gains. Improvement work is considered essential, not optional.
 
 ***
 
@@ -69,7 +68,7 @@ Evidence is interpreted collaboratively and contextually. Metrics are used to in
 
 ### 8. Sustainability Over Short-Term Pace
 
-EmergentOS is designed for long-term effectiveness.
+EOM is designed for long-term effectiveness.
 
 Work is paced to maintain resilience, quality, and human sustainability. The system deliberately creates space for reflection, learning, and recovery, recognizing that sustained performance requires care for both people and infrastructure.
 
@@ -77,14 +76,17 @@ Work is paced to maintain resilience, quality, and human sustainability. The sys
 
 ## System Invariants (Conditions of Compatibility)
 
-In addition to its principles, **EmergentOS defines a small number of explicit system invariants.**\
-These invariants protect the integrity of the operating system and prevent it from collapsing into prescriptive frameworks or deterministic control models.
+In addition to its principles, the **Emergent Operating Model defines a small number of explicit system invariants**.
+
+These invariants protect the integrity of the operating model and prevent it from collapsing into prescriptive frameworks or deterministic control models.
+
+_Invariants define what must remain true; local constraints are how organisations uphold them in practice._
 
 ***
 
 ### A. Methodological Non-Prescription
 
-EmergentOS does **not** mandate delivery methodologies, frameworks, or ceremonies.
+EOM does not mandate delivery methodologies, frameworks, or ceremonies.
 
 Teams may employ any approach—Agile or otherwise—that suits their context, provided it aligns with the core principles of learning, outcomes, and flow.
 
@@ -94,7 +96,7 @@ If a chosen method impedes learning or constrains outcomes, it is expected to ev
 
 ### B. Incremental and Reversible Commitment
 
-Commitments are intentionally **incremental and reversible** wherever uncertainty exists.
+Commitments are intentionally incremental and reversible wherever uncertainty exists.
 
 Large, irreversible decisions without sufficient learning are treated as sources of systemic risk.
 
@@ -110,7 +112,7 @@ It exists to observe system behavior, detect constraints, and guide adjustment�
 
 ### D. Practices Are Contextual, Not Canonical
 
-Practices commonly associated with EmergentOS—such as outcome frameworks, flow visualization techniques, continuous delivery, or improvement cycles—are **illustrative**, not mandatory.
+Practices commonly associated with the Emergent Operating Model—such as outcome frameworks, flow visualization techniques, continuous delivery, or improvement cycles—are **illustrative**, not mandatory.
 
 They represent patterns that have repeatedly proven effective under similar constraints, but are not required for conformance.
 
@@ -118,17 +120,17 @@ They represent patterns that have repeatedly proven effective under similar cons
 
 ### E. Structural Coherence Over Uniformity
 
-EmergentOS favors coherence through shared principles over uniformity through standardization.
+EOM favors coherence through shared principles over uniformity through standardization.
 
 Local adaptation is encouraged, provided system-level intent, learning, and accountability remain intact.
 
 ***
 
-### Summary
+## Summary
 
-EmergentOS is defined not by the practices it prescribes, but by the behaviours it permits and the violations it prevents.
+The Emergent Operating Model is defined not by the practices it prescribes, but by the behaviours it permits and the violations it prevents.
 
-Organisations establish and evolve constraints locally to uphold these invariants; EmergentOS does not prescribe those constraints.
+Organisations establish and evolve constraints locally to uphold these invariants; EOM does not prescribe those constraints.
 
 The core principles establish how the system must think and learn.\
 The **invariants** ensure it remains adaptable, humane, and evidence-driven.
