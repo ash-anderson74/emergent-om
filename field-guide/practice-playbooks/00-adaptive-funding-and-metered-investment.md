@@ -7,9 +7,9 @@ Not mandatory. Not prescriptive. Context-sensitive.
 
 ***
 
-## Purpose of Adaptive Funding in EmergentOS
+## Purpose of Adaptive Funding in the Emergent Operating Model
 
-In EmergentOS, funding exists to **enable learning before commitment**.
+In the Emergent Operating Model (EOM), funding exists to **enable learning before commitment**.
 
 It is not:
 
@@ -18,7 +18,7 @@ It is not:
 * a reward for optimism
 * a control mechanism
 
-EOS uses adaptive funding to:
+EOM uses adaptive funding to:
 
 * reduce investment risk through learning
 * prevent sunk-cost escalation
@@ -42,8 +42,8 @@ The concepts of metered funding and learning-driven investment draw from:
 * _SOONER SAFER HAPPIER_ — Jonathan Smart\
   (BVSSH model, outcome-oriented funding, investment horizons)
 
-EmergentOS synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
-EOS explicitly rejects using funding as a delivery contract or performance control.
+The Emergent Operating Model synthesizes these ideas and applies them under a **learning-first, flow-aware, non-deterministic operating model**.\
+EOM explicitly rejects using funding as a delivery contract or performance control.
 
 [References](https://app.gitbook.com/s/oCIDNaq6Gp7xkyOJCltO/literature)
 {% endhint %}
@@ -76,7 +76,7 @@ Adaptive funding exists to **break this pattern safely**.
 
 ## Core Assumptions (Required for Adaptive Funding to Work)
 
-Adaptive funding in EOS assumes:
+Adaptive funding in EOM assumes:
 
 1. Value is uncertain at the start
 2. Learning reduces risk faster than analysis
@@ -90,7 +90,7 @@ If these assumptions are rejected, funding becomes theater.
 
 ## Funding as a Series of Learning Bets
 
-In EmergentOS, funding is framed as a **portfolio of bets**, not projects.
+In the Emergent Operating Model, funding is framed as a **portfolio of bets**, not projects.
 
 Each bet includes:
 
@@ -112,7 +112,7 @@ But:
 
 ## Lean Value Trees as the Structural Backbone for Adaptive Funding
 
-EmergentOS uses **Lean Value Trees (LVTs)** to make strategy, investment, and learning **explicit, visual, and navigable**.
+The Emergent Operating Model uses **Lean Value Trees (LVTs)** to make strategy, investment, and learning **explicit, visual, and navigable**.
 
 LVTs provide the **shared map** that connects:
 
@@ -122,13 +122,13 @@ LVTs provide the **shared map** that connects:
 * funding decisions
 * outcomes and evidence
 
-They intentionally align with other visual practices in EOS (e.g. Kanban, Portfolio Kanban, flow visualisation) to support transparency and sensemaking.
+They intentionally align with other visual practices in EOM (e.g. Kanban, Portfolio Kanban, flow visualisation) to support transparency and sensemaking.
 
 ***
 
 ## Structure of a Lean Value Tree (LVT)
 
-An LVT in EmergentOS is composed of the following layers:
+An LVT in the Emergent Operating Model is composed of the following layers:
 
 ### 1. Vision (Optional Top Layer)
 
@@ -171,7 +171,7 @@ Each bet includes:
 * success and failure criteria
 * explicit uncertainty
 
-Bets are the **primary unit of adaptive funding** in EOS.
+Bets are the **primary unit of adaptive funding** in EOM.
 
 ***
 
@@ -183,7 +183,7 @@ Value Streams represent the **structural pathways** through which value is deliv
 * They organize teams and flow
 * They persist beyond individual bets
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * **Bets may span one or more value streams**
 * Value streams provide capacity and flow context
@@ -236,7 +236,7 @@ This layer closes the loop between **investment and evidence**.
 
 ## How Bets, Value Streams, and Funding Interact
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * **Funding is allocated to bets**, not projects
 * **Bets cut across value streams**, reflecting how customers experience value
@@ -312,13 +312,13 @@ A common failure mode is allocating fixed budgets per value stream and expecting
 * Encourages output over outcome
 * Makes stopping work politically difficult
 
-EmergentOS uses LVTs specifically to avoid this pattern.
+The Emergent Operating Model uses LVTs specifically to avoid this pattern.
 
 ***
 
 ## Why Lean Value Trees Matter in Adaptive Funding
 
-Lean Value Trees allow EmergentOS to:
+Lean Value Trees allow the Emergent Operating Model to:
 
 * visualise strategy-to-outcome traceability
 * make investment intent explicit
@@ -362,7 +362,7 @@ Uncertainty is high:
 
 ***
 
-### EOS-Aligned Outcome Framing
+### EOM-Aligned Outcome Framing
 
 **Who / Does What / By How Much**
 
@@ -392,7 +392,7 @@ Uncertainty is high:
 
 ***
 
-### EOS-Aligned Decision
+### EOM-Aligned Decision
 
 * If learning is strong → increase investment
 * If learning is weak → pivot or stop
@@ -428,7 +428,7 @@ Leadership believes “everything is critical.”
 
 ***
 
-### EOS-Aligned Outcome Framing
+### EOM-Aligned Outcome Framing
 
 * **Active initiatives** reduced **from 20 to under 12**
 * **Time to reallocate funding** reduced **from quarterly to monthly**
@@ -444,7 +444,7 @@ Leadership believes “everything is critical.”
 
 ***
 
-### EOS-Aligned Intervention
+### EOM-Aligned Intervention
 
 * Visualize investments as a flow
 * Introduce WIP limits at initiative level
@@ -471,7 +471,7 @@ Funding decisions shift from **allocation** to **flow management**.
 
 ## How Adaptive Funding Interacts with OKRs
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * OKRs define intended outcomes
 * Funding follows validated progress toward those outcomes
@@ -511,7 +511,7 @@ Funding decides **what to change**.
 
 ## Governance as Investment Coaching
 
-In EOS, funding governance is developmental.
+In EOM, funding governance is developmental.
 
 Leaders do not ask:
 
@@ -618,6 +618,6 @@ Adaptive funding does not reduce ambition.
 
 It reduces **unexamined confidence**.
 
-EmergentOS treats funding as a learning system\
+The Emergent Operating Model treats funding as a learning system\
 because the safest way to invest in uncertainty\
 is to let evidence—not optimism—decide.
