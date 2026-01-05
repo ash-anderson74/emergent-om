@@ -29,7 +29,7 @@ The difference is not attitude, maturity, or talent.
 
 It is the **local operating conditions**.
 
-From an EmergentOS perspective, behaviour is not a personal trait.\
+From an Emergent Operating Model (EOM) perspective, behaviour is not a personal trait.\
 It is a rational response to the system as experienced locally.
 
 When a team learns that surfacing uncertainty invites scrutiny, escalation, or reputational risk, silence becomes sensible.\
@@ -50,7 +50,7 @@ These explanations obscure the real question:
 
 > What local constraints make certain behaviours rational here — and risky elsewhere?
 
-EmergentOS makes this question explicit. It treats variation in behaviour as a signal of variation in system design, not a failure of people.
+EOM makes this question explicit. It treats variation in behaviour as a signal of variation in system design, not a failure of people.
 
 The operating system may be global in intent, but it is always local in practice.
 
