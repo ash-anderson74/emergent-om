@@ -7,9 +7,9 @@ Not mandatory. Not prescriptive. Not exhaustive.
 
 ***
 
-## Purpose of OKRs in EmergentOS
+## Purpose of OKRs in the Emergent Operating Model
 
-In EmergentOS, OKRs exist to **make strategy testable through evidence**.
+In the Emergent Operating Model (EOM), OKRs exist to **make strategy testable through evidence**.
 
 They are not:
 
@@ -18,14 +18,14 @@ They are not:
 * a substitute for certainty
 * a mechanism for compliance reporting
 
-EOS uses OKRs primarily to:
+EOM uses OKRs primarily to:
 
 * express strategic intent
 * surface assumptions about value and feasibility
 * anchor learning to measurable outcomes
 * inform funding and governance decisions
 
-**By default, OKRs in EmergentOS are aspirational.**
+**By default, OKRs in the Emergent Operating Model are aspirational.**
 
 ***
 
@@ -33,13 +33,13 @@ EOS uses OKRs primarily to:
 **Lineage note**
 
 The “Who does what by how much” framing originates from _Who Does What by How Much_ by Jeff Gothelf and Josh Seiden, 2024.\
-EmergentOS adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
+The Emergent Operating Model adopts this structure because it clearly expresses intended outcome, ownership, and measurable change without prescribing solutions.
 
 The distinction between **aspirational outcome goals** and **commitments** is drawn from Marty Cagan’s Product Operating Model, as described in works such as _Inspired_, _Empowered_, and _Transformed_.
 
 Cagan emphasizes that empowered teams should operate primarily with outcome-focused aspirations, while acknowledging that modern enterprises occasionally require commitments due to regulatory, legal, or safety constraints.
 
-EmergentOS systematizes this distinction and adds an explicit requirement:
+The Emergent Operating Model systematizes this distinction and adds an explicit requirement:
 
 **commitments must be earned through learning, not declared upfront.**
 
@@ -69,7 +69,7 @@ OKRs address this **only when they are treated as hypotheses**, not promises.
 
 ## Core Assumptions (Required for OKRs to Work)
 
-OKRs are effective in EmergentOS _only if the following assumptions hold_:
+OKRs are effective in the Emergent Operating Model _only if the following assumptions hold_:
 
 1. Outcomes are uncertain at the outset
 2. Learning will change priorities
@@ -81,9 +81,9 @@ If these assumptions are rejected, OKRs will degrade into theater.
 
 ***
 
-## Two Modes of Intent in EmergentOS
+## Two Modes of Intent in the Emergent Operating Model
 
-EmergentOS explicitly supports **two different modes of intent**, each with different rules and governance behaviours:
+The Emergent Operating Model explicitly supports **two different modes of intent**, each with different rules and governance behaviours:
 
 1. **Aspirational OKRs** — the default mode
 2. **High-Integrity Commitments** — the exceptional mode
@@ -128,7 +128,7 @@ Improve first-time user success during onboarding.
 * **Median time-to-first-value** reduced **from 3 days to 1 day**
 * **Onboarding-related support requests** reduced **by 30%**
 
-**Interpretation in EOS**
+**Interpretation in EOM**
 
 * These KRs express hypotheses about value
 * Discovery shapes both solutions and measures
@@ -154,7 +154,7 @@ These situations reduce adaptability — but they do **not eliminate uncertainty
 
 ## High-Integrity Commitments: A Critical Constraint
 
-In EmergentOS, **teams do not make High-Integrity Commitments without first performing sufficient learning** to justify confidence.
+In the Emergent Operating Model, **teams do not make High-Integrity Commitments without first performing sufficient learning** to justify confidence.
 
 Even when regulations require delivery:
 
@@ -175,7 +175,7 @@ A **High-Integrity Commitment** is a high-value commitment that is:
 * constrained deliberately to reduce risk
 * transparent about remaining uncertainty
 
-EmergentOS does not permit commitments that bypass learning.
+EOM does not permit commitments that bypass learning.
 
 ***
 
@@ -199,7 +199,7 @@ Meet regulatory reporting requirements by 30 September.
 * Reports submitted in compliance with regulation X
 * External audit completed with no material findings
 
-**EOS Handling**
+**EOM Handling**
 
 * Scope tightly constrained to regulatory need
 * Discovery focuses on feasibility and risk mitigation
@@ -216,7 +216,7 @@ This commitment:
 
 ## Guardrails for High-Integrity Commitments
 
-To prevent misuse, EmergentOS requires that commitments:
+To prevent misuse, the Emergent Operating Model requires that commitments:
 
 1. Are explicitly labelled as such
 2. Include justification for determinism
@@ -232,7 +232,7 @@ A proliferation of commitments is treated as a **systemic warning signal**, not 
 
 ## How the Two Modes Coexist
 
-In healthy EOS environments:
+In healthy EOM environments:
 
 * Most work operates under aspirational OKRs
 * Some work is constrained by High-Integrity Commitments
@@ -303,7 +303,7 @@ If learning has not occurred, commitment is premature.
 
 ***
 
-## EOS-Aligned Interpretation of Objectives
+## EOM-Aligned Interpretation of Objectives
 
 ### What an Objective Is
 
@@ -331,7 +331,7 @@ Bad objectives describe:
 
 ***
 
-## EOS-Aligned Interpretation of Key Results
+## EOM-Aligned Interpretation of Key Results
 
 ### What a Key Result Is
 
@@ -344,7 +344,7 @@ It:
 * may evolve as learning increases
 * is not guaranteed or controllable
 
-EOS treats Key Results as:
+EOM treats Key Results as:
 
 * _signals of progress_, not commitments
 * _learning tools_, not success criteria
@@ -356,7 +356,7 @@ If a Key Result can be completed by effort alone, it is likely an output.
 
 ## How OKRs Interact with Discovery
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * Discovery generates candidate Key Results
 * Key Results shape discovery focus
@@ -378,7 +378,7 @@ When discovery and OKRs are separated:
 OKRs define _why_ work exists.\
 Flow reveals _how_ work moves.
 
-EOS uses flow signals to:
+EOM uses flow signals to:
 
 * contextualize OKR progress
 * identify delivery constraints affecting outcomes
@@ -396,7 +396,7 @@ Together, they prevent both:
 
 ## How OKRs Interact with Funding and Governance
 
-In EmergentOS:
+In the Emergent Operating Model:
 
 * OKRs inform funding decisions
 * funding follows validated learning
@@ -466,7 +466,7 @@ Focus shifts from learning to achievement optics.
 
 ***
 
-## Signals of Healthy OKR Usage in EOS
+## Signals of Healthy OKR Usage in EOM
 
 OKRs are working when:
 
@@ -489,13 +489,13 @@ OKRs are harmful when:
 * learning conversations disappear
 * governance becomes status-driven again
 
-When this occurs, the issue is not OKRs. It is a violation of EOS principles.
+When this occurs, the issue is not OKRs. It is a violation of EOM principles.
 
 ***
 
 ## Relationship to Other Practices
 
-OKRs are most effective in EmergentOS when combined with:
+OKRs are most effective in the Emergent Operating Model when combined with:
 
 * continuous discovery (to validate assumptions)
 * adaptive funding (to respond to learning)
@@ -522,7 +522,7 @@ This framing makes ownership, intent, and evidence explicit—without prescribin
 
 ## Example 1: Product Discovery and Adoption
 
-### EOS-Aligned OKR (Well-Structured)
+### EOM-Aligned OKR (Well-Structured)
 
 **Objective**\
 Improve first-time user success for the onboarding experience.
@@ -565,7 +565,7 @@ Deliver the new onboarding flow.
 
 ## Example 2: Platform Reliability
 
-### EOS-Aligned OKR (Well-Structured)
+### EOM-Aligned OKR (Well-Structured)
 
 **Objective**\
 Improve system reliability during peak usage periods.
@@ -602,13 +602,13 @@ Improve DORA metrics.
 * Metrics become goals rather than signals
 * Encourages gaming and risk avoidance
 * Decouples engineering effort from user experience
-* Violates EOS principle: _metrics inform learning, not compliance_
+* Violates EOM principle: _metrics inform learning, not compliance_
 
 ***
 
 ## Example 3: Flow and Decision Latency
 
-### EOS-Aligned OKR (Well-Structured)
+### EOM-Aligned OKR (Well-Structured)
 
 **Objective**\
 Reduce delay caused by cross-team dependencies.
@@ -650,7 +650,7 @@ Improve delivery efficiency.
 
 ## Example 4: Learning and Validation
 
-### EOS-Aligned OKR (Well-Structured)
+### EOM-Aligned OKR (Well-Structured)
 
 **Objective**\
 Increase confidence in investment decisions through faster learning.
@@ -692,7 +692,7 @@ Become more data-driven.
 
 ## Pattern Summary
 
-Across all effective EOS-aligned OKRs:
+Across all effective EOM-aligned OKRs:
 
 * Objectives describe **intent**, not solutions
 * Key Results describe **observable change**, not tasks
@@ -725,7 +725,7 @@ If the answers are unclear, the OKR is not ready.
 Good OKRs make learning unavoidable.\
 Bad OKRs make learning optional.
 
-EmergentOS does not require perfection—it requires honesty.
+The Emergent Operating Model does not require perfection—it requires honesty.
 
 OKRs are valuable only when they expose reality,\
 even when that reality is uncomfortable.
@@ -733,7 +733,7 @@ even when that reality is uncomfortable.
 OKRs are powerful because they are **aspirational**.\
 Commitments are powerful because they are **earned**.
 
-EmergentOS protects both by insisting that:
+The Emergent Operating Model protects both by insisting that:
 
 * learning precedes commitment
 * determinism is explicit and constrained
