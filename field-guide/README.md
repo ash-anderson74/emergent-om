@@ -95,7 +95,7 @@ The Emergent Operating Model addresses this by making the conditions explicit.
 
 ***
 
-## EmergentOS as a Pattern Integrator
+## The Emergent Operating Model as a Pattern Integrator
 
 Rather than prescribing a set of practices, the Emergent Operating Model defines:
 
