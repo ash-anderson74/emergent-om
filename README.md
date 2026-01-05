@@ -3,9 +3,9 @@
 > **Status:** Emergent Operating Model v1 — Frozen Specification  
 > Emergent Operating Model is stable. Evolution is governed by the policy defined in [EVOLUTION.md](./spec/EVOLUTION.md).
 
-Emergent Operating Model (EOM) is a **non-prescriptive operating model for adaptability** in complex socio-technical environments.
+Emergent Operating Model (EOM) is a **non-prescriptive operating model for adaptability** in complex socio-technical environments, where behaviour emerges from system conditions rather than instruction.
 
-It synthesizes recurring patterns observed across Lean, DevOps, product discovery, and organizational design literature into a single, coherent operating model—without freezing those patterns into dogma.
+It synthesizes recurring patterns from Lean, DevOps, product discovery, and organizational design into a single, coherent operating model—without freezing those patterns into dogma.
 
 Emergent Operating Model is not a framework, methodology, or maturity model.  
 It defines **constraints and operating logic**, not steps to follow.
@@ -58,7 +58,7 @@ Start here:
 - [/spec/README.md](./spec/README.md)
 - [/spec/00-introduction.md](./spec/00-introduction.md)
 
-The specification defines the **constraints, principles, and boundaries** of Emergent Operating Model.
+The specification defines the **constraints, principles, and boundaries** of the Emergent Operating Model.
 
 ---
 
@@ -66,7 +66,7 @@ The specification defines the **constraints, principles, and boundaries** of Eme
 
 Start here:
 
-- [/field-guide/00-from-patterns-to-operating-system.md](/field-guide/00-from-patterns-to-operating-system.md)
+- [/field-guide/00-from-patterns-to-operating-system.md](./field-guide/00-from-patterns-to-operating-system.md)
 
 The Field Guide explains the **operating logic** behind Emergent Operating Model and how recurring practices fit together—without prescribing them.
 
@@ -161,4 +161,4 @@ Emergent Operating Model does not aim to be complete.
 
 It aims to be **coherent**.
 
-If you find yourself wishing it specified *what to do next*, that tension is intentional. Emergent Operating Model exists to help organizations reason more clearly under uncertainty—not to remove the need for thinking.
+If you find yourself wishing it specified *what to do next*, that tension is intentional. The Emergent Operating Model exists to help organizations reason more clearly under uncertainty—not to remove the need for thinking.
