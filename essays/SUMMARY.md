@@ -22,3 +22,4 @@
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOM Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
+* [Why Outcomes Invite Learning — and Outputs Suppress It](why-outcomes-invite-learning-and-outputs-suppress-it.md)
