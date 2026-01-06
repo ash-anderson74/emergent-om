@@ -13,6 +13,7 @@
 * [Designing Constraints Without Turning EOM Into a Framework](designing-constraints-without-turning-eos-into-a-framework.md)
 * [Learning Is How the System Changes Itself](learning-is-how-the-system-changes-itself.md)
 * [Learning and Value in the Emergent Operating Model](learning-and-value-in-emergentos.md)
+* [Why Outcomes Invite Learning — and Outputs Suppress It](why-outcomes-invite-learning-and-outputs-suppress-it.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](okrs-kpis-and-value-delivery-in-an-emergent-system.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
 * [How the Emergent Operating Model Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
@@ -22,4 +23,3 @@
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
 * [Why EOM Refuses to Orchestrate Time](why-eos-refuses-to-orchestrate-time.md)
 * [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
-* [Why Outcomes Invite Learning — and Outputs Suppress It](why-outcomes-invite-learning-and-outputs-suppress-it.md)
