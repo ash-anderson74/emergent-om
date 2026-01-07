@@ -5,8 +5,8 @@ Emergent Operating Model (EOM) did not begin as a theoretical exercise.
 It emerged from repeated observation:\
 the same patterns of behaviour, failure, and recovery appearing across different organisations, domains, and change efforts.
 
-Over time, it became clear that these were not isolated problems or poor implementations.\
-They reflected **stable regularities in how socio-technical systems behave under uncertainty**.
+It is clear that these are not isolated problems or poor implementations.\
+They reflect **stable regularities in how socio-technical systems behave under uncertainty**.
 
 EOM does not attempt to formalise these regularities as theory.\
 It does something more practical: **it designs an operating model that does not fight them**.
