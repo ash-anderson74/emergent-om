@@ -158,6 +158,8 @@ If constrained by outcomes, it will adapt intelligently within boundaries of pur
 
 The task of leadership, then, is not to define better targets — but to design **better constraints**.
 
+This is why EOM treats governance as constraint design, not performance management.
+
 When outcomes are treated as system constraints rather than goals to be achieved, organisations stop mistaking motion for progress and begin evolving toward the value they exist to create.
 
 That is what it means, in an Emergent Operating Model, to _seek the right thing_.
