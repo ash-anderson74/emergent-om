@@ -19,6 +19,7 @@
 * [Seeking the Right Thing: Outcomes as Constraints in an Emergent Operating Model](seeking-the-right-thing-outcomes-as-constraints-in-an-emergent-operating-model.md)
 * [Adaptive Funding Under Uncertainty](adaptive-funding-under-uncertainty.md)
 * [Risk, Certainty, and the Illusion of Control](risk-certainty-and-the-illusion-of-control.md)
+* [Fear, Control, and Learning in Institutional Systems](fear-control-and-learning-in-institutional-systems.md)
 * [How the Emergent Operating Model Avoids the Illusion of Alignment](how-eos-avoids-the-illusion-of-alignment.md)
 * [Why Synchronisation Is Not Alignment](why-synchronisation-is-not-alignment.md)
 * [Why Team Structure Emerges from Constraints](why-team-structure-emerges-from-constraints.md)
