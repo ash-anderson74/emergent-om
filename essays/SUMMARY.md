@@ -29,3 +29,4 @@
 * [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
 * [A Boardroom Dialogue on Business Agility and Systemic Change](a-boardroom-dialogue-on-business-agility-and-systemic-change.md)
 * [The Regularities Emergent Operating Model Aligns With](the-regularities-emergent-operating-model-aligns-with.md)
+* [Known Features Do Not Make Delivery Predictable](known-features-do-not-make-delivery-predictable.md)
