@@ -27,6 +27,7 @@
 * [Why Organisations Lie to Themselves (Systemically)](why-organisations-lie-to-themselves-systemically.md)
 * [Planning Without Lying to Yourself](planning-without-lying-to-yourself.md)
 * [Defensibility: Why It Dominates Behaviour in Modern Organisations](defensibility-why-it-dominates-behaviour-in-modern-organisations.md)
+* [What Reversibility Means in EOM](what-reversibility-means-in-eom.md)
 * [Why Team Structure Emerges from Constraints](why-team-structure-emerges-from-constraints.md)
 * [Reading the EOM Component Relationship Model](reading-the-emergentos-component-relationship-model.md)
 * [Interpreting the Emergent Operating Model Learning Cycle](interpreting-the-emergentos-learning-cycle.md)
@@ -34,4 +35,3 @@
 * [A Conversation Between a SAFe Practitioner and an EOM Operator](safesceptic-vs-eos-operator.md)
 * [A Boardroom Dialogue on Business Agility and Systemic Change](a-boardroom-dialogue-on-business-agility-and-systemic-change.md)
 * [The Regularities Emergent Operating Model Aligns With](the-regularities-emergent-operating-model-aligns-with.md)
-* [What Reversibility Means in EOM](what-reversibility-means-in-eom.md)
