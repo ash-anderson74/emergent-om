@@ -19,6 +19,7 @@
 * [Pattern: Coaching Culture](15-coaching-culture.md)
 * [Pattern: Behaviour to Constraint Mapping](16-bahaviour-constraint-mapping.md)
 * [Pattern: Known Features, Unknown Delivery](pattern-known-features-unknown-delivery.md)
+* [Pattern: Hypothesis Backlog (Outcome-Led Roadmapping)](pattern-hypothesis-backlog-outcome-led-roadmapping.md)
 * [Anti-Patterns](anti-patterns/README.md)
   * [Anti-Pattern: Predictive Control in Uncertainty](anti-patterns/anti-pattern-predictive-control-in-uncertainty.md)
   * [Anti-Pattern: Budget as Constraint on Learning](anti-patterns/anti-pattern-budget-as-constraint-on-learning.md)
@@ -29,3 +30,4 @@
   * [Anti-Pattern: Commitment Without Learning](anti-patterns/anti-pattern-commitment-without-learning.md)
   * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets.md)
   * [Anti-Pattern: Local Optimization Masquerading as Alignment](anti-patterns/anti-pattern-local-optimization-masquerading-as-alignment.md)
+  * [Anti-Pattern: Outcome-Wrapped Feature Plans](anti-patterns/anti-pattern-outcome-wrapped-feature-plans.md)
