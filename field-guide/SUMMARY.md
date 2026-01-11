@@ -18,3 +18,4 @@
   * [Playbook: Continuous Discovery](practice-playbooks/05-continuous-discovery-in-emergentos.md)
   * [Playbook: Quarterly Learning Cycle](practice-playbooks/99-the-emergentos-quarterly-learning-cycle.md)
 * [Diagnostics](diagnostics/README.md)
+  * [Diagnostic: Detecting Outcome-Wrapped Feature Plans](diagnostics/detecting-outcome-wrapped-feature-plans.md)
