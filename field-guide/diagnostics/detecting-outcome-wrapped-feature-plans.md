@@ -1,4 +1,8 @@
-# PM Diagnostic: Detecting Outcome-Wrapped Feature Plans
+---
+description: A diagnostic for Product Managers
+---
+
+# Diagnostic: Detecting Outcome-Wrapped Feature Plans
 
 This diagnostic is a **sense-making aid**, not a set of rules or best practices.
 
