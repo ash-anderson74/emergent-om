@@ -6,6 +6,10 @@ This guide describes how Emergent Operating Model (EOM) operators facilitate sys
 
 This guide supports EOM operators in facilitating conversations that shift focus from behaviour correction to system redesign.
 
+It is designed to accompany the diagnostic:
+
+> [**Detecting Outcome-Wrapped Feature Plans**](../diagnostics/detecting-outcome-wrapped-feature-plans.md)
+
 It is deliberately lightweight. Its purpose is sensemaking — not diagnosis, judgement, or solution design.
 
 ***
