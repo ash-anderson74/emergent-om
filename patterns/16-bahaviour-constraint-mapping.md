@@ -205,4 +205,4 @@ Once that is understood, change becomes possible — and often inevitable.
 
 ***
 
-EOM operators may use the [facilitation guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/08-behaviour-constraint-mapping-in-practice) to apply this pattern in practice.
+EOM operators may use the [facilitation guide](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/facilitation-guides/behaviour-constraint-mapping-in-practice) to apply this pattern in practice.
