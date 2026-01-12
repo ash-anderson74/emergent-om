@@ -68,6 +68,65 @@ This is where **protected learning loops** become essential.
 
 ***
 
+### What Self-Organisation Looks Like in an EOM Context
+
+In practice, self-organisation under EOM might look like:
+
+#### 1. Work Flows Without Central Scheduling
+
+Teams pull work based on:
+
+* customer signals
+* outcome hypotheses
+* flow constraints
+* readiness of learning
+
+Rather than being assigned initiatives, work _attracts effort_ where evidence suggests the highest value.
+
+This reduces bottlenecks created by portfolio planning and escalations.
+
+***
+
+#### 2. Teams Reconfigure Around Problems, Not Plans
+
+As learning accumulates:
+
+* teams may split, merge, or refocus
+* ownership shifts as clarity increases
+* dependencies dissolve rather than being managed indefinitely
+
+These changes do not require re-orgs.\
+They occur through **local adjustment within shared intent**.
+
+***
+
+#### 3. Investment Follows Evidence Automatically
+
+In an adaptive funding model:
+
+* initiatives that generate insight gain momentum
+* stalled or invalidated bets lose energy
+* stopping work is a signal of competence, not failure
+
+Capital and attention _flow_ toward learning velocity and customer impact, rather than status or sunk cost.
+
+***
+
+#### 4. Governance Becomes Lighter — Not Weaker
+
+Because:
+
+* learning is visible
+* risk is surfaced early
+* commitments are staged
+* decisions are reversible
+
+Governance bodies intervene **less often**, and with higher signal quality.
+
+Oversight shifts from policing to pattern recognition.
+
+***
+
 ### Protected Learning Loops as the Enabling Mechanism
 
 A protected learning loop is any system structure that:
@@ -125,22 +184,6 @@ Together, these conditions create a system where:
 > adapting locally is safer than defending centrally
 
 That is the threshold at which self-organisation emerges.
-
-***
-
-### What Self-Organisation Looks Like in an EOM-Aligned System
-
-In practice, self-organisation under EOM does not look like freedom without constraint.
-
-It looks like:
-
-* teams adjusting scope without escalation when evidence changes
-* stopping work early without fear of punishment
-* flow bottlenecks being addressed locally before becoming visible crises
-* improvement emerging continuously rather than through programs
-* alignment achieved through outcomes, not synchronisation
-
-Importantly, coherence is preserved — not by uniformity, but by shared constraints and learning rhythms.
 
 ***
 
