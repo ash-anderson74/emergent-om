@@ -86,7 +86,7 @@ With them, adaptation becomes routine.
 
 ### The EOM Learning Cycle as a Protected Learning Loop
 
-The EOM Learning Cycle is a concrete example of how self-organisation is enabled systemically rather than demanded behaviourally.
+[The EOM Learning Cycle](https://app.gitbook.com/s/wVqEs2cuXgPu222Kt8eP/practice-playbooks/99-the-emergentos-quarterly-learning-cycle) is a concrete example of how self-organisation is enabled systemically rather than demanded behaviourally.
 
 It does this in several important ways:
 
