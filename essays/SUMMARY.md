@@ -60,6 +60,7 @@
 
 * [Why Team Structure Emerges from Constraints](why-team-structure-emerges-from-constraints.md)
 * [Adaptive Funding Under Uncertainty](adaptive-funding-under-uncertainty.md)
+* [Self-Organising Systems and the Role of Protected Learning Loops](structural-consequences/self-organising-systems-and-the-role-of-protected-learning-loops.md)
 
 ## Models and Interpretation
 
