@@ -21,6 +21,7 @@
 * [Pattern: Known Features, Unknown Delivery](pattern-known-features-unknown-delivery.md)
 * [Pattern: Hypothesis Backlog (Outcome-Led Roadmapping)](pattern-hypothesis-backlog-outcome-led-roadmapping.md)
 * [Pattern: From Dependency Mapping to Dependency Exposure](pattern-from-dependency-mapping-to-dependency-exposure.md)
+* [Pattern: From Dependency Sequencing to Risk Sequencing](pattern-from-dependency-sequencing-to-risk-sequencing.md)
 * [Anti-Patterns](anti-patterns/README.md)
   * [Anti-Pattern: Predictive Control in Uncertainty](anti-patterns/anti-pattern-predictive-control-in-uncertainty.md)
   * [Anti-Pattern: Budget as Constraint on Learning](anti-patterns/anti-pattern-budget-as-constraint-on-learning.md)
