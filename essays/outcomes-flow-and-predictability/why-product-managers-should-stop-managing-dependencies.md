@@ -452,7 +452,7 @@ _but_
 
 #### 2. Teams still have roles — but not queue positions
 
-In your example:
+In the worked example:
 
 * Team A (payments)
 * Team B (migration)
