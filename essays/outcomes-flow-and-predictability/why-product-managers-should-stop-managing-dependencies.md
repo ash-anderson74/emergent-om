@@ -81,52 +81,174 @@ It is disciplined risk management.
 
 ***
 
-### Why This Matters in Migration and Replacement Work
+### Why “Provoking” a Dependency Is a Product Responsibility
 
-Migration projects feel “safe” because the feature set is known.
+When PMs hear _“provoke dependencies”_, it can sound reckless — as if the suggestion is to create instability or force conflict between teams.
 
-But risk hides in:
+That is not what is meant.
 
-* data quality
-* edge cases
-* performance under load
-* organisational readiness
-* integration behaviour
-* operational failure modes
+Provoking a dependency does **not** mean:
 
-Knowing _what_ must exist is not the same as knowing _how hard_ it will be to make it work **here**.
+* interrupting other teams
+* ignoring coordination
+* starting work prematurely
+* creating artificial blockers
 
-Only exposure reveals that.
+It means doing something more fundamental:
 
-***
+> **Deliberately forcing a dependency to reveal what it does not yet know about itself.**
 
-### The PM Reframe
-
-The PM role is not to:
-
-* predict delivery
-* guarantee timelines
-* manage dependencies on paper
-
-It is to:
-
-* surface uncertainty
-* protect learning
-* stage commitment
-* help the organisation make better decisions sooner
-
-This requires courage — and a system that does not punish it.
+This is not chaos.\
+It is disciplined exposure.
 
 ***
 
-### Why Organisations Resist This Shift
+### The Hidden Problem with “Managing” Dependencies
 
-Because learning creates moments of decision.
+When dependencies are “managed”, they are typically:
 
-And decisions create exposure.
+* catalogued
+* sequenced
+* owned by someone
+* deferred to the right point in the plan
 
-Plans delay accountability.\
-Evidence demands it.
+This creates the appearance of safety.
+
+But from an EOM perspective, it does something dangerous:
+
+> **It converts uncertainty into scheduling logic.**
+
+The dependency still exists.\
+The risk still exists.\
+But discovery is postponed until delivery is already underway.
+
+PMs feel productive because the dependency is _accounted for_.\
+The system becomes fragile because it is not _understood_.
+
+***
+
+### What Dependencies Actually Represent
+
+A dependency is not a thing to be waited on.
+
+It is a signal that:
+
+* assumptions cross team boundaries
+* knowledge is incomplete
+* feedback loops are too long
+* ownership is fragmented
+* risk is being displaced rather than reduced
+
+From this perspective, a dependency is not a coordination problem.\
+It is a **learning problem**.
+
+And learning problems are squarely within the PM’s domain.
+
+***
+
+### What “Provoking” a Dependency Really Means
+
+To provoke a dependency is to **interact with it early, cheaply, and deliberately** in order to answer questions like:
+
+* What assumptions does this dependency rely on?
+* What would break if those assumptions are wrong?
+* Where would learning surface fastest?
+* How reversible are we right now?
+
+Examples of provocation include:
+
+* testing an integration path with a minimal spike
+* migrating a single workflow before committing to a full cutover
+* validating data contracts with real payloads
+* exercising edge cases long before feature completeness
+* exposing cross-team coupling through partial use, not negotiation
+
+What matters is not the technique, but the intent:
+
+> **Expose reality before the plan depends on it.**
+
+***
+
+### Why This Is a PM Job (Not an Engineering Detail)
+
+Engineers can build experiments.\
+Architects can anticipate failure modes.\
+Teams can coordinate execution.
+
+But **PMs are uniquely positioned to decide where uncertainty must collapse first**.
+
+This is because PMs operate at the intersection of:
+
+* customer impact
+* strategic intent
+* investment decision-making
+* narrative commitment
+
+When PMs sequence work to “manage” dependencies, they often do so to protect:
+
+* roadmaps
+* stakeholder confidence
+* quarterly commitments
+* perceived momentum
+
+When PMs provoke dependencies, they deliberately risk _local discomfort_ to prevent _systemic failure_.
+
+That trade-off is a product decision, not a delivery one.
+
+***
+
+### Why Provocation Feels Unsafe — and Why That Matters
+
+Provoking a dependency usually produces:
+
+* bad news earlier
+* awkward conversations sooner
+* partial invalidation of plans
+* visible uncertainty
+
+In many organisations, this is personally risky.
+
+Which is exactly why dependency provocation is rare — and why dependency management dominates instead.
+
+EOM does not assume PMs lack insight.
+
+It assumes the system makes **deferral safer than exposure**.
+
+This essay exists to name that reality — not to judge it.
+
+***
+
+### Reframing the PM Role Under EOM
+
+Under EOM, PMs create value early not by sequencing certainty, but by collapsing uncertainty.
+
+They do this by:
+
+* choosing exposure over coordination
+* learning before committing narrative
+* turning dependencies into discovery mechanisms
+* making risk visible while it is still cheap
+
+This does not eliminate planning.
+
+It prevents planning from standing in for learning.
+
+***
+
+### A Final Reframe
+
+A useful shift for PMs is to stop asking:
+
+> “How do we plan around this dependency?”
+
+And start asking:
+
+> **“What would we need to learn for this dependency to stop being scary?”**
+
+That question changes the work.
+
+And when the work changes early enough,\
+the plan often becomes simpler — without anyone having to manage it.
 
 ***
 
@@ -146,3 +268,9 @@ When PMs are allowed to shift from dependency management to dependency exposure:
 That is not weaker planning.
 
 It is **planning that respects complexity**.
+
+***
+
+### How To Diagnose This Pattern
+
+* Diagnostic: Dependency Sequencing as a Control Illusion

@@ -13,6 +13,8 @@ This expectation is well-intentioned. It comes from a desire to reduce risk.
 
 The problem is that **dependency sequencing assumes certainty that does not exist**.
 
+***
+
 #### The Hidden Assumption
 
 When we build dependency-based plans, we assume:
@@ -24,6 +26,8 @@ When we build dependency-based plans, we assume:
 
 In new products, migrations, or architectural change, these assumptions are rarely justified.
 
+***
+
 #### Why PMs Still Do It
 
 Because within most systems:
@@ -33,6 +37,8 @@ Because within most systems:
 * uncertainty is interpreted as lack of control
 
 Dependency sequencing becomes a **coping mechanism**, not a truth-telling tool.
+
+***
 
 #### A Different PM Value Proposition
 
@@ -48,6 +54,8 @@ This doesn’t make PMs less rigorous.
 
 It makes them **more responsible**.
 
+***
+
 #### The Shift
 
 From:
@@ -60,3 +68,6 @@ To:
 
 That is not a retreat from accountability.\
 It is accountability _without fiction_.
+
+***
+
