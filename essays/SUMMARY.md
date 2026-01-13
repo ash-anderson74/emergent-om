@@ -33,6 +33,7 @@
 * [Known Features Do Not Make Delivery Predictable](known-features-do-not-make-delivery-predictable.md)
 * [Why Feature Roadmaps Feel Safer Than They Are](why-feature-roadmaps-feel-safer-than-they-are.md)
 * [Planning Without Lying to Yourself](planning-without-lying-to-yourself.md)
+* [Why Product Managers Should Stop “Managing Dependencies”](outcomes-flow-and-predictability/why-product-managers-should-stop-managing-dependencies.md)
 
 ## Fear, Control, and Defensibility
 
