@@ -1,5 +1,9 @@
 # Board Paper: Governing for Adaptability in Complex Product Environments
 
+> _This paper is written explicitly for board and executive audiences._  
+> _It assumes fiduciary responsibility, regulatory oversight, and organisational permanence._  
+> _It describes how governance can remain accountable while adapting to uncertainty — not how teams should work day-to-day._  
+
 ### Purpose of This Paper
 
 This paper sets out a governance perspective on why current planning- and certainty-led approaches often fail to deliver intended outcomes in complex product environments, and why a shift toward **learning-governed investment and decision-making** is required to improve long-term customer value, risk management, and organisational adaptability.
