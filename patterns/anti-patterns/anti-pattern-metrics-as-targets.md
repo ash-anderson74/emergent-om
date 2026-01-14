@@ -1,8 +1,4 @@
----
-description: 'Mirrors: Meaningful Measurement'
----
-
-# Anti-Pattern: Metrics as Targets
+# Anti-Pattern: Coaching as Control
 
 #### Description
 

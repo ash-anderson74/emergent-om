@@ -31,6 +31,7 @@
   * [Anti-Pattern: Product as Project Manager](anti-patterns/anti-pattern-product-as-project-manager.md)
   * [Anti-Pattern: Goal Language Without Meaning](anti-patterns/anti-pattern-goal-language-without-meaning.md)
   * [Anti-Pattern: Commitment Without Learning](anti-patterns/anti-pattern-commitment-without-learning.md)
-  * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets.md)
+  * [Anti-Pattern: Coaching as Control](anti-patterns/anti-pattern-metrics-as-targets.md)
   * [Anti-Pattern: Local Optimization Masquerading as Alignment](anti-patterns/anti-pattern-local-optimization-masquerading-as-alignment.md)
   * [Anti-Pattern: Outcome-Wrapped Feature Plans](anti-patterns/anti-pattern-outcome-wrapped-feature-plans.md)
+  * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets-1.md)
