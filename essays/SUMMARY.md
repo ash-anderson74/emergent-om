@@ -78,7 +78,3 @@
 ## Lineage and Intellectual Foundations
 
 * [The Regularities Emergent Operating Model Aligns With](the-regularities-emergent-operating-model-aligns-with.md)
-
-***
-
-* [Board Paper: Governing for Adaptability in Complex Product Environments](board-paper-governing-for-adaptability-in-complex-product-environments.md)
