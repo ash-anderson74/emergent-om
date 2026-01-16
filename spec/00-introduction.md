@@ -10,7 +10,7 @@ It does not prescribe delivery methods, roles, tools, or ceremonies. Instead, it
 
 EOM treats strategy, funding, delivery, flow, learning, and governance as **interdependent system concerns** rather than isolated functions. Decisions in one area are expected to shape—and be shaped by—signals from the others.
 
----
+***
 
 ## What the Emergent Operating Model Is
 
@@ -18,81 +18,97 @@ The Emergent Operating Model is a living specification for an organisational ope
 
 It defines:
 
-- how intent is framed as **outcomes rather than scope**
-- how investment follows **learning rather than prediction**
-- how flow is interpreted as a **system signal rather than a target**
-- how governance **senses and adapts rather than enforces**
-- how learning is treated as a **first-class outcome of work**
+* how intent is framed as **outcomes rather than scope**
+* how investment follows **learning rather than prediction**
+* how flow is interpreted as a **system signal rather than a target**
+* how governance **senses and adapts rather than enforces**
+* how learning is treated as a **first-class outcome of work**
 
 EOM establishes **invariants**—conditions that must remain true if the system is to function as intended—and **constraints**—design boundaries that shape behaviour without prescribing practice.
 
 Rather than defining implementation steps, EOM provides a stable foundation against which teams and leaders can make contextual decisions, select compatible practices, and evaluate whether system behaviour remains aligned with stated intent.
 
----
+***
 
 ## What the Emergent Operating Model Is Not
 
 The Emergent Operating Model is not:
 
-- a delivery methodology  
-- a transformation framework  
-- a practice catalogue  
-- a maturity model  
-- a target operating state  
+* a delivery methodology
+* a transformation framework
+* a practice catalogue
+* a maturity model
+* a target operating state
 
 It does not define how teams must work day-to-day, which tools to adopt, or which practices to install. Those choices are intentionally left to local context, provided they operate within the system constraints described by this specification.
 
----
+***
+
+## **Why “Emergent”**
+
+The term _emergent_ is deliberate, and it is used in two related senses.
+
+First, it describes the nature of the environments EOM is designed for.\
+In complex product systems, outcomes are not fully knowable in advance. Value emerges through interaction, feedback, and learning rather than through execution of predefined plans.
+
+Second, it describes the nature of the operating model itself.\
+EOM is not something an organisation installs, configures, or completes. How it is applied in a given context cannot be prescribed upfront. The appropriate constraints, practices, and behaviours emerge through use, evidence, and adaptation.
+
+In both cases, emergence is not vagueness. It is the result of operating within clear constraints while allowing learning to guide decisions.
+
+The model is therefore _emergent by necessity_, not by design preference.
+
+***
 
 ## How This Specification Is Intended to Be Used
 
 EOM is used by:
 
-- establishing shared assumptions about uncertainty, learning, and value
-- guiding strategic and investment decisions through explicit constraints
-- evaluating whether existing practices reinforce or undermine adaptation
-- revealing systemic risks when behaviour contradicts stated intent
+* establishing shared assumptions about uncertainty, learning, and value
+* guiding strategic and investment decisions through explicit constraints
+* evaluating whether existing practices reinforce or undermine adaptation
+* revealing systemic risks when behaviour contradicts stated intent
 
-Practices are expected to vary.  
+Practices are expected to vary.\
 System behaviour is expected to remain coherent.
 
 System behaviour is considered coherent when **decisions, incentives, and feedback loops reinforce stated intent and adapt in response to learning**.
 
----
+***
 
 ## Scope
 
 The Emergent Operating Model is explicitly scoped for complex, adaptive product environments where:
 
-- outcomes cannot be predicted with confidence
-- learning is required to reduce uncertainty
-- value emerges through interaction and feedback
+* outcomes cannot be predicted with confidence
+* learning is required to reduce uncertainty
+* value emerges through interaction and feedback
 
 Deterministic approaches may coexist with EOM in low-uncertainty domains, but they are not treated as defaults within the scope of this specification.
 
----
+***
 
 ## Structure of the Specification
 
 This specification is organized around a small set of interdependent domains:
 
-- Direction and Purpose  
-- Leadership and Culture  
-- Product and Value Creation  
-- Flow and Enablement  
-- Learning and Sensing  
+* Direction and Purpose
+* Leadership and Culture
+* Product and Value Creation
+* Flow and Enablement
+* Learning and Sensing
 
 Supporting sections describe operating cadence, governance and funding, roles and accountabilities, adoption and evolution, and explicit boundaries for use.
 
 Patterns and decision records provide contextual guidance and rationale without weakening the stability of the specification itself.
 
----
+***
 
 ## Intent
 
 The Emergent Operating Model exists to make organizational assumptions explicit.
 
-It does not promise certainty.  
+It does not promise certainty.\
 It enables learning.
 
 Its value lies not in adoption, but in **continued alignment between intent, behaviour, and evidence**.
