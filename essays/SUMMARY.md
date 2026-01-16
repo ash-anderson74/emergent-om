@@ -6,7 +6,6 @@
 
 * [The Emergent Operating Model: A Board-Level Explanation](orientation-and-context/emergerntos-a-board-level-explanation.md)
 * [Why the Emergent Operating Model Exists](orientation-and-context/why-emergentos-exists.md)
-* [You Don’t Adopt an Operating Model — You Enter It](orientation-and-context/you-dont-adopt-an-operating-model-you-enter-it.md)
 
 ## Systems Foundations
 
@@ -17,6 +16,7 @@
 ## What an Operating Model Means in EOM
 
 * [What Does “Operating Model” Mean in Emergent Operating Model?](what-an-operating-model-means-in-eom/what-does-operating-model-mean-in-emergentos.md)
+* [You Don’t Adopt an Operating Model — You Enter It](what-an-operating-model-means-in-eom/you-dont-adopt-an-operating-model-you-enter-it.md)
 * [Designing Constraints Without Turning EOM Into a Framework](what-an-operating-model-means-in-eom/designing-constraints-without-turning-eos-into-a-framework.md)
 
 ## Learning as the Governing Mechanism
