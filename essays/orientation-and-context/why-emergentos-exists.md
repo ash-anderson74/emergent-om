@@ -19,6 +19,20 @@ This contradiction was the starting point.
 
 ***
 
+The Emergent Operating Model is called _emergent_ for the same reason that modern product development is.
+
+In complex domains, value cannot be fully specified in advance. It appears gradually, through learning, feedback, and interaction with reality.
+
+EOM does not attempt to remove that uncertainty. It accepts it.
+
+And because the conditions, constraints, and risks of each organisation differ, the way EOM is expressed in practice must also emerge. There is no correct implementation to copy, only signals to interpret.
+
+The operating model governs how learning shapes behaviour — not what behaviour must look like.
+
+In this sense, the name reflects both the nature of the work and the nature of the model that supports it.
+
+***
+
 ### The Limits of “Better Practices”
 
 At the team level, the literature was clear and compelling.
