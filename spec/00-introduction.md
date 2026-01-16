@@ -56,7 +56,7 @@ EOM is not something an organisation installs, configures, or completes. How it 
 
 In both cases, emergence is not vagueness. It is the result of operating within clear constraints while allowing learning to guide decisions.
 
-The model is therefore _emergent by necessity_, not by design preference.
+Because outcomes emerge through learning rather than execution, **any operating model intended for such environments must itself be learnable rather than installable**.
 
 ***
 
