@@ -4,7 +4,7 @@ The Emergent Operating Model (EOM) learning cycle illustrates how delivery, disc
 
 The diagram should be read **from the outside inward**, with particular attention to the relationships between layers rather than the sequence of activity.
 
-<figure><img src=".gitbook/assets/eos-cycle.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/eos-cycle.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

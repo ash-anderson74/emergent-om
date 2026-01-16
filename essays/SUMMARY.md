@@ -6,6 +6,7 @@
 
 * [The Emergent Operating Model: A Board-Level Explanation](orientation-and-context/emergerntos-a-board-level-explanation.md)
 * [Why the Emergent Operating Model Exists](orientation-and-context/why-emergentos-exists.md)
+* [You Don’t Adopt an Operating Model — You Enter It](orientation-and-context/you-dont-adopt-an-operating-model-you-enter-it.md)
 
 ## Systems Foundations
 
@@ -78,7 +79,3 @@
 ## Lineage and Intellectual Foundations
 
 * [The Regularities Emergent Operating Model Aligns With](lineage-and-intellectual-foundations/the-regularities-emergent-operating-model-aligns-with.md)
-
-***
-
-* [You Don’t Adopt an Operating Model — You Enter It](you-dont-adopt-an-operating-model-you-enter-it.md)

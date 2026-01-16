@@ -83,7 +83,7 @@ But control governs behaviour.
 
 ***
 
-<figure><img src=".gitbook/assets/the-systemic-control-trap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/the-systemic-control-trap.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -124,7 +124,7 @@ They are given **safer ways to decide**.
 
 ***
 
-<figure><img src=".gitbook/assets/the-learning-loop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/the-learning-loop.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
