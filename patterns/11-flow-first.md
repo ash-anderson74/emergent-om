@@ -103,6 +103,28 @@ When flow degrades, the response is inquiry, not pressure.
 
 ***
 
+Flow First does not prescribe a specific measurement system.\
+It requires that flow be made observable enough to guide learning and decision-making.
+
+In practice, many organisations use established diagnostic frameworks such as:
+
+* DORA metrics, to observe engineering and delivery flow
+* Flow Framework metrics, to observe portfolio-level work-in-progress, delays, and value flow
+
+These are not mandated by EOM.\
+They are **illustrative examples of how flow can be surfaced as a system signal**.
+
+When treated as signals rather than targets, such metrics allow the organisation to:
+
+* detect stalled learning
+* identify systemic bottlenecks
+* rebalance investment
+* reduce risk through faster feedback
+
+When treated as targets, they cease to represent flow at all.
+
+***
+
 ### What Flow First Explicitly Rejects
 
 Flow First is incompatible with:
