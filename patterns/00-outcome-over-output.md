@@ -88,4 +88,4 @@ Multiple implementations may follow. Some may be abandoned early. All contribute
 
 * Essay: _Seeking the Right Thing_
 * Diagnostic: Outcome-Wrapped Feature Plans
-* Playbook: OKRs in EOM
+* Playbook: OKRs (Outcome-Focused)
