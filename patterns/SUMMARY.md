@@ -23,6 +23,7 @@
 * [Pattern: From Dependency Mapping to Dependency Exposure](pattern-from-dependency-mapping-to-dependency-exposure.md)
 * [Pattern: From Dependency Sequencing to Risk Sequencing](pattern-from-dependency-sequencing-to-risk-sequencing.md)
 * [Pattern: Confidence-Based Sizing](pattern-confidence-based-sizing.md)
+* [Pattern: Replatforming Without Output Substitution](pattern-replatforming-without-output-substitution.md)
 * [Anti-Patterns](anti-patterns/README.md)
   * [Anti-Pattern: Predictive Control in Uncertainty](anti-patterns/anti-pattern-predictive-control-in-uncertainty.md)
   * [Anti-Pattern: Budget as Constraint on Learning](anti-patterns/anti-pattern-budget-as-constraint-on-learning.md)
@@ -35,4 +36,3 @@
   * [Anti-Pattern: Local Optimization Masquerading as Alignment](anti-patterns/anti-pattern-local-optimization-masquerading-as-alignment.md)
   * [Anti-Pattern: Outcome-Wrapped Feature Plans](anti-patterns/anti-pattern-outcome-wrapped-feature-plans.md)
   * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets.md)
-* [Pattern: Replatforming Without Output Substitution](pattern-replatforming-without-output-substitution.md)
