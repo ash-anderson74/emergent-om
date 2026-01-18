@@ -1,60 +1,115 @@
-# From Legacy Control to Learning Systems
+# Pattern: From Legacy Control to Learning Systems
 
-## Context
+### Intent
 
-Many organizations operate with structures designed for predictable, repeatable work, even as their environment becomes increasingly complex and uncertain.
+Prevent legacy understanding from being mistaken for certainty, and ensure learning governs risk reduction even when replacing well-understood systems.
 
-Legacy operating models emphasize planning, control, and optimization against predefined plans.
+### Context
 
-## Problem
+This pattern applies when organisations are:
 
-In uncertain domains, predictive control fails silently.
+* replacing or replatforming existing systems
+* migrating functionality from legacy platforms
+* “modernising” known capabilities in new technical or organisational contexts
 
-Plans appear coherent, yet:
+In these situations, feature requirements often appear well understood.
 
-- assumptions remain untested
-- risks surface late
-- delivery success does not translate to value
-- change becomes expensive and political
+### System Problem
 
-Organizations mistake execution fidelity for effectiveness.
+When legacy knowledge is treated as certainty, organisations assume that:
 
-## Forces
+* scope is known
+* effort is predictable
+* risk is minimal
 
-- Historical success reinforces legacy models
-- Governance systems expect commitments
-- Leaders fear loss of control
-- Teams are rewarded for predictability
-- Learning is perceived as delay or inefficiency
+This leads to deterministic planning, early commitments, and compressed learning.
 
-## Solution
+However, while **what** a system does may be known, **how it will behave in a new context rarely is**.
 
-Treat the organization as a learning system rather than a delivery machine.
+The result is:
 
-This involves:
+* late discovery of integration risk
+* fragile timelines
+* defensive scope protection
+* delayed or opaque failure
 
-- making assumptions explicit
-- validating feasibility and value early
-- using evidence to guide decisions
-- evolving direction based on learning
+### Forces at Play
 
-Control is replaced with **guided autonomy**, bounded by intent and transparency.
+* “We’ve built this before”
+* Pressure to justify investment with firm plans
+* Migration framed as execution, not discovery
+* Confidence borrowed from historical delivery
 
-## Result
+These forces reward certainty signalling over evidence generation.
 
-- Risk is reduced earlier
-- Plans evolve without crisis
-- Teams surface problems instead of hiding them
-- Decisions improve as information quality increases
+### EOM Position
 
-## Trade-offs
+This pattern protects the EOM invariants of:
 
-- Short-term predictability decreases
-- Requires changes in governance and leadership behaviour
-- Demands patience and trust
+* **Learning Over Certainty**
+* **Incremental and Reversible Commitment**
+* **Evidence Over Opinion**
 
-## Related Patterns
+It reinforces the principle that **learning must precede high-integrity commitment**, regardless of prior experience.
 
-- Deliberate Time for Reflection
-- Adaptive Funding
-- Improve Collaboratively
+### The Pattern
+
+The system treats legacy knowledge as **input to hypotheses**, not as proof.
+
+Known functionality informs:
+
+* what must be explored first
+* where failure would be costly
+* which assumptions deserve early testing
+
+Investment is staged to:
+
+* surface unknowns early
+* collapse integration and migration risk
+* validate operational, performance, and behavioural assumptions
+
+Legacy systems are sources of questions, not answers.
+
+### Example
+
+Instead of:
+
+> “Rebuild the billing platform with equivalent functionality by Q4”
+
+The system frames:
+
+> “Learn which billing behaviours, integrations, and data flows are most likely to fail or degrade in the new architecture — and reduce those risks before committing to full migration.”
+
+Early work focuses on:
+
+* boundary interactions
+* data migration paths
+* operational characteristics
+
+Not feature parity.
+
+### Signals This Pattern Is Holding
+
+* Migration plans change early and cheaply
+* Teams are rewarded for discovering incompatibilities
+* Commitments increase only after risky assumptions are tested
+* “Equivalent functionality” is not treated as evidence of readiness
+
+### Anti-Patterns
+
+* “Lift and shift” treated as low risk
+* Feature parity used as a success metric
+* Migration milestones framed as delivery guarantees
+* Learning postponed until late integration testing
+
+### Trade-offs
+
+* Progress appears slower initially
+* Requires reframing stakeholder expectations
+* Less comforting than deterministic migration plans
+
+### Related EOM Material
+
+* Essay: _Why Feature Roadmaps Feel Safer Than They Are_
+* Pattern: Outcome Over Output
+* Diagnostic: Incremental & Reversible Commitment
