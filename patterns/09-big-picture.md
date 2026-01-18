@@ -1,58 +1,60 @@
-# Maintaining the Big Picture
+# Pattern: Big Picture
 
-## Context
+### Context
 
-Teams often struggle to understand how their work connects to broader organizational goals.
+As organisations scale, work fragments across teams, initiatives, and portfolios.
 
-Without shared context, effort fragments and alignment erodes.
+Without shared context, teams optimise locally while losing sight of system-level intent.
 
-## Problem
+### Problem
 
-Lack of systemic visibility leads to:
+When the “big picture” is absent or abstract:
 
-- disconnected priorities
-- duplicated effort
-- local optimization
-- difficulty explaining value
-- strategy becoming abstract and distant
+* priorities drift
+* work becomes disconnected from strategy
+* value is difficult to explain
+* alignment relies on enforcement
+* teams execute without understanding why
 
-Teams execute without understanding why.
+Strategy becomes something that is declared, not something that guides decisions.
 
-## Forces
+### Forces
 
-- Strategy is often communicated abstractly
-- Complexity increases with scale
-- Visibility tools focus on delivery, not intent
-- Leaders assume alignment exists
+* Strategy is expressed at too high a level
+* Delivery artefacts dominate visibility
+* Dependencies obscure intent
+* Leaders assume alignment exists
+* Change outpaces shared understanding
 
-## Solution
+### Solution
 
-Make strategic intent explicit and visible.
+Make **strategic intent visible as a system**, not as a document.
 
-This involves:
+This includes:
 
-- clarifying strategic outcomes
-- mapping how work contributes to them
-- visualizing hypotheses and dependencies
-- connecting team goals to system-level intent
+* explicit outcomes and hypotheses
+* visual connection between work and intent
+* visible assumptions and dependencies
+* regular re-interpretation based on learning
 
-Alignment emerges through shared understanding, not enforcement.
+The big picture is not static — it evolves as understanding grows.
 
-## Result
+### Result
 
-- Teams see how their work matters
-- Prioritization becomes easier
-- Strategy becomes tangible
-- Adaptation preserves coherence
+* Teams understand how their work contributes
+* Prioritisation improves without escalation
+* Strategy becomes tangible and discussable
+* Coherence emerges without uniformity
 
-## Trade-offs
+### Trade-offs
 
-- Requires ongoing conversation
-- Visual models must evolve
-- Misalignment becomes visible sooner
+* Requires ongoing conversation
+* Visual models must be maintained
+* Misalignment becomes visible sooner
 
-## Related Patterns
+### Related Patterns
 
-- Operate Around Outcomes
-- Visualize Work
-- Outcome Over Output
+* Operate Around Outcomes
+* Outcome Over Output
+* Visualise Work
+* Learning as a System Outcome
