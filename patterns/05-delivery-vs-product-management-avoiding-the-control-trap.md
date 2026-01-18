@@ -1,64 +1,83 @@
-# Delivery vs Product Management — Avoiding the Control Trap
+# Pattern: Delivery vs Product Management – Avoiding the Control Trap
 
-## Context
+### Context
 
-In modern product organizations, responsibility for outcomes is often blurred with responsibility for delivery execution.
+Organisations distinguish between “delivery” and “product” roles to balance execution and value.
 
-Under pressure for predictability, product leaders begin managing schedules, dependencies, and task allocation—activities intended to provide assurance but not value definition.
+As scale increases, pressure for predictability rises.
 
-## Problem
+### Problem
 
-When product management takes on delivery control:
+Delivery management often drifts into **control management**:
 
-- teams become task-driven rather than outcome-driven
-- ownership of flow and improvement becomes unclear
-- strategic focus is diluted by operational firefighting
-- autonomy erodes, reducing adaptability
-- leadership shifts from enabling to controlling
+* commitments harden before learning
+* plans substitute for evidence
+* progress is reported through completion
+* uncertainty is hidden rather than explored
 
-The organization optimizes for predictability at the expense of learning.
+Product intent becomes subordinated to delivery certainty.
 
-## Forces
+### EOM Diagnosis
 
-- Stakeholders demand timelines and certainty
-- Product leaders feel accountable for both value and delivery
-- Delivery constraints surface late and unpredictably
-- Absence of clear flow ownership creates anxiety
-- Control feels safer than trust under pressure
+This is not role failure.\
+It is **system-induced behaviour**.
 
-## Solution
+When:
 
-Separate **value definition** from **flow enablement** without fragmenting accountability.
+* delivery certainty is rewarded
+* deviation is penalised
+* governance demands forecasts
+* status reporting replaces sensing
 
-Product leadership focuses on:
+Then control becomes the rational strategy.
 
-- defining intended outcomes
-- prioritizing problems worth solving
-- validating value assumptions
+### Forces
 
-Delivery leadership focuses on:
+* executive demand for confidence
+* bonus schemes tied to delivery
+* dependency-driven planning
+* low tolerance for narrative change
 
-- optimizing flow
-- managing dependencies systemically
-- improving delivery capability
+Together, these forces collapse learning into scheduling.
 
-Visibility and learning replace orchestration.
+### Solution
 
-## Result
+Reframe delivery and product management around **risk reduction and learning throughput**.
 
-- Teams retain autonomy while maintaining alignment
-- Product leaders stay focused on customer value
-- Delivery improves through systemic flow optimization
-- Leadership engages through evidence rather than enforcement
+In EOM:
 
-## Trade-offs
+* Product management owns _problem framing and hypothesis quality_
+* Delivery management owns _option creation and constraint removal_
+* Planning becomes a learning agenda, not a promise
 
-- Requires clear role boundaries
-- Demands trust in teams and systems
-- Reduces short-term certainty in exchange for resilience
+Both functions are accountable to _evidence generation_, not output completion.
 
-## Related Patterns
+### Example
 
-- Operate Around Outcomes
-- Flow First
-- Coaching Culture
+Instead of asking:
+
+> “Can we deliver these five features this quarter?”
+
+EOM asks:
+
+> “What must we learn before any commitment here becomes responsible?”
+
+Delivery sequencing follows **risk collapse**, not dependency charts.
+
+### Result
+
+* earlier exposure of technical and organisational constraints
+* fewer late surprises
+* delivery pace stabilises through learning, not pressure
+
+### Anti-Patterns
+
+* dual-track in name only
+* output-wrapped outcomes
+* delivery metrics detached from customer change
+
+### Relationship to EOM
+
+* Reinforces _Hypothesis Over Assumption_
+* Requires _Incremental & Reversible Commitment_
+* Depends on _Governance as Sensing_
