@@ -29,9 +29,9 @@ Express outcomes as observable change using:
 
 This framing forces clarity around:
 
-* the affected actor
-* the behavioural or capability shift
-* the evidence threshold for learning
+* **who:** the affected actor
+* **does what:** the behavioural or capability shift
+* **by how much:** the evidence threshold for learning
 
 ### Example
 
