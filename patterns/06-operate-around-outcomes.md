@@ -1,60 +1,104 @@
-# Operate Around Outcomes
+# Pattern: Operate Around Outcomes
 
-## Context
+### Context
 
-Organizations are commonly structured around projects, initiatives, or feature roadmaps.
+As organisations grow, coordination costs rise.
 
-While this provides short-term coordination, it often obscures the relationship between work delivered and value realized.
+Leaders seek alignment through:
 
-## Problem
+* shared plans
+* standardised delivery models
+* synchronised cadences
+* dependency-managed roadmaps
 
-Project-centric operating models:
+These mechanisms initially provide clarity, but increasingly create drag.
 
-- prioritize delivery over impact
-- fragment ownership across handoffs
-- slow learning and adaptation
-- disconnect teams from customers
-- reinforce output-based success metrics
+### Problem
 
-Teams ship work, but value remains unproven.
+Coordination mechanisms drift toward **control**:
 
-## Forces
+* decisions must pass through multiple layers
+* changes require re-approval
+* learning invalidates plans, but plans still dominate
+* teams optimise for predictability rather than value
 
-- Leaders need visibility and alignment
-- Teams seek autonomy and purpose
-- Customers expect continuous improvement
-- Governance rewards predictability
-- Outcomes are harder to measure than outputs
+The organisation becomes aligned — but brittle.
 
-## Solution
+### EOM Perspective
 
-Orient the organization around **outcomes rather than projects**.
+In the Emergent Operating Model, **alignment is not achieved by orchestration**.
 
-This means:
+It emerges when:
 
-- defining success as measurable change
-- organizing work around value streams
-- empowering teams to own outcomes end-to-end
-- replacing feature commitments with learning-driven goals
-- using evidence to guide prioritization
+> multiple teams are independently constrained by the _same outcome intent_\
+> and allowed to adapt based on evidence.
 
-Delivery becomes a means to learning, not a proxy for value.
+Operating around outcomes replaces **plan coherence** with **learning coherence**.
 
-## Result
+### Forces
 
-- Teams focus on solving problems, not completing scopes
-- Learning accelerates
-- Customer impact becomes visible
-- Alignment improves without central control
+* Leaders need confidence and visibility
+* Teams need autonomy and speed
+* Systems are coupled in unpredictable ways
+* Dependencies cannot be fully known upfront
 
-## Trade-offs
+Traditional coordination attempts to resolve these forces _in advance_.
 
-- Requires comfort with ambiguity
-- Demands changes to governance expectations
-- Outcomes may emerge unevenly across teams
+EOM resolves them **continuously**.
 
-## Related Patterns
+### Solution
 
-- Outcome Over Output
-- High Integrity Commitments
-- Team Topologies
+Design the operating system so that:
+
+* outcomes are explicit and testable
+* outcome ownership is clear
+* decision authority exists where evidence emerges
+* progress is reviewed through learning signals, not task completion
+
+Teams organise their work **around reducing uncertainty related to the outcome**, not around delivering predefined scope.
+
+### Example
+
+Instead of coordinating three teams through a shared migration plan:
+
+* Each team owns a **different outcome constraint**, e.g.:
+  * customer continuity
+  * operational resilience
+  * migration throughput
+
+Coordination occurs through:
+
+* surfaced risks
+* learning events
+* evolving evidence
+
+—not through dependency sequencing.
+
+### Resulting Behaviours
+
+* teams change approach without escalating permission
+* dependencies are exposed through work, not diagrams
+* plans evolve without re-baselining theatre
+* governance conversations focus on _what we now know_
+
+### Trade-offs
+
+* less upfront certainty
+* more visible learning debt
+* higher demand on leadership judgement
+
+These are **design choices**, not flaws.
+
+### Anti-Patterns
+
+* outcome language wrapping fixed scope
+* shared outcomes without decision authority
+* measuring outcomes as targets rather than signals
+* reverting to plan-based coordination under pressure
+
+### Relationship to EOM
+
+* Anchors _Outcomes Over Outputs_
+* Enables _Empowerment Over Centralised Control_
+* Depends on _Incremental & Reversible Commitment_
+* Reinforces _Governance as Sensing_
