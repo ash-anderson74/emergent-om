@@ -1,62 +1,87 @@
-# Team Topologies and Interaction Boundaries
+# Pattern: Team Design Emerges from Constraints (EOM)
 
-## Context
+### Context
 
-As organizations scale, coordination costs increase.
+As organisations scale product development, coordination costs rise and delivery slows. Leaders seek clarity by defining team structures, roles, and interaction models.
 
-Poorly defined team responsibilities and interactions lead to friction, delays, and cognitive overload.
+Frameworks often prescribe team shapes and boundaries upfront.
 
-## Problem
+### Problem
 
-Without clear team boundaries:
+Predefined team structures frequently fail to deliver intended benefits:
 
-- dependencies multiply
-- ownership becomes unclear
-- context switching increases
-- teams lose autonomy
-- delivery slows
+* dependencies multiply rather than reduce
+* ownership becomes fragmented
+* teams optimise locally while value degrades system-wide
+* re-orgs become recurring interventions
 
-Reorganizing repeatedly does not solve the underlying problem.
+Structure is treated as a _solution_, rather than a response to observed constraints.
 
-## Forces
+### EOM Perspective
 
-- Pressure to “add coordination”
-- Legacy reporting structures
-- Tooling over architecture
-- People assigned to multiple teams
-- Work flowing across unclear boundaries
+In the Emergent Operating Model, **team topology is not a design choice**.\
+It is an _emergent property_ of system constraints.
 
-## Solution
+Teams behave in ways that minimise:
 
-Design teams intentionally around:
+* coordination latency
+* decision risk
+* dependency exposure
+* accountability ambiguity
 
-- value streams
-- bounded cognitive load
-- explicit interaction modes
+When constraints are misaligned, team boundaries calcify around safety rather than value.
 
-Clarify:
+### Forces
 
-- who owns what
-- how teams collaborate
-- when dependencies are acceptable
+* Leaders want predictable delivery and accountability
+* Teams seek autonomy and reduced handoffs
+* Architecture introduces unavoidable coupling
+* Governance creates implicit approval paths
+* Funding models reinforce project boundaries
 
-Structure supports flow rather than obstructing it.
+These forces act whether teams are deliberately designed or not.
 
-## Result
+### Solution
 
-- Teams operate with clearer purpose
-- Cognitive load decreases
-- Dependencies become visible and manageable
-- Autonomy is sustained at scale
+Design **constraints first**, and allow team structures to emerge.
 
-## Trade-offs
+In EOM this means:
 
-- Requires investment in org design
-- Some flexibility is intentionally constrained
-- Not all dependencies can be removed
+* constrain work to outcome ownership, not project scope
+* reduce dependency cost rather than plan around dependencies
+* align funding to value streams, not initiatives
+* treat coordination load as a leading risk signal
+* redesign boundaries when learning stalls
 
-## Related Patterns
+Common team patterns (e.g. stream-aligned, platform, enabling teams) _may_ emerge — but are never mandated.
 
-- Teams Autonomy and Boundaries
-- Visualize Work
-- Flow First
+### Example
+
+When a product team repeatedly escalates delivery blockers:
+
+* EOM does **not** prescribe a “platform team”
+* It asks:
+  * What decisions are blocked?
+  * What learning is delayed?
+  * What dependency is unavoidable?
+
+A platform capability may emerge — **because the system demands it**, not because a framework recommends it.
+
+### Resulting Behaviours
+
+* Teams own outcomes end-to-end
+* Dependencies are surfaced early through delivery
+* Team boundaries evolve as constraints change
+* Re-orgs reduce in frequency and scope
+
+### Anti-Patterns
+
+* importing team models without matching constraints
+* re-orgs as a substitute for system change
+* treating topology as governance, not ergonomics
+
+### Relationship to EOM
+
+* Reinforces _Structural Coherence Over Uniformity_
+* Depends on _Flow as Diagnostic_
+* Enabled by _Adaptive Funding_

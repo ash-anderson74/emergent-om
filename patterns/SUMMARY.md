@@ -5,7 +5,7 @@
 * [Pattern: From Legacy Control to Learning Systems](01-legacy-to-learning.md)
 * [Pattern: Adaptive Funding Over Deterministic Budgeting](<02- adaptive-funding-and-budgeting.md>)
 * [Pattern: Deliberate Time for Reflection](03-time-for-reflection.md)
-* [Pattern: Team Topologies](04-team-topologies.md)
+* [Pattern: Team Design Emerges from Constraints (EOM)](04-team-topologies.md)
 * [Pattern: Delivery vs Product Management – Avoiding the Control Trap](05-delivery-vs-product-management-avoiding-the-control-trap.md)
 * [Pattern: Operate Around Outcomes](06-operate-around-outcomes.md)
 * [Pattern: Who Does What By How Much](07-who-does-what-by-how-much.md)
