@@ -35,3 +35,4 @@
   * [Anti-Pattern: Local Optimization Masquerading as Alignment](anti-patterns/anti-pattern-local-optimization-masquerading-as-alignment.md)
   * [Anti-Pattern: Outcome-Wrapped Feature Plans](anti-patterns/anti-pattern-outcome-wrapped-feature-plans.md)
   * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets.md)
+* [Pattern: Replatforming Without Output Substitution](pattern-replatforming-without-output-substitution.md)
