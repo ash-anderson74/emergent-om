@@ -11,7 +11,7 @@
 * [Pattern: Who Does What By How Much](07-who-does-what-by-how-much.md)
 * [Pattern: High Integrity Commitments](08-high-integrity-commitments.md)
 * [Pattern: Big Picture](09-big-picture.md)
-* [Pattern: Work Visualization](10-visuliaze-work.md)
+* [Pattern: Visualise Work](10-visuliaze-work.md)
 * [Pattern: Flow First](11-flow-first.md)
 * [Pattern: Collaborative Improvement](12-improve-collaboratively.md)
 * [Pattern: Continuous Delivery](13-deliver-continuously.md)
