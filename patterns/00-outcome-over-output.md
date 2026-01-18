@@ -1,7 +1,5 @@
 # Pattern: Outcome Over Output
 
-## Pattern: Outcome Over Output
-
 ### Intent
 
 Ensure learning, not activity, governs investment and commitment in complex product environments.
