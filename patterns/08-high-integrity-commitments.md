@@ -1,60 +1,60 @@
-# High-Integrity Commitments
+# Pattern: High Integrity Commitments
 
-## Context
+### Context
 
-Organizations require commitments for certain obligations—regulatory, legal, safety, or contractual.
+Organizations routinely make commitments in environments where uncertainty is high and learning is incomplete.
 
-Yet commitments are often made before uncertainty is resolved.
+Despite this, planning and governance mechanisms often treat all commitments as equal and equally binding, regardless of evidential confidence.
 
-## Problem
+### Problem
 
-Commitments based on estimates rather than evidence lead to:
+When commitments are made prematurely:
 
-- missed expectations
-- reactive firefighting
-- compromised quality
-- erosion of trust
-- fear-driven planning
+* uncertainty is hidden rather than reduced
+* plans harden before learning occurs
+* teams defend commitments instead of updating them
+* risk accumulates silently
+* trust erodes when commitments inevitably fail
 
-Certainty is assumed where none exists.
+The organization optimizes for appearing certain rather than becoming confident.
 
-## Forces
+### Forces
 
-- Stakeholders demand assurance
-- Teams need time to reduce uncertainty
-- Early commitment feels decisive
-- Learning is perceived as delay
-- Failure damages credibility
+* Leadership seeks predictability and reassurance
+* Governance systems reward commitment over learning
+* Public plans create reputational risk
+* Funding models favour upfront certainty
+* Admitting uncertainty feels unsafe
 
-## Solution
+### Solution
 
-Make commitments **only after sufficient learning has occurred**.
+Distinguish explicitly between **aspirational intent** and **high-integrity commitment**.
 
-High-integrity commitments:
+In EOM:
 
-- are outcome-based
-- are grounded in validated feasibility
-- reflect reduced uncertainty
-- constrain scope intentionally
-- acknowledge what adaptability is sacrificed
+* High-integrity commitments are made **only when sufficient learning exists**
+* Most early work is framed as hypotheses, not promises
+* Commitments are incremental and reversible by design
+* Confidence is earned through evidence, not declaration
 
-Learning precedes commitment, not the other way around.
+Commitment becomes an outcome of learning, not a substitute for it.
 
-## Result
+### Result
 
-- Commitments become reliable
-- Risk is reduced earlier
-- Trust increases across the system
-- Planning shifts from guessing to evidence
+* Risk is surfaced earlier
+* Trust improves because commitments are honoured
+* Plans adapt without blame
+* Learning accelerates without loss of accountability
 
-## Trade-offs
+### Trade-offs
 
-- Delays commitment until confidence exists
-- Requires patience from leadership
-- Demands explicit learning investment
+* Reduces early certainty
+* Requires leaders to tolerate ambiguity
+* Demands clearer communication of confidence levels
 
-## Related Patterns
+### Related Patterns
 
-- Outcome Over Output
-- Deliberate Time for Reflection
-- Commitments vs Aspirations
+* Incremental & Reversible Commitment
+* Outcome Over Output
+* Adaptive Funding and Budgeting
+* Governance as Sensing
