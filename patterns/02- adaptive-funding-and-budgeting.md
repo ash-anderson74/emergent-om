@@ -1,64 +1,97 @@
-# Adaptive Funding Over Deterministic Budgeting
+# Pattern: Adaptive Funding Over Deterministic Budgeting
 
-## Context
+### Intent
 
-Traditional budgeting assumes that scope, effort, and value can be forecast accurately in advance.
+Align investment decisions with learning under uncertainty, rather than locking organisations into commitments based on speculative plans.
 
-This assumption rarely holds in environments with high uncertainty, rapid change, or innovation-driven work.
+### Context
 
-## Problem
+This pattern applies in environments where:
 
-Deterministic budgets lock organizations into decisions made with insufficient information.
+* outcomes cannot be predicted reliably upfront
+* work spans multiple quarters
+* value emerges through discovery and iteration
 
-Consequences include:
+Traditional annual budgeting assumes certainty that does not exist in these domains.
 
-- sunk-cost fallacies
-- over-investment in low-value work
-- under-investment in learning
-- inability to stop or pivot safely
+### System Problem
 
-Funding becomes a constraint on adaptation.
+When funding is allocated upfront and tied to scope:
 
-## Forces
+* learning threatens continuation
+* stopping early is punished
+* sunk cost bias dominates decisions
+* bad investments persist too long
 
-- Finance systems prioritize predictability
-- Leaders seek accountability
-- Annual cycles reinforce early commitment
-- Learning happens after money is spent
-- Stopping work carries social and political cost
+Funding becomes a mechanism for enforcing plans rather than adapting to evidence.
 
-## Solution
+### Forces at Play
 
-Fund work as a **series of learning bets**, not fixed projects.
+* Annual financial cycles
+* Capital allocation governance
+* Desire for predictability and control
+* Fear of appearing indecisive
 
-Allocate investment incrementally, based on:
+These forces favour irreversible commitment.
 
-- hypotheses about value
-- evidence from discovery and delivery
-- reduction of uncertainty over time
+### EOM Position
 
-Funding increases as confidence increases.
+This pattern expresses the EOM invariants of:
 
-## Result
+* **Incremental and Reversible Commitment**
+* **Governance as Sensing, Not Control**
+* **Evidence Over Opinion**
 
-- Financial risk is reduced
-- Learning is treated as legitimate work
-- Investment follows evidence, not optimism
-- Stopping low-signal work becomes acceptable
+It ensures that **funding remains a learning loop**, not a locking mechanism.
 
-## Trade-offs
+### The Pattern
 
-- Requires changes to governance expectations
-- Forecasting becomes probabilistic, not exact
-- Demands trust and transparency
+Investment is treated as a **series of conditional decisions**, not a one-time approval.
 
-## Notes
+Funding:
 
-Adaptive funding does not remove fiscal discipline.  
-It replaces predictive certainty with empirical confidence.
+* is released in tranches
+* is contingent on learning, not delivery
+* can be redirected or withdrawn without stigma
 
-## Related Patterns
+The question governing funding decisions becomes:
 
-- Outcome Over Output
-- Commitments vs Aspirations
-- Flow as Diagnostic Signals
+> “What did we learn, and what does that justify doing next?”
+
+### Example
+
+Instead of:
+
+> “Approve £5m to deliver Programme X”
+
+The system frames:
+
+> “Approve £500k to test the riskiest assumptions behind Programme X, with explicit criteria for continuation or termination.”
+
+Continuation is earned through evidence, not momentum.
+
+### Signals This Pattern Is Holding
+
+* Teams can recommend stopping without reputational damage
+* Funding decisions reference learning explicitly
+* Portfolio composition changes over time
+* Fewer “too big to stop” initiatives
+
+### Anti-Patterns
+
+* Fixed annual budgets in high-uncertainty domains
+* Funding tied to delivery milestones
+* Treating spending as progress
+* Learning reported separately from investment decisions
+
+### Trade-offs
+
+* Requires more frequent decision-making
+* Feels uncomfortable to control-oriented cultures
+* Demands financial literacy across leadership
+
+### Related EOM Material
+
+* Essay: _Fear, Control, and Learning in Institutional Systems_
+* Playbook: Adaptive Funding and Metered Investment
+* Diagnostic: Public Commitment & Narrative Debt
