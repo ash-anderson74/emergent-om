@@ -14,6 +14,7 @@
 * [Pattern: Visualise Work](10-visuliaze-work.md)
 * [Pattern: Flow First](11-flow-first.md)
 * [Pattern: Collaborative Improvement](12-improve-collaboratively.md)
+* [Pattern: Continuous Discovery, Not Front-Loaded Certainty](pattern-continuous-discovery-not-front-loaded-certainty.md)
 * [Pattern: Continuous Delivery](13-deliver-continuously.md)
 * [Pattern: Meaningful Measurement](14-measure-what-matters.md)
 * [Pattern: Coaching Culture](15-coaching-culture.md)
@@ -36,4 +37,3 @@
   * [Anti-Pattern: Local Optimization Masquerading as Alignment](anti-patterns/anti-pattern-local-optimization-masquerading-as-alignment.md)
   * [Anti-Pattern: Outcome-Wrapped Feature Plans](anti-patterns/anti-pattern-outcome-wrapped-feature-plans.md)
   * [Anti-Pattern: Metrics as Targets](anti-patterns/anti-pattern-metrics-as-targets.md)
-* [Pattern: Continuous Discovery, Not Front-Loaded Certainty](pattern-continuous-discovery-not-front-loaded-certainty.md)
