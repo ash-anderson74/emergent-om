@@ -31,6 +31,7 @@
 * [Why Outcomes Invite Learning — and Outputs Suppress It](outcomes-flow-and-predictability/why-outcomes-invite-learning-and-outputs-suppress-it.md)
 * [OKRs, KPIs, and Value Delivery in an Emergent System](outcomes-flow-and-predictability/okrs-kpis-and-value-delivery-in-an-emergent-system.md)
 * [Seeking the Right Thing: Outcomes as Constraints in an Emergent Operating Model](outcomes-flow-and-predictability/seeking-the-right-thing-outcomes-as-constraints-in-an-emergent-operating-model.md)
+* [Why Discovery Can’t Be Finished](outcomes-flow-and-predictability/why-discovery-cant-be-finished.md)
 * [Known Features Do Not Make Delivery Predictable](outcomes-flow-and-predictability/known-features-do-not-make-delivery-predictable.md)
 * [Why Feature Roadmaps Feel Safer Than They Are](outcomes-flow-and-predictability/why-feature-roadmaps-feel-safer-than-they-are.md)
 * [Planning Without Lying to Yourself](outcomes-flow-and-predictability/planning-without-lying-to-yourself.md)
