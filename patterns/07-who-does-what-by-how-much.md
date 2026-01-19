@@ -1,68 +1,136 @@
+---
+description: (Outcome Hypotheses via Aspirational OKRs)
+---
+
 # Pattern: Who Does What By How Much
 
 ### Context
 
-Organisations adopt outcome frameworks (e.g. OKRs) to escape output fixation.
+EOM environments require goals that guide **learning under uncertainty**, not just execution.
+
+OKRs are widely adopted to enable outcome-oriented thinking, but are frequently reduced to **feature plans with metrics attached**. When this happens, OKRs lose their function as learning instruments.
+
+This pattern clarifies how OKRs function in EOM **before high-integrity commitment is possible**.
+
+***
 
 ### Problem
 
-Outcomes are often articulated vaguely:
+Teams often write OKRs that:
 
-* aspirations replace hypotheses
-* key results describe activity
-* metrics track effort, not change
-* learning is obscured by reporting
+* describe delivery activity rather than change
+* assume outcomes rather than test them
+* optimise reporting over learning
+* create confidence theatre without evidence
 
-Outcomes exist in language, not behaviour.
+The organisation appears outcome-driven while remaining behaviourally output-driven.
 
-### EOM Interpretation
+***
 
-An outcome is only useful if it **constrains decision-making**.
+### Forces
 
-EOM treats outcomes as _testable hypotheses_ about system behaviour.
+* Leaders want measurable progress without micromanagement
+* Teams need clarity while retaining autonomy
+* Outcomes are harder to specify than features
+* Pressure for predictability encourages premature certainty
+
+***
 
 ### Solution
 
-Express outcomes as observable change using:
+Frame aspirational OKRs as **explicit learning hypotheses** using the structure:
 
-**Who → Does What → By How Much**
+> **Who**\
+> **Does What**\
+> **By How Much**
 
-This framing forces clarity around:
+This structure is not a formatting trick.\
+It forces the team to make the underlying hypothesis explicit:
 
-* **who:** the affected actor
-* **does what:** the behavioural or capability shift
-* **by how much:** the evidence threshold for learning
+> _“If we do X, we believe Y behaviour will change by Z.”_
 
-### Example
+Aspirational OKRs are **not commitments**.\
+They are vehicles for discovery.
 
-❌ _Improve onboarding experience_\
-❌ _Deliver new onboarding flow_
+***
 
-✅ _New users complete first transaction within 24 hours, increasing from 40% to 55%_
+### Example: Outcome Hypothesis vs Output Plan
 
-The team is free to choose _how_ — but not free to avoid learning.
+#### ❌ Anti-Pattern: Feature-Centric OKRs
 
-### Results
+**Objective**\
+Deliver the new payments platform
 
-* outcomes constrain solution space without prescribing it
-* metrics become learning signals
-* teams adapt tactics without re-approval
-* confidence grows through evidence
+**Key Results**
+
+* Build payment service
+* Integrate with billing
+* Migrate 60% of users
+* Achieve 99.9% uptime
+
+**What’s wrong**
+
+* Assumes value is delivered by completion
+* Measures work done, not impact
+* Treats certainty as given
+* Learning is incidental, not intentional
+
+***
+
+#### ✅ EOM Pattern: Aspirational, Hypothesis-Driven OKRs
+
+**Objective**\
+Reduce payment friction for existing customers
+
+**Key Results**
+
+* **80% of existing customers**\
+  **complete a payment successfully**\
+  **on first attempt**
+* **Customer support tickets related to failed payments**\
+  **reduce by 40%**
+* **Median payment completion time**\
+  **reduces from 45s to under 20s**
+
+**What this enables**
+
+* Makes success observable
+* Keeps solution open
+* Allows learning to invalidate assumptions
+* Enables course correction without failure narrative
+
+***
+
+### Resulting Behaviour
+
+* Teams seek evidence rather than reassurance
+* Discovery and delivery interleave naturally
+* Metrics regain their role as signals
+* Learning becomes progress
+
+***
 
 ### Trade-offs
 
-* harder conversations upfront
-* delayed gratification vs delivery theatre
-* requires leadership comfort with ambiguity
+* Requires discipline in phrasing
+* Behavioural signals may lag delivery
+* Stakeholders must tolerate ambiguity
 
-### Anti-Patterns
+These are **desirable tensions**, not flaws.
 
-* outcome language with fixed scope
-* numeric targets tied to reward
-* pretending lagging indicators drive learning
+***
 
-### Relationship to EOM
+### EOM Relationship
 
-* Anchors _Outcomes Over Outputs_
-* Enables _Evidence Over Opinion_
-* Supports _Adaptive Governance_
+* **Principle:** Learning Over Certainty
+* **Invariant:** Incremental & Reversible Commitment
+* **Cadence:** Pre-commitment learning within the EOM Learning Cycle
+
+***
+
+### Related Patterns
+
+* Outcome Over Output
+* Operate Around Outcomes
+* Confidence-Based Sizing
+* Continuous Discovery
