@@ -112,4 +112,5 @@ Not feature parity.
 
 * Essay: _Why Feature Roadmaps Feel Safer Than They Are_
 * Pattern: Outcome Over Output
+* Pattern: Who Does What By How Much
 * Diagnostic: Incremental & Reversible Commitment
