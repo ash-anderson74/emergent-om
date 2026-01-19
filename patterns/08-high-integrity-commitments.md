@@ -1,60 +1,144 @@
+---
+description: (OKRs as Commitments After Learning)
+---
+
 # Pattern: High Integrity Commitments
 
 ### Context
 
-Organizations routinely make commitments in environments where uncertainty is high and learning is incomplete.
+Not all work can remain exploratory.
 
-Despite this, planning and governance mechanisms often treat all commitments as equal and equally binding, regardless of evidential confidence.
+Regulatory, contractual, safety, or market obligations sometimes require **guarantees**, not aspirations. EOM does not reject commitments — it **restricts when they are made**.
+
+This pattern describes when OKRs legitimately transition from learning instruments to commitments.
+
+***
 
 ### Problem
 
-When commitments are made prematurely:
+Organisations routinely treat all OKRs as commitments, regardless of uncertainty.
 
-* uncertainty is hidden rather than reduced
-* plans harden before learning occurs
-* teams defend commitments instead of updating them
-* risk accumulates silently
-* trust erodes when commitments inevitably fail
+This leads to:
 
-The organization optimizes for appearing certain rather than becoming confident.
+* defensive planning
+* scope locking
+* fear of revision
+* delayed risk discovery
+* erosion of trust
+
+Commitments are made before confidence exists.
+
+***
 
 ### Forces
 
-* Leadership seeks predictability and reassurance
-* Governance systems reward commitment over learning
-* Public plans create reputational risk
-* Funding models favour upfront certainty
-* Admitting uncertainty feels unsafe
+* Leadership demands assurance
+* Teams want to appear reliable
+* Early certainty feels responsible
+* Learning is misinterpreted as hesitation
+
+***
 
 ### Solution
 
-Distinguish explicitly between **aspirational intent** and **high-integrity commitment**.
+Use OKRs **differently** depending on certainty:
 
-In EOM:
+#### Two Modes of OKRs in EOM
 
-* High-integrity commitments are made **only when sufficient learning exists**
-* Most early work is framed as hypotheses, not promises
-* Commitments are incremental and reversible by design
-* Confidence is earned through evidence, not declaration
+| Mode                    | Purpose              | Nature      |
+| ----------------------- | -------------------- | ----------- |
+| **Aspirational OKRs**   | Learning & discovery | Hypotheses  |
+| **High-Integrity OKRs** | Guarantees           | Commitments |
 
-Commitment becomes an outcome of learning, not a substitute for it.
+High-integrity OKRs are only valid **after learning has reduced uncertainty**.
 
-### Result
+***
 
-* Risk is surfaced earlier
-* Trust improves because commitments are honoured
-* Plans adapt without blame
-* Learning accelerates without loss of accountability
+### When an OKR Becomes a Commitment
+
+An OKR may be treated as a **high-integrity commitment** when:
+
+* feasibility is evidenced
+* major risks are retired
+* scope is intentionally constrained
+* adaptability loss is acknowledged
+* dependencies are understood, not assumed
+
+Until then, OKRs remain aspirational.
+
+***
+
+### Example: Same Work, Different Integrity
+
+#### ❌ Anti-Pattern: Premature Commitment
+
+**Objective**\
+Migrate customers to the new platform
+
+**Key Results**
+
+* Migrate 70% of customers by Q3
+* Decommission legacy platform
+
+**Why this fails**
+
+* Assumes migration effort and risk
+* Forces delivery theatre
+* Punishes learning
+* Creates political pressure to continue
+
+***
+
+#### ✅ EOM Pattern: Learning → Commitment Transition
+
+**Quarter 1 (Aspirational)**\
+Objective: Understand feasibility of customer migration
+
+* Identify top 5 migration risks
+* Validate automated migration path for one segment
+* Achieve <2% failure rate in pilot cohort
+
+**Quarter 2 (High-Integrity Commitment)**\
+Objective: Safely migrate core customer segments
+
+* Migrate **50% of eligible customers**
+* Maintain **no increase in support volume**
+* Rollback capability remains available
+
+Commitment is made **only after learning validates delivery**.
+
+***
+
+### Resulting Behaviour
+
+* Confidence replaces confidence theatre
+* Risk is addressed earlier
+* Stopping or adjusting remains legitimate
+* Trust increases system-wide
+
+***
 
 ### Trade-offs
 
-* Reduces early certainty
-* Requires leaders to tolerate ambiguity
-* Demands clearer communication of confidence levels
+* Commitments appear later
+* Leadership must tolerate learning phases
+* Planning is evidence-gated
+
+This is the cost of reliability in complexity.
+
+***
+
+### EOM Relationship
+
+* **Principle:** Incremental & Reversible Commitment
+* **Invariant:** Learning Precedes Commitment
+* **Cadence:** Commitment events align with validated learning
+
+***
 
 ### Related Patterns
 
-* Incremental & Reversible Commitment
-* Outcome Over Output
-* Adaptive Funding and Budgeting
+* Commitments vs Aspirations
+* Adaptive Funding
 * Governance as Sensing
+* Planning Without Lying to Yourself
