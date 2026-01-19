@@ -9,7 +9,7 @@ Yet many organisations continue to structure work as:
 * a discovery phase “up front”
 * followed by a delivery phase “to execute the findings”
 
-This pattern—often labelled _Big Up-Front Discovery (BUFD)_—is attractive because it promises certainty before commitment. It creates the appearance of control while deferring engagement with real risk.
+This pattern—often labelled _Big Up-Front Design/Discovery (BUFD)_—is attractive because it promises certainty before commitment. It creates the appearance of control while deferring engagement with real risk.
 
 In EOM terms, BUFD attempts to **borrow certainty from analysis rather than earn it through learning**.
 
