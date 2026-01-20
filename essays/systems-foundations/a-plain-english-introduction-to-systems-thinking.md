@@ -1,5 +1,5 @@
 ---
-description: (And Why It Matters for EmergentOS)
+description: (And Why It Matters for the Emergent Operating Model)
 ---
 
 # A Plain-English Introduction to Systems Thinking
