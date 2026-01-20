@@ -89,7 +89,7 @@ Mandating cross-functional teams without addressing underlying constraints leads
 
 The structure appears correct, but the system behaves the same.
 
-This is why EmergentOS avoids structural prescription.
+This is why EOM avoids structural prescription.
 
 Not because structure doesn’t matter,\
 but because **structure without constraints is theatre**.
