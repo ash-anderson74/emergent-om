@@ -32,7 +32,7 @@ Cybernetics and systems theory reinforce the same insight from a different angle
 
 Organisational design and operations research apply this daily, often implicitly. Funding models shape priorities. Metrics shape optimisation. Governance shapes risk-taking. Reporting lines shape ownership. These effects are well known — if rarely named explicitly.
 
-EmergentOS simply connects these ideas and makes the implication unavoidable.
+EOM simply connects these ideas and makes the implication unavoidable.
 
 ***
 
