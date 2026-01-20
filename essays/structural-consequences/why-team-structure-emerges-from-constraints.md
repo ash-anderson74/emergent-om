@@ -74,7 +74,7 @@ Cross-functional teams reduce:
 They shorten feedback loops and make learning visible at the point of action.
 
 They are not superior by definition.\
-They are superior **under specific constraints**—the same constraints EmergentOS makes explicit.
+They are superior **under specific constraints**—the same constraints EOM makes explicit.
 
 ***
 
