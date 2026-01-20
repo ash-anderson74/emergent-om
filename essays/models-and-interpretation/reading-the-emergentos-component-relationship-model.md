@@ -1,6 +1,6 @@
 # Reading the EOM Component Relationship Model
 
-![EmergentOS Component Relationship Model](../.gitbook/assets/eos-component-relationship-model.png)
+![EOM Component Relationship Model](../.gitbook/assets/eos-component-relationship-model.png)
 
 The Emergent Operating Model (EOM) component relationship diagram is often mistaken for an architecture, a process, or an implementation blueprint.
 
