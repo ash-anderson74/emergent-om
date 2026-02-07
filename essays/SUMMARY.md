@@ -37,6 +37,7 @@
 * [Planning Without Lying to Yourself](outcomes-flow-and-predictability/planning-without-lying-to-yourself.md)
 * [Why Product Managers Should Stop “Managing Dependencies”](outcomes-flow-and-predictability/why-product-managers-should-stop-managing-dependencies.md)
 * [Why Size Is About What You Don’t Know](outcomes-flow-and-predictability/why-size-is-about-what-you-dont-know.md)
+* [When Outcomes Feel Impossible: Staying Outcome-Led While Building “Required” Features](outcomes-flow-and-predictability/when-outcomes-feel-impossible-staying-outcome-led-while-building-required-features.md)
 
 ## Fear, Control, and Defensibility
 
