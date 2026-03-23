@@ -112,8 +112,3 @@ It does not promise certainty.\
 It enables learning.
 
 Its value lies not in adoption, but in **continued alignment between intent, behaviour, and evidence**.
-
-It does not promise certainty.\
-It enables learning.
-
-Its value lies not in adoption, but in **continued alignment between intent, behaviour, and evidence**.
