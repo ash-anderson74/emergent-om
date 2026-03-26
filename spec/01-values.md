@@ -14,14 +14,14 @@ Misalignment between stated values and observed behaviour is treated as a **sign
 
 ## How Values Relate to Principles
 
-The relationship between principles and values in EmergentOS is intentional and distinct:
+The relationship between principles and values in EOM is intentional and distinct:
 
 * **Principles** define what must be true for the system to remain adaptive.
 * **Values** guide how people act when applying those principles in real situations.
 * **Practices and patterns** are contextual expressions of both, shaped by environment and maturity.
 
 Values do not override principles, and principles are not sufficient without values.\
-Together, they ensure that EmergentOS is not only coherent, but livable.
+Together, they ensure that EOM is not only coherent, but livable.
 
 ***
 
