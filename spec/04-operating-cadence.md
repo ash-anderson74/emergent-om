@@ -31,7 +31,7 @@ Team-level practices (such as sprints, stand-ups, or refinement sessions):
 
 * are intentionally left to team discretion
 * may vary across the organization
-* are not mandated by EmergentOS
+* are not mandated by EOM
 
 This separation preserves autonomy while maintaining coherence at the system level.
 
@@ -49,7 +49,7 @@ The system is considered healthy only when _all_ loops are present and functioni
 
 ### 1. Strategic Learning and Commitment Cadence (Quarterly)
 
-This is the primary coordinating cadence of EmergentOS.
+This is the primary coordinating cadence of EOM.
 
 At regular intervals (typically quarterly), the organization:
 
@@ -184,7 +184,7 @@ This cadence answers:
 
 ## Cadence Design Principles
 
-Operating cadence in EmergentOS follows these principles:
+Operating cadence in EOM follows these principles:
 
 * **Cadence creates alignment without synchronization**\
   Teams do not need to operate on the same delivery rhythm to remain aligned.
