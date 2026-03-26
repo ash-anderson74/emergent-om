@@ -207,7 +207,7 @@ The following patterns indicate misuse of cadence:
 * using cadence to enforce compliance rather than enable learning
 * measuring cadence success by activity rather than insight gained
 
-EmergentOS treats these as structural risks rather than execution failures.
+EOM treats these as structural risks rather than execution failures.
 
 ***
 
