@@ -6,6 +6,7 @@
 
 * [The Emergent Operating Model: A Board-Level Explanation](orientation-and-context/emergerntos-a-board-level-explanation.md)
 * [Why the Emergent Operating Model Exists](orientation-and-context/why-emergentos-exists.md)
+* [The System Is Producing Exactly What It Was Designed To Produce](orientation-and-context/the-system-is-producing-exactly-what-it-was-designed-to-produce.md)
 
 ## Systems Foundations
 
