@@ -1,4 +1,8 @@
-# The System Is Producing Exactly What It Was Designed To Produce
+---
+description: The System Is Producing Exactly What It Was Designed To Produce
+---
+
+# Rational Behaviour, Irrational Results
 
 Most organisations spend an extraordinary amount of energy trying to change people's behaviour.
 
