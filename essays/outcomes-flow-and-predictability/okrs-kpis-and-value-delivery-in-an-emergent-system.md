@@ -116,9 +116,33 @@ They exist to answer a single question:
 
 Where KPIs protect system viability, key results inform system evolution.
 
+***
+
+### Value Delivery and Evidence of Value Delivery
+
 Value delivery and evidence of value delivery are not the same thing.
 
-OKRs and key results primarily generate evidence that informs future decisions. Actual value emerges only when changes in behaviour, outcomes, or system conditions are realised in the world.
+Within an EOM-aligned system, OKRs and key results primarily generate **evidence** that informs future decisions. They help the organisation understand whether interventions appear to be changing behaviour, outcomes, or system conditions in the desired direction.
+
+This evidence may increase confidence that value is emerging, but it is not value itself.
+
+Actual value is realised only when meaningful changes occur in the world:
+
+* customers solve problems more effectively
+* organisations improve desired outcomes
+* risk is reduced
+* capabilities are strengthened
+* resources are used more effectively
+
+In complex systems, these effects often emerge after delivery and may not be fully observable at the point decisions are made.
+
+For this reason, EOM treats key results as **signals of learning and adaptation**, not direct measures of value.
+
+Confusing evidence with value creates a common failure mode:
+
+> progress appears visible, while actual value remains uncertain.
+
+The purpose of OKRs is therefore not to prove value exists, but to generate the evidence required to make better decisions about where value may emerge next.
 
 ***
 
