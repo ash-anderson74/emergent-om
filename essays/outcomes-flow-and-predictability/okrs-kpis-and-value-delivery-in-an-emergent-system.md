@@ -116,6 +116,10 @@ They exist to answer a single question:
 
 Where KPIs protect system viability, key results inform system evolution.
 
+Value delivery and evidence of value delivery are not the same thing.
+
+OKRs and key results primarily generate evidence that informs future decisions. Actual value emerges only when changes in behaviour, outcomes, or system conditions are realised in the world.
+
 ***
 
 ### Separation of System Layers
