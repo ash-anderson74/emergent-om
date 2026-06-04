@@ -1,4 +1,4 @@
-# Pattern: Coaching Culture
+# Pattern: Coaching-Led Leadership
 
 ### Intent
 
@@ -6,6 +6,10 @@ To enable learning, accountability, and adaptability at scale by treating leader
 
 Within the Emergent Operating Model (EOM), coaching culture is not optional “good leadership behaviour”.\
 It is a **system necessity** when outcomes are uncertain and cannot be directed into existence.
+
+> **Lineage Note**
+>
+> The intent-based leadership concepts in this pattern are influenced by David Marquet's work in _Turn the Ship Around!_, which demonstrated how authority can be moved closer to information and expertise. EOM extends this idea through a systems-thinking lens, viewing leadership not only as the distribution of authority but as the design of constraints, feedback loops, and learning conditions that enable adaptation in complex environments.
 
 ***
 
