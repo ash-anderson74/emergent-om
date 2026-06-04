@@ -17,7 +17,7 @@ Learning without value creation becomes abstraction.
 
 When EOM describes learning as “governing” the system, it does not mean that learning defines purpose. It means that learning governs **how the system adapts** in pursuit of that purpose.
 
-Customer value remains the reference point.
+Customer value remains the primary reference point, while business viability and organisational capability provide essential constraints.
 
 Learning is the mechanism by which the organisation:
 
