@@ -106,5 +106,10 @@ The following works have informed the principles, assumptions, and patterns desc
 ## Management Thinking
 
 * Edmondson, A.C.\
-  The fearless organization: Creating psychological safety in the workplace for learning, innovation, and growth.\
+  &#xNAN;_&#x54;he fearless organization: Creating psychological safety in the workplace for learning, innovation, and growth._\
   John Wiley & Sons, Inc., 2019.
+* L David Marquet. \
+  &#xNAN;_&#x54;urn the ship around! : how to create leadership at every level_. \
+  Austin, Tex.: Greenleaf Book Group Press. 2012
+
+‌
