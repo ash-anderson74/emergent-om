@@ -111,5 +111,13 @@ The following works have informed the principles, assumptions, and patterns desc
 * L David Marquet. \
   &#xNAN;_&#x54;urn the ship around! : how to create leadership at every level_. \
   Austin, Tex.: Greenleaf Book Group Press. 2012
+* L David Marquet. \
+  &#xNAN;_&#x4C;eadership is language : the hidden power of what you say, and what you don’t_. \
+  New York: Portfolio/Penguin. 2020.
+* Schwartz, M.\
+  &#xNAN;_&#x41; seat at the table : IT leadership in the age of agility_. \
+  Portland, Oregon: It Revolution. 2017
+
+‌
 
 ‌
