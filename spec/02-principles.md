@@ -78,7 +78,7 @@ Work is paced to maintain resilience, quality, and human sustainability. The sys
 
 In addition to its principles, the **Emergent Operating Model defines a small number of explicit system invariants**.
 
-These invariants protect the integrity of the operating model and prevent it from collapsing into prescriptive frameworks or deterministic control models.
+These invariants define the compatibility conditions of the Emergent Operating Model. Together, they protect the integrity of the operating model by preventing it from collapsing into prescriptive methodologies, deterministic control models, or forms of local optimisation that undermine system adaptability.
 
 _Invariants define what must remain true; local constraints are how organisations uphold them in practice._
 
@@ -88,7 +88,7 @@ _Invariants define what must remain true; local constraints are how organisation
 
 EOM does not mandate delivery methodologies, frameworks, or ceremonies.
 
-Teams may employ any approach—Agile or otherwise—that suits their context, provided it aligns with the core principles of learning, outcomes, and flow.
+Teams may employ any approach—Agile or otherwise—that suits their context, provided it does not violate the principles or invariants.
 
 If a chosen method impedes learning or constrains outcomes, it is expected to evolve or be replaced.
 
@@ -98,6 +98,8 @@ If a chosen method impedes learning or constrains outcomes, it is expected to ev
 
 Commitments are intentionally incremental and reversible wherever uncertainty exists.
 
+The level of commitment should remain proportional to the level of validated knowledge. Where uncertainty remains, optionality should be preserved.\
+\
 Large, irreversible decisions without sufficient learning are treated as sources of systemic risk.
 
 ***
@@ -120,9 +122,9 @@ They represent patterns that have repeatedly proven effective under similar cons
 
 ### E. Structural Coherence Over Uniformity
 
-EOM favors coherence through shared principles over uniformity through standardization.
+**Local adaptation is permitted provided system-level intent, learning, and accountability remain intact.**
 
-Local adaptation is encouraged, provided system-level intent, learning, and accountability remain intact.
+EOM favours coherence through shared principles over uniformity through standardisation.
 
 ***
 
