@@ -49,6 +49,7 @@
 
 ## Psychological Safety and Leadership
 
+* [The CIO's Paradox: Why Proving Value Often Prevents It](psychological-safety-and-leadership/the-cios-paradox-why-proving-value-often-prevents-it.md)
 * [Why Psychological Safety Emerges — or Disappears — by Design](psychological-safety-and-leadership/why-psychological-safety-emerges-or-disappears-by-design.md)
 * [Psychological Safety at the Executive Level](psychological-safety-and-leadership/psychological-safety-at-the-executive-level.md)
 
