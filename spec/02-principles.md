@@ -74,7 +74,7 @@ Work is paced to maintain resilience, quality, and human sustainability. The sys
 
 ***
 
-## System Invariants (Conditions of Compatibility)
+## System Invariants
 
 In addition to its principles, the **Emergent Operating Model defines a small number of explicit system invariants**.
 
