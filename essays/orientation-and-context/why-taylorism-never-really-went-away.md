@@ -90,23 +90,16 @@ Scientific Management sought to optimise execution because execution was the dom
 
 Modern product organisations often inherit that instinct without questioning whether the constraint has changed.
 
-Delivery becomes faster.
+* Delivery becomes faster.
+* Processes become leaner.
+* Teams increase throughput.
+* Deployment frequency improves.
 
-Processes become leaner.
-
-Teams increase throughput.
-
-Deployment frequency improves.
-
-Each achievement is valuable in its own right.
-
-None necessarily increases value.
+Each achievement is valuable in its own right; none necessarily increases value.
 
 Products rarely fail because software could not be built efficiently enough. More often they fail because organisations misunderstood customer needs, invested in incorrect assumptions, or continued pursuing initiatives long after evidence suggested they should change direction.
 
-The limiting factor is frequently not execution.
-
-It is understanding.
+The limiting factor is frequently not execution; it is understanding.
 
 Optimising execution when understanding is the primary constraint resembles making a wrong turn more efficiently. Progress becomes increasingly impressive while moving steadily away from the desired destination.
 
@@ -144,11 +137,7 @@ Taylorism seldom announces itself explicitly. It appears through patterns of beh
 
 It is present when governance exists primarily to approve work rather than understand it. It appears when business cases attempt to justify investments with a level of precision unsupported by available evidence. It can be seen when delivery metrics quietly become performance targets, encouraging teams to optimise measures rather than outcomes. It emerges whenever success is defined by completing planned work instead of discovering whether the work was worth doing.
 
-None of these practices are inherently wrong.
-
-Indeed, each may be entirely appropriate within stable operational environments where objectives are well understood and variation genuinely represents inefficiency.
-
-The danger lies in applying the same assumptions to environments characterised by uncertainty, discovery and continual change.
+None of these practices are inherently wrong. Indeed, each may be entirely appropriate within stable operational environments where objectives are well understood and variation genuinely represents inefficiency. The danger lies in applying the same assumptions to environments characterised by uncertainty, discovery and continual change.
 
 The question is therefore not whether Taylorism is good or bad.
 
@@ -172,9 +161,7 @@ Where certainty exists, organisations can and should make strong commitments.
 
 Where uncertainty dominates, preserving options becomes a form of risk management rather than indecision.
 
-These are not procedural adjustments.
-
-They represent a fundamentally different philosophy of management.
+These are not procedural adjustments. They represent a fundamentally different philosophy of management.
 
 ### Guarding Against an Enduring Legacy
 

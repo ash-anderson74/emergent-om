@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Essays](README.md)
-* [Why Taylorism Never Really Went Away](why-taylorism-never-really-went-away.md)
 
 ## Orientation & Context
 
 * [The Emergent Operating Model: A Board-Level Explanation](orientation-and-context/emergerntos-a-board-level-explanation.md)
+* [Why Taylorism Never Really Went Away](orientation-and-context/why-taylorism-never-really-went-away.md)
 * [Why the Emergent Operating Model Exists](orientation-and-context/why-emergentos-exists.md)
 * [Rational Behaviour, Irrational Results](orientation-and-context/rational-behaviour-irrational-results.md)
 
