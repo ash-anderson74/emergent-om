@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Essays](README.md)
+* [Why Taylorism Never Really Went Away](why-taylorism-never-really-went-away.md)
 
 ## Orientation & Context
 
