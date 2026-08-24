@@ -13,6 +13,8 @@ The purpose is not to correct people. It is to understand what the system is cau
 ***
 
 {% hint style="info" %}
+**Lineage note**
+
 Behaviour → Constraint Mapping combines the Local Rationality principle from safety science with systems-thinking inquiry into constraints, feedback, incentives and system structure, using a lightweight recursive questioning technique influenced by—but deliberately distinct from—5 Whys.
 {% endhint %}
 
