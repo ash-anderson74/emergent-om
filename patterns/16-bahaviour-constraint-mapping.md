@@ -15,7 +15,9 @@ The purpose is not to correct people. It is to understand what the system is cau
 {% hint style="info" %}
 **Lineage note**
 
-Behaviour → Constraint Mapping combines the Local Rationality principle from safety science with systems-thinking inquiry into constraints, feedback, incentives and system structure, using a lightweight recursive questioning technique influenced by—but deliberately distinct from—5 Whys.
+Behaviour → Constraint Mapping synthesises ideas from systems thinking, safety science and organisational learning. In particular, it draws on the principle of local rationality associated with safety science and Human and Organisational Performance; the systems-thinking proposition that persistent behaviour emerges from system structure; constraint-oriented approaches such as the Theory of Constraints; and recursive causal inquiry such as 5 Whys.
+
+The pattern does not claim these underlying principles as novel. Its contribution is to combine them into a lightweight diagnostic for examining persistent organisational behaviour and testing changes to the conditions that sustain it.
 {% endhint %}
 
 ***
