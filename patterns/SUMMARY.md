@@ -18,7 +18,7 @@
 * [Pattern: Continuous Delivery](13-deliver-continuously.md)
 * [Pattern: Meaningful Measurement](14-measure-what-matters.md)
 * [Pattern: Coaching-Led Leadership](15-coaching-culture.md)
-* [Pattern: Behaviour to Constraint Mapping](16-bahaviour-constraint-mapping.md)
+* [Pattern: Behaviour to Constraint Mapping](16-behaviour-constraint-mapping.md)
 * [Pattern: Hypothesis Backlog (Outcome-Led Roadmapping)](pattern-hypothesis-backlog-outcome-led-roadmapping.md)
 * [Pattern: Known Features, Unknown Delivery](pattern-known-features-unknown-delivery.md)
 * [Pattern: Replatforming Without Output Substitution](pattern-replatforming-without-output-substitution.md)
