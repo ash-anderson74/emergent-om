@@ -1,197 +1,287 @@
-# Why Root Cause Analysis Fails in Social Systems
+# Why Root Cause Thinking Breaks Down in Social Systems
 
-Root cause analysis works well in mechanical systems.\
-It often fails in social systems.
+Root cause analysis is attractive because it promises clarity. Something went wrong, so we investigate what caused it, identify the underlying problem, remove it, and prevent recurrence.
 
-This failure is not due to poor technique or lack of rigour. It occurs because the underlying assumptions of root cause thinking do not hold when people, incentives, and power structures are involved.
+In relatively stable and decomposable systems, that logic can be useful. If a component fails in a repeatable way, if causal relationships are well understood, and if removing the defective condition reliably changes the outcome, then searching for a dominant cause may be entirely reasonable.
 
-The Emergent Operating Model (EOM) treats this not as a tooling problem, but as a category error.
+The difficulty begins when the same logic is carried into complex social systems.
 
-***
+Organisations are not machines assembled from independent parts. Behaviour emerges from the interaction of incentives, decision rights, risk, information, history, power, governance, habit, social norms, and adaptation. In those environments, the search for _the_ root cause can become misleading because it encourages a form of explanation that the system itself does not support.
 
-### The Promise of Root Cause Analysis
-
-Root cause analysis assumes:
-
-* there is a single or dominant cause
-* the cause precedes the effect
-* removing the cause removes the problem
-* causality is stable over time
-
-In tightly coupled technical systems, these assumptions frequently hold. A faulty component fails. It is replaced. The system stabilises.
-
-In social systems, they rarely do.
+The Emergent Operating Model therefore does not reject causal inquiry. It rejects the assumption that complex organisational behaviour can usually be reduced to a single, stable cause waiting to be found and removed.
 
 ***
 
-### Social Systems Are Not Linear
+#### The Appeal of the Root Cause
 
-In organisations, behaviour emerges from:
+The conventional root-cause story is simple:
 
-* incentives and disincentives
-* risk distribution
-* governance mechanisms
-* information latency
-* social norms
-* power asymmetries
-* historical precedent
+> Find the cause. Fix the cause. Remove the problem.
 
-No single factor “causes” behaviour in isolation.
+That logic rests, implicitly or explicitly, on several assumptions: that one cause is dominant enough to explain the outcome; that causal relationships are sufficiently stable to reconstruct; that the effect follows predictably from the cause; and that removing the cause will substantially reduce the probability of recurrence.
 
-What looks like a cause is usually a **reinforcing condition**, sustained by multiple interacting forces. Remove one, and the system compensates elsewhere.
+These assumptions are not always wrong. They are simply much less reliable in social systems.
 
-The behaviour persists.
+Suppose a team repeatedly takes on more work than its agreed WIP limit allows. It may be tempting to ask why the limit is being ignored and trace the answer downwards until something identifiable appears: poor prioritisation, weak discipline, an overbearing stakeholder, or perhaps a Product Owner who continues to add work.
 
-***
+The problem is that each of those answers may be true and still explain very little.
 
-### The Root Cause Trap
+The Product Owner may be accepting additional work because senior stakeholders can bypass normal prioritisation. The stakeholders may do so because their own commitments are tied to annual plans. Those plans may exist because funding decisions require early certainty. The funding model may persist because Finance needs predictability over expenditure. Meanwhile, blocked work cannot be completed because specialist capability sits elsewhere and approval takes days.
 
-When root cause analysis is applied to social systems, several predictable patterns emerge.
+No single factor causes the WIP breach.
 
-#### Root Causes Collapse Into People
-
-The inquiry drifts toward:
-
-* lack of discipline
-* poor communication
-* inadequate skills
-* resistance to change
-* weak leadership
-
-These conclusions feel plausible because they name something visible.
-
-They are also deeply unsafe.
-
-Once behaviour is attributed to people rather than systems:
-
-* fear increases
-* defensiveness rises
-* truth-telling declines
-* learning collapses
-
-The system becomes harder to understand, not easier.
+The behaviour emerges from the interaction.
 
 ***
 
-#### Root Causes Terminate at Authority
+#### Social Systems Produce Patterns, Not Simple Chains
 
-Another common stopping point is:
+In organisations, cause and effect are often circular rather than linear.
+
+Governance may demand certainty, so teams provide confident forecasts. Those forecasts then become the evidence governance uses to justify further demands for certainty. Measures introduced to improve performance alter behaviour around the measure. Workarounds created to cope with a constraint become embedded practices, which then influence future policy. A delay in one part of the organisation changes decision-making elsewhere, which produces more delay.
+
+The system adapts to itself.
+
+This is why the language of a single root can be problematic. What looks like a cause is often one reinforcing condition among several. Remove it and the behaviour may persist because the system has other ways of producing the same response.
+
+The more useful task is therefore not to prove that one factor sits at the bottom of the chain, but to understand enough of the interaction to explain why the current outcome continues to emerge.
+
+***
+
+#### When Root Causes Collapse Into People
+
+One of the most common problems with simplistic root-cause inquiry is that it eventually terminates in a judgement about people.
+
+A team missed a commitment because it estimated badly.
+
+A manager withheld information because they lacked transparency.
+
+Employees resisted the change because they had the wrong mindset.
+
+A department behaved defensively because leadership was weak.
+
+These explanations are attractive because they identify something visible and apparently actionable. If the problem is competence, train people. If it is communication, communicate more. If it is resistance, manage the resistance. If it is leadership, coach the leader.
+
+But when the same behavioural pattern appears repeatedly across capable people, teams, and time, an explanation based primarily on individual deficiency becomes progressively less convincing.
+
+This does not mean individuals cannot make poor decisions. They can. People can be careless, unethical, negligent, or simply wrong.
+
+The issue is one of explanatory sufficiency.
+
+Persistent behavioural patterns should not be explained primarily as failures of the individuals displaying them without first examining the conditions under which those behaviours make sense.
+
+***
+
+#### Authority Is Not a Root Cause
+
+Another common stopping point is authority.
 
 > “Because leadership requires it.”
 
-This ends inquiry without explanation.
+> “Because Finance insists on it.”
 
-It treats authority as an endpoint rather than a node within the system. It explains nothing about why leadership behaves as it does, or what constraints shape those expectations.
+> “Because Risk won't approve it.”
 
-The system remains opaque.
+> “Because the Product Owner keeps adding work.”
 
-***
+These may all be accurate observations, but none explains the system.
 
-#### Root Causes Invite Control Responses
+Authority is not outside the system. It is part of it.
 
-Once a “cause” is named, the response is usually corrective:
+If leadership insists on certainty, what makes certainty necessary or legitimate? If Finance requires early commitments, what decisions depend on them? If Risk withholds approval, what consequences does it carry for accepting uncertainty? If the Product Owner keeps adding work, what pressures, incentives, or expectations make refusal difficult?
 
-* training programmes
-* process reinforcement
-* tighter oversight
-* clearer expectations
-* stronger enforcement
+The inquiry should continue across the organisational boundary rather than stopping at it.
 
-These interventions rarely address the conditions that made the behaviour rational.
-
-As a result:
-
-* compliance increases briefly
-* workarounds multiply
-* resentment grows
-* the original behaviour returns under pressure
+This is one of the most important differences between root-cause thinking and systems inquiry. The objective is not to locate the organisational actor responsible for the behaviour. It is to understand what conditions shape the behaviour of all the actors involved.
 
 ***
 
-### Behaviour Is Not the Failure Mode
+#### The Problem Is Not “Why?” — It Is Where the Inquiry Stops
+
+There is nothing inherently wrong with asking why.
+
+The problem arises when each answer is treated as another step towards a terminal explanation.
+
+A sequence of “why?” questions can be useful if it expands the causal field rather than narrows it prematurely. Each answer should create further questions about the surrounding system: what alternatives were available, what risks were being managed, what information was missing, where decision rights sat, what other dependencies were involved, and what would have happened had someone acted differently.
+
+Consider:
+
+> Why did the team start another piece of work?
+
+A linear inquiry might conclude:
+
+> Because the Product Owner asked them to.
+
+A systems inquiry continues:
+
+Why was accepting the work easier than refusing it? What happened to the work already in progress? What authority did the team have to reject the request? What consequences would refusal have created? Why did the Product Owner need it started immediately? What conditions were they responding to?
+
+The question is still “why”.
+
+What changes is the shape of the inquiry.
+
+***
+
+#### Persistent Behaviour Is Evidence
 
 The Emergent Operating Model starts from a different premise:
 
-> Persistent behaviour is a signal of system design.
+> **Persistent behaviour is information about the system.**
 
-If a behaviour continues despite repeated intervention, it is almost certainly **protected by the system**.
+If the same pattern survives repeated interventions, that persistence is evidence that something in the surrounding system continues to reinforce, legitimise, reward, protect, or make the behaviour necessary.
 
-People are not the failure mode.\
-The operating conditions are.
+A WIP limit can be introduced without changing the demand arriving at the team.
 
-This does not absolve individuals of responsibility.\
-It relocates accountability to design.
+A new decision framework can be taught without moving decision rights.
 
-***
+Leaders can encourage experimentation while performance systems continue to punish failure.
 
-### Why “Why?” Is the Wrong Question
+Teams can be told to expose uncertainty while governance still requires confident forecasts.
 
-Asking “why did this happen?” assumes past causality will be sufficient.
+In each case, behaviour may initially change because people are responding to the intervention. Under pressure, however, the deeper operating conditions reassert themselves.
 
-In social systems, a better question is:
+The lesson is not necessarily that the people failed to adopt the change.
 
-> **What makes this behaviour the safest or most rational option available right now?**
-
-This question:
-
-* shifts attention from intent to constraint
-* preserves psychological safety
-* keeps inquiry open
-* surfaces incentives rather than justifications
-
-It does not look for a cause to eliminate.\
-It looks for conditions to change.
+It may be that the change never altered the conditions making the old behaviour rational.
 
 ***
 
-### Constraint Mapping Instead of Root Cause Analysis
+#### Causal Inquiry Without the Myth of a Root Cause
 
-Rather than tracing a linear chain of causes, EOM applies **Behaviour → Constraint Mapping**.
+Rejecting root-cause reductionism does not mean abandoning causality.
 
-This approach:
+EOM still asks causal questions. It still attempts to understand why patterns emerge and what conditions influence them. The difference is that any explanation remains provisional.
 
-* treats behaviour as information
-* assumes rationality within context
-* surfaces reinforcing conditions
-* identifies leverage points for change
-* avoids moral judgement
+A useful systems explanation might identify interacting conditions such as funding rules, decision rights, performance incentives, reporting expectations, information latency, and risk distribution. That explanation is not _the truth_ about the organisation. It is a model.
 
-The goal is not to be correct about the past.\
-The goal is to make different behaviour rational in the future.
+Its value lies in whether it helps the organisation learn.
 
-See: [**Behaviour → Constraint Mapping**](https://app.gitbook.com/s/yYdXGH2DtxmsDRcRRrNr/16-bahaviour-constraint-mapping)
+If one condition appears especially significant, it can be changed experimentally. If the model is useful, changing the constraint should alter the behaviour or some associated system signal. If nothing changes, the explanation was incomplete, the wrong constraint was selected, or another condition dominates.
+
+The inquiry therefore moves from certainty to hypothesis.
 
 ***
 
-### Learning Requires Abandoning the Myth of the Root Cause
+#### Behaviour to Constraint Mapping
 
-Root cause analysis offers certainty:
+This is the purpose of EOM's **Behaviour → Constraint Mapping** pattern.
 
-> _Find the cause. Fix it._
+Rather than tracing a linear chain towards a root cause, the pattern begins with an observed behaviour and works outwards into the system around it. It asks what makes the behaviour safe, legitimate, rewarded, or necessary; what prevents alternative behaviour; where risk sits; where decisions are made; and what lies beyond the control of the people displaying the behaviour.
 
-Learning requires discomfort:
+The objective is not to prove why something happened.
 
-> _Understand the system. Change the conditions._
+It is to develop a sufficiently useful explanation of the conditions that made the behaviour rational.
 
-In complex organisational environments, improvement does not come from discovering “the reason” something happened. It comes from redesigning the system so that the same outcome is no longer likely.
+From there, the organisation can identify a constraint worth testing.
 
-That requires abandoning the illusion that problems have single roots.
+The resulting loop is:
+
+> **Observe → Map → Hypothesise → Intervene → Observe → Update**
+
+This is fundamentally different from:
+
+> **Problem → Root cause → Fix**
+
+The first assumes that our understanding is incomplete and must be tested.
+
+The second too easily implies that the explanation has already been found.
+
+See: [**Behaviour → Constraint Mapping**](https://chatgpt.com/emergent-operating-model/patterns-and-anti-patterns/16-bahaviour-constraint-mapping.md)
 
 ***
 
-### In Closing
+#### Why Corrective Responses Often Disappoint
 
-Root cause analysis fails in social systems not because it is poorly executed, but because it seeks certainty where interaction dominates.
+The attraction of a root cause is partly that it implies an obvious intervention.
 
-The Emergent Operating Model replaces root cause thinking with constraint awareness.
+If the cause is poor communication, communicate more clearly.
 
-It does not ask:
+If the cause is inadequate skill, provide training.
 
-> _Who caused this?_
+If the cause is non-compliance, strengthen enforcement.
 
-It asks:
+If the cause is weak accountability, introduce more oversight.
 
-> **What made this inevitable — and what would need to change for it not to be?**
+Sometimes those responses are appropriate. But when the behaviour is being sustained by wider system conditions, corrective interventions tend to operate at the wrong level.
 
-That shift is not semantic.\
-It is the difference between blame and learning.
+People comply for a while. Workarounds appear. New terminology enters the organisation. The process looks different.
+
+Then pressure returns.
+
+The same behaviour reappears because the incentives, constraints, decision rights, or risks that produced it never disappeared.
+
+From a systems perspective, recurrence is not proof that the intervention needs to be enforced more strongly. It is evidence that the explanation may have been inadequate.
+
+***
+
+#### Explaining the Past Is Not Enough
+
+Root-cause analysis often looks backwards.
+
+What happened? Why did it happen? What should we fix so it does not happen again?
+
+That retrospective inquiry has value. Organisations should understand past events.
+
+But in complex social systems, the more important test is whether the explanation helps us influence what happens next.
+
+EOM therefore does not seek merely to construct a convincing account of the past. It tries to develop a useful enough model of the system to change the conditions shaping future behaviour.
+
+That distinction matters because retrospective stories can be highly coherent and still be wrong.
+
+Once an outcome is known, it is easy to produce a narrative that makes it appear inevitable. A systems approach should remain suspicious of that certainty.
+
+The model becomes meaningful when it generates a testable intervention.
+
+***
+
+#### From Explanation to Learning
+
+Consider again the team that repeatedly breaches its WIP limit.
+
+A root-cause conclusion might be:
+
+> “The team lacks discipline around WIP.”
+
+That explanation suggests coaching or enforcement.
+
+A constraint-based explanation might instead be:
+
+> The team accepts additional work because blocked items cannot be progressed without external approvals, urgent stakeholder requests can bypass prioritisation, and refusing those requests carries more organisational risk than breaching the WIP limit.
+
+That explanation suggests several possible hypotheses.
+
+Perhaps changing the escalation mechanism reduces incoming work.
+
+Perhaps moving an approval right changes blocked time.
+
+Perhaps making stakeholder bypass visible changes demand.
+
+Perhaps none of those changes affects behaviour, revealing that another constraint matters more.
+
+The point is not that the second explanation is automatically correct.
+
+It is that it gives the organisation something systemic to test.
+
+***
+
+#### In Closing
+
+The problem with root-cause thinking in social systems is not that causal inquiry is misguided. It is that the promise of a singular, stable, removable cause encourages more certainty than complex organisational behaviour usually warrants.
+
+Social systems produce outcomes through interaction. Incentives combine with governance. Risk combines with power. Information arrives late. Decisions alter the conditions of later decisions. People adapt to all of it.
+
+In that environment, the more useful question is rarely:
+
+> **“What is the root cause?”**
+
+It is:
+
+> **“What interacting conditions made this outcome or behaviour possible, rational, and persistent?”**
+
+The answer should not be treated as final. It should be treated as a hypothesis about the system.
+
+Change one of the conditions. Observe what happens. Update the explanation.
+
+The purpose of inquiry is not to locate something to blame or remove.
+
+It is to understand the system well enough to learn how changing it changes what it produces.

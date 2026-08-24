@@ -57,7 +57,7 @@
 ## Reversibility, Constraints, and Decision Quality
 
 * [What Reversibility Means in EOM](reversibility-constraints-and-decision-quality/what-reversibility-means-in-eom.md)
-* [Why Root Cause Analysis Fails in Social Systems](reversibility-constraints-and-decision-quality/why-root-cause-analysis-fails-in-social-systems.md)
+* [Why Root Cause Thinking Breaks Down in Social Systems](reversibility-constraints-and-decision-quality/why-root-cause-analysis-fails-in-social-systems.md)
 * [Why Won't Your Teams Behave?](reversibility-constraints-and-decision-quality/why-wont-your-teams-behave.md)
 
 ## Alignment Without Orchestration
