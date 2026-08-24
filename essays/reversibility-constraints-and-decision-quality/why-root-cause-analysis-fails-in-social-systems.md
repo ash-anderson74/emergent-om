@@ -186,7 +186,7 @@ The first assumes that our understanding is incomplete and must be tested.
 
 The second too easily implies that the explanation has already been found.
 
-See: [**Behaviour → Constraint Mapping**](https://chatgpt.com/emergent-operating-model/patterns-and-anti-patterns/16-bahaviour-constraint-mapping.md)
+See: [**Behaviour → Constraint Mapping**](https://app.gitbook.com/s/yYdXGH2DtxmsDRcRRrNr/16-bahaviour-constraint-mapping)
 
 ***
 
